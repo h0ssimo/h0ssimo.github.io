@@ -35,15 +35,18 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            hossim0
+facebook:           HosseinTN2
+instagram:          hosseinmoayed_
+github:             hossim0
+deviantart:         amnesia69
+linkedin:           hossimo
+artstation:         Hossimo
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Tehran, Iran
+phone:              000-000-0000
+email:              mn.hossein.x@gmail.com
 
 # Gems
 gems:
