@@ -1,10 +1,10 @@
 <section class="comments">
-        <div class="constrain--body">
+    <div class="constrain--body">
             <!-- Comments -->
             {% if site.data.comments[page.slug] %}
             {% assign comments = site.data.comments[page.slug] | sort %}
             {% endif %}
-            <div class="comments__existing js-comments" {% if comments == null %} aria-hidden="true" {% endif %}>
+            <div class="comments__existing js-comments" {% if comments == null %} aria-hidden="false" {% endif %}>
                 <h2 class="comments__heading heading-2">Comments</h2>
     
                 {% for comment in comments %}
@@ -49,5 +49,5 @@
             <input class="cta" type="submit" value="Send" />
 
             </form>
-        </div>
-    </section>
+    </div>
+</section>
