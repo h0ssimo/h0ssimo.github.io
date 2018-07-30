@@ -9,7 +9,7 @@ image: /images/bg.jpg
 image-sm: /images/bg.jpg
 ---
 ### Sweet And Delicate
-It's been aaa while since I wanted to do a portrait with a different mood and feeling from my usual works.
+It's been a while since I wanted to do a portrait with a different mood and feeling from my usual works.
 Also I did this to study female anatomy and try some new composition techniques.
 
 ### Design And Inspiration
