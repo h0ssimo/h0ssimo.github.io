@@ -4,9 +4,9 @@ title: "Sweet And Delicate"
 date: 2018-06-05
 categories:
   - portfolio
-description:
-image: https://cdnb.artstation.com/p/assets/images/images/011/669/379/large/hossein-moayed-sweet-and-delicate-by-hossimo-1.jpg?1530771939
-image-sm: https://cdnb.artstation.com/p/assets/images/images/011/669/379/large/hossein-moayed-sweet-and-delicate-by-hossimo-1.jpg?1530771939
+excerpt: This is an excerpt.
+image: /images/bg.jpg
+image-sm: /images/bg.jpg
 ---
 ### Sweet And Delicate
 It's been a while since I wanted to do a portrait with a different mood and feeling from my usual works.
