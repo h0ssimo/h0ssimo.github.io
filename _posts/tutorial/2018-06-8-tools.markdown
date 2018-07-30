@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Maya 101"
-date: 2018-06-5
+title: "ZBrush 101"
+date: 2018-06-8
 categories:
-  - Tutorial
+  - tutorial
 description:
-image: https://d8jxi8g09pf42.cloudfront.net/images/attachments/000/006/702/original/eke08-1.jpg?1519773825
-image-sm: https://d8jxi8g09pf42.cloudfront.net/images/attachments/000/006/702/original/eke08-1.jpg?1519773825
+image: https://d8jxi8g09pf42.cloudfront.net/images/attachments/000/006/506/original/ssp05_4.jpg?1507059834
+image-sm: https://d8jxi8g09pf42.cloudfront.net/images/attachments/000/006/506/original/ssp05_4.jpg?1507059834
 ---
 Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
 
