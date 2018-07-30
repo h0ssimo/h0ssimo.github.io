@@ -11,7 +11,6 @@ image-sm: /images/bg.jpg
 ### Sweet And Delicate
 It's been a while since I wanted to do a portrait with a different mood and feeling from my usual works.
 Also I did this to study female anatomy and try some new composition techniques.
-
 ### Design And Inspiration
 
 I wanted her to kinda feel -as the title says- "sweet and delicate." Usually before this, I used to create some rough male characters. I wanted something different to try to expand my area of work.

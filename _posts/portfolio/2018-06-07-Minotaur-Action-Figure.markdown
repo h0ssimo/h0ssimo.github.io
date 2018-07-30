@@ -12,7 +12,7 @@ image-sm: https://cdnb.artstation.com/p/assets/images/images/011/484/685/large/h
 I tried a couple of cool techniques on this one. I created it to try to show the mood better, and also to improve my skill set. I developed my own workflow for such works during this fun project; which I'm gonna talk about.
 
 ### Sculpting and Posing Process
-I already had the basic [M-Pose](https://hossim0.github.io/portfolio/Minotaur/) done, so all I had to do was to pose him, without losing my already sculpted details.
+I already had the basic [M-Pose](/portfolio/Minotaur/) done, so all I had to do was to pose him, without losing my already sculpted details.
 
 For such complicated poses, I find it hard to try using zbrush's Transpose Master. So I sent my low res mesh to Maya, rigged it -since I'm comfortable with rigging in Maya- and then posed it. I brought back my character into zbrush, and projected all the details back to my mesh using Displacement maps and continued sculpting some pose-related details and volumes.
 

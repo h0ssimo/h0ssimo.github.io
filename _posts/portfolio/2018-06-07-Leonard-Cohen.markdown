@@ -5,7 +5,7 @@ date: 2018-06-1
 tags: character likeness
 categories:
   - portfolio
-description:
+excerpt: This is my tribute.
 image: https://cdnb.artstation.com/p/assets/images/images/008/461/285/large/hossein-moayed-asset.jpg?1512944388
 image-sm: https://cdnb.artstation.com/p/assets/images/images/008/461/285/large/hossein-moayed-asset.jpg?1512944388
 ---
