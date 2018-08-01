@@ -1,37 +1,41 @@
 ---
 layout: post
-title: "Leonard Cohen"
+title: "Leonard Cohen - Portrait"
 date: 2018-06-1
-tags: 
-- character
+tags: character likeness
 categories:
   - portfolio
-excerpt: This is my tribute.
-image: https://cdnb.artstation.com/p/assets/images/images/008/461/285/large/hossein-moayed-asset.jpg?1512944388
-image-sm: https://cdnb.artstation.com/p/assets/images/images/008/461/285/large/hossein-moayed-asset.jpg?1512944388
+excerpt: I've been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times' style as a tribute to him.
+image: /images/characters/leonard cohen/leonard_cohen_Bg.JPEG
+image-sm: /images/characters/leonard cohen/leonard_cohen_Bg.JPEG
 ---
-### Leonard Cohen Portrait - Tower Of Song
+## Leonard Cohen Portrait - Tower Of Song
+
+
 I've been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times' style as a tribute to him.
+
 
 ### Inspiration
 
-In his song "Tower of Song," he mentions:
 
-<blockquote> <i> "Now I bid you farewell, I don't know when I'll be back. <br>
+    In his song "Tower of Song," he mentions:
 
-They're moving us tomorrow to that tower down the track. <br>
+> "*Now I bid you farewell, I don't know when I'll be back.<br />
+> They're moving us tomorrow to that tower down the track.<br />
+> But you'll be hearing from me baby, long after I'm gone.<br />
+> I'll be speaking to you sweetly from a window in the tower of song.*"
 
-But you'll be hearing from me baby, long after I'm gone. <br>
-
-I'll be speaking to you sweetly from a window in the tower of song."<br>
-
-</i></blockquote>
-
-So my work was really inspired by that. 
+So my work was really inspired by that.
+	
+![](/images/characters/leonard%20cohen/leonard_cohen_bg_wide.JPEG)
 
 ### Sculpting Process
 
 I used a Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
 All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
+![](/images/characters/leonard%20cohen/reference_comarison.JPG)
 I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.
+
+
+For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/5wVog).
