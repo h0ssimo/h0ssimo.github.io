@@ -38,11 +38,21 @@
     				<header class="major">
       				<span class="date">{{page.date | date_to_string}}</span>
       				<h1>{{page.title}}</h1>
-      				<p>{{page.excerpt}}</p>
+							<p>{{page.excerpt}}</p>
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
-      		</section>
+					</section>
+
+					<div>
+							<h2 class="comments__heading heading-2">Tags:</h2>
+							<ul class="entry-tags">
+							{% for tag in page.tags %}
+							<li>
+							<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">
+								{{ tag }}
+							</a></li>{% endfor %}
+							</ul></div>
 
         <div class="comments-wrapper">
               {% if site.staticmanUrl %}
@@ -52,11 +62,10 @@
         </div><!-- /.comments-wrapper -->
 
 
+
 					<!-- Footer -->
 						<footer>
-              <ul class="actions">
-                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-              </ul>
+
 						</footer>
 					</div>
 

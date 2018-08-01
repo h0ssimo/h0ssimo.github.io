@@ -5,6 +5,8 @@ date: 2018-06-04
 categories:
   - portfolio
 description:
+tags: 
+- action-figure
 image: https://cdnb.artstation.com/p/assets/images/images/011/484/685/large/hossein-moayed-minotaur-statue-by-hossimo-01.jpg?1529839605
 image-sm: https://cdnb.artstation.com/p/assets/images/images/011/484/685/large/hossein-moayed-minotaur-statue-by-hossimo-01.jpg?1529839605
 ---

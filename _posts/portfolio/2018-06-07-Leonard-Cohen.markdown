@@ -2,7 +2,8 @@
 layout: post
 title: "Leonard Cohen"
 date: 2018-06-1
-tags: character likeness
+tags: 
+- character
 categories:
   - portfolio
 excerpt: This is my tribute.
