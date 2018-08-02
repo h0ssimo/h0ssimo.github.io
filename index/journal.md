@@ -1,6 +1,6 @@
 ---
 layout: journal
-title: Jekyll Theme - Blog Page - Massively
+title: Journal - Hossein Moayed
 description: Digital Sculptor and Game Character Artist.
 permalink: "/journal/"
 sitemap:

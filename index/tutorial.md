@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Jekyll Theme - Blog Page - Massively
+title: Tutorial - Hossein Moayed
 description: Digital Sculptor and Game Character Artist.
 permalink: "/tutorial/"
 sitemap:

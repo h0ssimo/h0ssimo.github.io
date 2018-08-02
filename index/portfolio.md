@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Portfolio
+title: Portfolio - Hossein Moayed
 description: Digital Sculptor and Game Character Artist.
 permalink: "/portfolio/"
 sitemap:
