@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leonard Cohen - Portrait"
-date: 2018-06-1
+date: 2017-12-01
 tags: character likeness
 categories:
   - portfolio
@@ -34,7 +34,11 @@ So my work was really inspired by that.
 I used a Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
 All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
+
+
 ![](/images/characters/leonard%20cohen/reference_comarison.JPG)
+
+
 I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.
 
 

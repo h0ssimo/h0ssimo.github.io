@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Minotaur Action Figure"
-date: 2018-06-04
+date: 2018-07-01
 categories:
   - portfolio
 excerpt: This is my own take on the Minotaur of the ancient Greek mythology.
