@@ -1,7 +1,7 @@
 # Site
 title:              Hossein Moayed
 bio:                'Digital Sculptor and Game Character Artist'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "Digital Sculptor and Game Character Artist"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hossim0.github.io" # the base hostname & protocol for your site

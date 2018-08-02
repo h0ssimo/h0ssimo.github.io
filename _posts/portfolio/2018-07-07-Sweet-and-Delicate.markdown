@@ -5,8 +5,8 @@ date: 2018-07-07
 categories:
   - portfolio
 excerpt: I wanted to do something with different mood than my usual work, so I came up with this idea.
-image: /images/characters/sweet and delicate/sweet_and_delicate_by_hossimo_1.jpg
-image-sm: /images/characters/sweet and delicate/sweet_and_delicate_by_hossimo_1.jpg
+image: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
+image-sm: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 ---
 
 
@@ -22,7 +22,7 @@ Also I did this to study female anatomy and try some new composition techniques.
 
 I wanted her to kinda feel -as the title says- "sweet and delicate." Usually before this, I used to create some rough male characters. I wanted something different to try to expand my area of work.
 
-![](/images/characters/sweet%20and%20delicate/sweet_and_delicate_by_hossimo_2.jpg)
+![](/images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_2.jpg)
 
 Originally, this was inspired by my "sweetie," and all the feelings she pumped me with. I thank her from here! *xo xo*
 
