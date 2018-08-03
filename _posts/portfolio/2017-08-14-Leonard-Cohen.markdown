@@ -7,7 +7,7 @@ categories:
   - portfolio
 excerpt: I've been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times' style as a tribute to him.
 image: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
-image-sm: /images/characters/leonard_cohen/leonard_cohen_Bg.JPEG
+image-sm: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 ---
 ## Leonard Cohen Portrait - Tower Of Song
 
