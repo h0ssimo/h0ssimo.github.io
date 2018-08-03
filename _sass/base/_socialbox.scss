@@ -1,0 +1,13 @@
+.socialbox:after {
+    display: flex;
+    max-height: 100vh;
+}
+
+#iwidget {
+    float: left;
+    width: 200px;
+}
+#twidget {
+    float: right;
+    flex: 1;
+}

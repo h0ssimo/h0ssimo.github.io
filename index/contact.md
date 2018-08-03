@@ -11,10 +11,9 @@ sitemap:
 
 ## Get to Know Me
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/hossimo" data-format="inline" data-related="false"></script>
+<div><script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/hossimo" data-format="inline" data-related="false"></script></div>
 
-<span class="image left"><IMF src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 I'm a 3D Character Artist experienced in character pipelines for both animations and games. I have a solid human anatomy knowledge, deep understanding of how Maya, Zbrush and Photoshop work. Besides I know how to get the most out of programs such as Substance Painter, Mari, Marmoset Toolbag and Marvelous Designer as a character artist.
 
@@ -27,6 +26,5 @@ I also have general capabalities and worked as a generalist for some time, able 
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
 My favorite social network is [Instagram](https://www.instagram.com/hosseinmoayed_/?hl=en), I share work-in-progress stuff there as my professional presentations take place on [Artstation](https://www.artstation.com/Hossimo). So make sure you follow me there please.
