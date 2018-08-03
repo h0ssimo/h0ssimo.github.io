@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Professor"
-date: 2018-05-01
+date: 2018-05-04
 categories:
   - portfolio
 excerpt: He is another character for my personal story. A simple, perfectionist scientist.

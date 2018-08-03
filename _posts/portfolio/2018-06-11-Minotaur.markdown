@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Minotaur"
-date: 2018-06-01
+date: 2018-06-11
 categories:
   - portfolio
 excerpt: He is another character for my personal story, inspired by the ancient Greek mythology.

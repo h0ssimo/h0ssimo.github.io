@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leonard Cohen - Portrait"
-date: 2017-12-01
+date: 2017-08-14
 tags: character likeness
 categories:
   - portfolio

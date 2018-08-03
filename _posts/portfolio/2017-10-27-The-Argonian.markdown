@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Throat Cutter"
-date: 2017-08-01
+date: 2017-10-27
 categories:
   - portfolio
 excerpt: This is the Argonian leader to take his role in my personal story. No one sees him coming!

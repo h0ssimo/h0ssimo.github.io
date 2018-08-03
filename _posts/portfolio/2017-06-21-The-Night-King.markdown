@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Night King"
-date: 2017-05-01
+date: 2017-06-21
 categories:
   - portfolio
 excerpt: I got really inspired by the Game of Thrones series, so I decided to create a fan art.
