@@ -1,42 +1,57 @@
 ---
 layout: post
-title: "The Brawler"
+title: "The Throat Cutter"
 date: 2017-08-01
 categories:
   - portfolio
-excerpt: This is the orc leader for my personal story. He's earned the name for a reason!
-image: /images/characters/the_orc/orc_by_hossimo_left_col.jpg
-image-sm: /images/characters/the_orc/orc_by_hossimo_left_col.jpg
+excerpt: This is the Argonian leader to take his role in my personal story. No one sees him coming!
+image: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
+image-sm: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
 ---
 
 
-## The Brawler - Orc Ranked Warrior
 
-This is the first character in my series of character design for my personal story. His mission is to lead his entire race through a war in which all other races are engaged.
+## The Throat Cutter - Argonian Assassin
   
 
-![](/images/characters/the_orc/orc_by_hossimo_all_col.jpg)
+This is the second character in my series of character design for my personal story. He is sneaky and fast. He has his own methods of taking lives, and his cold blood definitely makes him a natural born killer. 
+  
+
+![](/images/characters/the_argonian/argonian_by_hossimo_all_col.jpg)
+
   
 
 ## Background
+
   
 
-He usually uses no weapons other than his bear hands and what comes with his armor! Due to his raw physical power, he became the orcs' leader in their planet, to lead them through tough times.
-There's a war going on, everybody's fighting over a mutual basic need amongst all: *Water*!
+His father was killed by an orc in a historical battlefield, so he had to steal stuff just to stay alive. He had no other choice but becoming perfect in doing what it takes to stay safe, at least for a while: *Stealing*, and *Killing*
 
-![](/images/characters/the_orc/orc_by_hossimo_front_col.jpg)
+Years later, he tried to take the lead of his people, and so did he. He had his father in mind, as a personal motivations and also he had the power of taking care of stuff neatly to become the leader.
+  
 
-The orcs camps around water sources were made way before anyone else, so they rule over most water resources. But not for long, not anymore, because the Argonians are coming and no one sees them coming when the approach.
+![](/images/characters/the_argonian/argonian_by_hossimo_front_col.jpg)
 
-![](/images/characters/the_orc/orc_by_hossimo_right_col.jpg)
+  
 
-For higher resolution images, and also a different render set, please visit my [Artstation](https://www.artstation.com/artwork/lWZBV).
+Now, there is the perfect opportunity for him to do something he waited his whole life for, to take revenge, as well as conquering what his people desperately need: *Water*! Rumors have it that if he takes out the orcs' leader, enough water sources will be right at their possition. So the hunt begins!
+  
 
-  Below, you can see some close-up ZBrush renders to take a closer look at details:
+![](/images/characters/the_argonian/argonian_by_hossimo_left_col.jpg)
 
-![](/images/characters/the_orc/orc_by_hossimo_1.jpg)
-![](/images/characters/the_orc/orc_by_hossimo_2.jpg)
-![](/images/characters/the_orc/orc_by_hossimo_3.jpg)
-![](/images/characters/the_orc/orc_by_hossimo_4.jpg)
-![](/images/characters/the_orc/orc_by_hossimo_5.jpg)
-![](/images/characters/the_orc/orc_by_hossimo_6.jpg)
+  
+
+For higher resolution images, and also a different render set, please visit my [Artstation](https://www.artstation.com/artwork/JdqZd).
+
+  
+
+Below, you can see some close-up ZBrush renders to take a closer look at details:
+
+  
+
+![](/images/characters/the_argonian/argonian_by_hossimo_1.jpg)
+![](/images/characters/the_argonian/argonian_by_hossimo_2.jpg)
+![](/images/characters/the_argonian/argonian_by_hossimo_3.jpg)
+![](/images/characters/the_argonian/argonian_by_hossimo_4.jpg)
+![](/images/characters/the_argonian/argonian_by_hossimo_5.jpg)
+![](/images/characters/the_argonian/argonian_by_hossimo_6.jpg)

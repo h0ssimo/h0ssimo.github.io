@@ -4,7 +4,7 @@ title: "The Brawler"
 date: 2017-07-01
 categories:
   - portfolio
-excerpt: This the orc leader for my personal story. He's earned the name for a reason!
+excerpt: This is the orc leader for my personal story. He's earned the name for a reason!
 image: /images/characters/the_orc/orc_by_hossimo_left_col.jpg
 image-sm: /images/characters/the_orc/orc_by_hossimo_left_col.jpg
 ---
