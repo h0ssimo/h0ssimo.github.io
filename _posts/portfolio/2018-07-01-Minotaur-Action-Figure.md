@@ -5,15 +5,15 @@ date: 2018-07-01
 categories:
   - portfolio
 excerpt: This is my own take on the Minotaur of the ancient Greek mythology.
-image: /images/characters/Minotaur_Action_Figure/minotaur_statue_by_hossimo_01_square.jpg
-image-sm: /images/characters/Minotaur_Action_Figure/minotaur_statue_by_hossimo_01_square.jpg
+image: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
+image-sm: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 ---
 
 ## The Minotaur Action Figure<br />
 
 I tried a couple of cool techniques on this one. I created it to try to show the mood better, and also to improve my skill set. I developed my own workflow for such works during this fun project; which I'm gonna talk about.
 
-![](/images/characters/Minotaur_Action_Figure/minotaur_statue_by_hossimo_02_square.jpg)
+![](/images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_02_square.jpg)
 
 ### Sculpting and Posing Process<br />
 
@@ -21,7 +21,7 @@ I already had the basic [A-Pose](/portfolio/Minotaur/) done, so all I had to do 
 
 For such complicated poses, I find it hard to try using zbrush's Transpose Master. So I sent my low res mesh to Maya, rigged it -since I'm comfortable with rigging in Maya- and then posed it. I brought back my character into zbrush, and projected all the details back to my mesh using Displacement maps and continued sculpting some pose-related details and volumes.<br />
 <br />
-![](/images/characters/Minotaur_Action_Figure/minotaur_statue_by_hossimo_03_square.jpg)
+![](/images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_03_square.jpg)
 
 
 Also, I changed some of my artistic decisions along the way, in comparison to what I had originally.<br />
@@ -30,7 +30,7 @@ I used SnakeHook and Slash2 brushes to sculpt the cloth details.<br />
 
 I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.<br />
 <br />
-![](/images/characters/Minotaur_Action_Figure/minotaur_statue_by_hossimo_04_square.jpg)
+![](/images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_04_square.jpg)
 
 
 ### Inspiration<br />

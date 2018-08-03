@@ -6,8 +6,8 @@ tags: character likeness
 categories:
   - portfolio
 excerpt: I've been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times' style as a tribute to him.
-image: /images/Characters/Leonard_Cohen/leonard_cohen_bg.JPEG
-image-sm: /images/Characters/Leonard_Cohen/leonard_cohen_bg.JPEG
+image: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
+image-sm: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 ---
 ## Leonard Cohen Portrait - Tower Of Song
 
@@ -27,7 +27,7 @@ I've been deeply inspired by Leonard Cohen in many aspects of my life, so I deci
 
 So my work was really inspired by that.
 	
-![](/images/characters/leonard_cohen/leonard_cohen_bg_wide.JPEG)
+![](/images/characters/leonard_cohen/leonard_cohen_bg_wide.jpeg)
 
 ### Sculpting Process
 
@@ -36,7 +36,7 @@ All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
 
 
-![](/images/characters/leonard_cohen/reference_comarison.JPG)
+![](/images/characters/leonard_cohen/reference_comarison.jpg)
 
 
 I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.

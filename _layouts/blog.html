@@ -1,87 +1,61 @@
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-	<head>
+
+<head>
     {% include head.html %}
 
-	</head>
-	<body class="is-loading">
+</head>
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<body class="is-loading">
 
-				<!-- Header -->
-				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+    <!-- Wrapper -->
+    <div id="wrapper" class="fade-in">
+
+        <!-- Header -->
+        <header id="header">
+            <a href="{{ " / " | absolute_url }}" class="logo">{{site.title}}</a>
+        </header>
 
 
-				<!-- Nav -->
-					<nav id="nav">
+        <!-- Nav -->
+        <nav id="nav">
 
             {% include nav.html %}
 
-					<ul class="icons">
-						<li><a href="https://artstation.com/{{site.artstation}}" class="icon-artstation" rel="nofollow"><span class="label"></span></a></li>
-						<li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-						<li><a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-						<li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-					</ul>
-					</nav>
+            <ul class="icons">
+                <li>
+                    <a href="https://artstation.com/{{site.artstation}}" class="icon-artstation" rel="nofollow">
+                        <span class="label"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow">
+                        <span class="label">Instagram</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow">
+                        <span class="label">LinkedIn</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow">
+                        <span class="label">Facebook</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
 
-				<!-- Main -->
-				<div id="main">
+        {{content}}
 
-          <article class="post featured">
-            <header class="major">
-              <h2><a href="#">Tutorials</a></h2>
-              <p>When I was a student, I used a lot of online tutorials to see what workflows other artists use. I'm hoping to use my student vision to determine what's most helpful for you fellow artists.
-                Sharing is caring!
-							</p>
-            </header>
-						<p>
-							I try to improve my skill set in a daily manner, so I thought I share some tips and tricks with you along the way. I try to make bite-sized quick tutorials to save us all some precious time. Also I go over my own workflows in my works.
-							I really hope you'll take away something when you pay a visit each time.
-						<p>
-						</p>
-							If you have any specific questions or you want a specific tutorial, just leave a comment under my posts and I'll try to keep up. Enjoy!
-						</p>
-
-          </article>
-					<!-- Post -->
-					<section class="posts">
-						{% for post in site.categories.tutorial %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-						{% endfor %}
-
-					</section>
-
-					</div>
-
-				<!-- Footer -->
+        <!-- Footer -->
         {% include foot.html %}
 
-			</div>
+    </div>
 
-			<!-- Scripts -->
-			{% include scripts-main.html %}
-			{% include tracking.html %}
+    <!-- Scripts -->
+    {% include scripts-main.html %} {% include tracking.html %}
 
-	</body>
+</body>
+
 </html>
