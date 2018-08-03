@@ -2,6 +2,7 @@
 layout: page
 title: Contact - Hossein Moayed
 description: Digital Sculptor and Game Character Artist.
+permalink: "/contact/"
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
