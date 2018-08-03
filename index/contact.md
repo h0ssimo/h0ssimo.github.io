@@ -27,4 +27,4 @@ I also have general capabalities and worked as a generalist for some time, able 
 
 My favorite social network is [Instagram](https://www.instagram.com/hosseinmoayed_/?hl=en), I share work-in-progress stuff there as my professional presentations take place on [Artstation](https://www.artstation.com/Hossimo). So make sure you follow me there please.
 
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/hossimO?ref_src=twsrc%5Etfw">Tweets by Me</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/hossimO">Tweets by Me</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
