@@ -1,13 +1,10 @@
 .socialbox:after {
-    display: flex;
-    max-height: 100vh;
+display:block;
 }
 
 #iwidget {
-    float: left;
-    width: 200px;
+    display: inline-block;
 }
 #twidget {
-    float: right;
-    flex: 1;
+    display: inline-block;
 }
