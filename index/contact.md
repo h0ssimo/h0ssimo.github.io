@@ -10,9 +10,7 @@ sitemap:
 ---
 
 ## Get to Know Me
-
-<div><script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/hossimo" data-format="inline" data-related="false"></script></div>
+{% include linkedin.html %}
 
 
 I'm a 3D Character Artist experienced in character pipelines for both animations and games. I have a solid human anatomy knowledge, deep understanding of how Maya, Zbrush and Photoshop work. Besides I know how to get the most out of programs such as Substance Painter, Mari, Marmoset Toolbag and Marvelous Designer as a character artist.
