@@ -8,7 +8,11 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
 ## Get to Know Me
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/hossimo" data-format="inline" data-related="false"></script>
 
 <span class="image left"><IMF src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
