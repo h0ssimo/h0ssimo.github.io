@@ -15,7 +15,7 @@ image-sm: /images/characters/professor/professor_head_by_hossimo_left.jpg
 
 This is the third character in my series of character sculpts for my personal story. He is simple, perfectionist, scientist and also dives deep into the relationship between species and actively develops theories on that matter.
 
-  ![](/images/characters/professor/professor_head_by_hossimo_left.jpg)
+  ![](/images/characters/professor/professor_by_hossimo_front.jpg)
 
 ### Background
 
@@ -35,7 +35,7 @@ Things will not go as planned, and other species like Orcs, Argonians, Vampires,
 
   
 
-The Professor decides to lead a group to make everyone understand that the war is not the right way.
+The Professor decides to lead a group to make everyone understand that the war is not the only way.
 
   ![](/images/characters/professor/professor_by_hossimo_right.jpg)
 
@@ -50,3 +50,6 @@ I used Maya for creating the base meshes, Mari to texture the face, ZBrush to sc
   
 
 For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/wzXoX).
+
+![](/images/characters/professor/professor_by_hossimo_all.jpg)
+![](/images/characters/professor/professor_head_by_hossimo_all.jpg)
