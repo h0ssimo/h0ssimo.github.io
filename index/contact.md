@@ -10,7 +10,6 @@ sitemap:
 ---
 
 ## Get to Know Me
-{% include linkedin.html %}
 
 
 I'm a 3D Character Artist experienced in character pipelines for both animations and games. I have a solid human anatomy knowledge, deep understanding of how Maya, Zbrush and Photoshop work. Besides I know how to get the most out of programs such as Substance Painter, Mari, Marmoset Toolbag and Marvelous Designer as a character artist.
@@ -22,6 +21,7 @@ I also have general capabalities and worked as a generalist for some time, able 
   <p>
   If you have any job opportunities you want to offer, please send me a message from the form below and I'll respond as soon as possible. You could also contact me using one of the social networks provided.
   </p>
+    {% include linkedin.html %}
 </div>
 
 
