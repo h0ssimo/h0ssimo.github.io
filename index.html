@@ -74,7 +74,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:4 %}
+				{% assign posts = site.posts | where: "featured","true" %}	
+                {% for post in posts limit:4 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
   									<header>

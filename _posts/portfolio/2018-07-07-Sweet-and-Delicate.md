@@ -7,6 +7,7 @@ categories:
 excerpt: I wanted to do something with different mood than my usual work, so I came up with this idea.
 image: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 image-sm: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
+featured: true
 ---
 
 

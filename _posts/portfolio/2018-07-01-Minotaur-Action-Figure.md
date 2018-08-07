@@ -7,6 +7,7 @@ categories:
 excerpt: This is my own take on the Minotaur of the ancient Greek mythology.
 image: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 image-sm: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
+featured: true
 ---
 
 ## The Minotaur Action Figure<br />

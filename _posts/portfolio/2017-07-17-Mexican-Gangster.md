@@ -7,6 +7,7 @@ categories:
 excerpt: I decided to do some character in real time, so I came up with this fellow prisoner!
 image: /images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_right.png
 image-sm: /images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_right.png
+featured: true
 ---
 
 
