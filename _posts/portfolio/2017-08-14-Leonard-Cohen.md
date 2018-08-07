@@ -9,6 +9,7 @@ excerpt: I've been deeply inspired by Leonard Cohen in many aspects of my life, 
 image: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 image-sm: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 featured: true
+showtags: true
 ---
 ## Leonard Cohen Portrait - Tower Of Song
 
