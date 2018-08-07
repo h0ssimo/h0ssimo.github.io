@@ -15,7 +15,7 @@ image-sm: /images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_r
 
 I was thinking to try some new real time techniques as a practice before starting this one. I used *Maya* for base mesh, *Mari* for texture, *ZBrush* for sculpting, and *Marmoset Toolbag* for rendering.
 
-![](/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_all.png)
+<img src="/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_all.png" alt="mexican_gangster_by_hossimo_head_all" style="max-width:100%;height:auto">
 
 ## Inspiration
 
@@ -23,5 +23,5 @@ Originally, I came up with this character when I was watching the cool comedian 
 
 For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/DJZKy).
 
-![](/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_front.png)
-![](/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_left.png)
+<img src="/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_front.png" alt="mexican_gangster_by_hossimo_head_front" style="max-width:100%;height:auto">
+<img src="/images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_left.png" alt="mexican_gangster_by_hossimo_head_left" style="max-width:100%;height:auto">
