@@ -41,10 +41,18 @@
 							<p>{{page.excerpt}}</p>
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
-      			<p>{{content}}</p>
+						<p>{{content}}</p>
+						{% if page.artstation %}
+					<ul><center>
+					<a href="{{ page.artstation | absolute_url }}" class="button">Visit in Artstation</a>
+				</center>
+				</ul>
+					{% endif %}
 					</section>
 
-					<div>
+					
+					{% if page.tags %}
+					<div class="tags">
 							<h2 class="comments__heading heading-2">Tags:</h2>
 							<ul class="entry-tags">
 							{% for tag in page.tags %}
@@ -53,6 +61,7 @@
 								{{ tag }}
 							</a></li>{% endfor %}
 							</ul></div>
+							{% endif %}
 
         <div class="comments-wrapper">
               {% if site.staticmanUrl %}
