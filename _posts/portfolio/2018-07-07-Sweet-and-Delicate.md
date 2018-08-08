@@ -26,7 +26,7 @@ Also I did this to study female anatomy and try some new composition techniques.
 
 I wanted her to kinda feel -as the title says- "sweet and delicate." Usually before this, I used to create some rough male characters. I wanted something different to try to expand my area of work.
 
-<img src="/images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_2.jpg" alt="sweet_and_delicate_by_hossimo_2" style="max-width:100%;height:auto">
+<img src="/images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_2.jpg" alt="sweet_and_delicate_by_hossimo_2" class="responsive">
 
 Originally, this was inspired by my "sweetie," and all the feelings she pumped me with. I thank her from here! *xo xo*
 

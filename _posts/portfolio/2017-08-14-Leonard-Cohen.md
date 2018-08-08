@@ -30,7 +30,7 @@ I've been deeply inspired by Leonard Cohen in many aspects of my life, so I deci
 
 So my work was really inspired by that.
 	
-  <img src="/images/characters/leonard_cohen/leonard_cohen_bg_wide.jpeg" alt="leonard_cohen_bg_wide" style="max-width:100%;height:auto">
+  <img src="/images/characters/leonard_cohen/leonard_cohen_bg_wide.jpeg" alt="leonard_cohen_bg_wide" class="responsive">
 
 ### Sculpting Process
 
@@ -39,7 +39,7 @@ All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
 
 
-<img src="/images/characters/leonard_cohen/reference_comarison.jpg" alt="reference_comarison" style="max-width:100%;height:auto">
+<img src="/images/characters/leonard_cohen/reference_comarison.jpg" alt="reference_comarison" class="responsive">
 
 
 I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.
