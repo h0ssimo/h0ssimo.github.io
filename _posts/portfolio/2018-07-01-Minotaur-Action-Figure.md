@@ -8,6 +8,7 @@ excerpt: This is my own take on the Minotaur of the ancient Greek mythology.
 image: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 image-sm: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 featured: true
+artstation: https://www.artstation.com/artwork/Lq1kP
 ---
 
 ## The Minotaur Action Figure<br />
@@ -42,4 +43,5 @@ I kinda get bored quickly, so I need to improve in a daily manner. So I asked a 
 I hope these kinda thoughts and works, inspire you guys as well.
 
 
-For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/Lq1kP).
+
+For higher resolution images, please visit my Artstation.

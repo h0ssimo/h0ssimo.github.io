@@ -10,6 +10,7 @@ image: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 image-sm: /images/characters/leonard_cohen/leonard_cohen_bg.jpeg
 featured: true
 showtags: true
+artstation: https://www.artstation.com/artwork/5wVog
 ---
 ## Leonard Cohen Portrait - Tower Of Song
 
@@ -44,4 +45,4 @@ The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photosho
 I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.
 
 
-For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/5wVog).
+For higher resolution images, please visit my Artstation.

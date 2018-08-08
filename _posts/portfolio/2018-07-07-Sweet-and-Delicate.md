@@ -8,6 +8,7 @@ excerpt: I wanted to do something with different mood than my usual work, so I c
 image: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 image-sm: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 featured: true
+artstation: https://www.artstation.com/artwork/Veakn
 ---
 
 
@@ -34,4 +35,4 @@ I created a base mesh in Maya, and did the UV's there. Then I sculpted all the d
 
 I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.
 
-For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/Veakn).
+For higher resolution images, please visit my Artstation.

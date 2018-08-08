@@ -8,6 +8,7 @@ excerpt: This is the Argonian leader to take his role in my personal story. No o
 image: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
 image-sm: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
 featured: true
+artstation: https://www.artstation.com/artwork/JdqZd
 ---
 
 
@@ -41,8 +42,6 @@ Now, there is the perfect opportunity for him to do something he waited his whol
 <img src="/images/characters/the_argonian/argonian_by_hossimo_left_col.jpg" alt="argonian_by_hossimo_left_col" style="max-width:100%;height:auto">
 
 
-For higher resolution images, and also a different render set, please visit my [Artstation](https://www.artstation.com/artwork/JdqZd).
-
   
 
 Below, you can see some close-up ZBrush renders to take a closer look at details:
@@ -55,3 +54,7 @@ Below, you can see some close-up ZBrush renders to take a closer look at details
 <img src="/images/characters/the_argonian/argonian_by_hossimo_4.jpg" alt="argonian_by_hossimo_4" style="max-width:100%;height:auto">
 <img src="/images/characters/the_argonian/argonian_by_hossimo_5.jpg" alt="argonian_by_hossimo_5" style="max-width:100%;height:auto">
 <img src="/images/characters/the_argonian/argonian_by_hossimo_6.jpg" alt="argonian_by_hossimo_6" style="max-width:100%;height:auto">
+
+
+
+For higher resolution images, and also a different render set, please visit my Artstation.
