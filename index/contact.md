@@ -18,7 +18,6 @@ I also have general capabalities and worked as a generalist for some time, able 
 
 {% include linkedin.html %}
 <br />
-
 ### Got an offer?
 <div class="box">
   <p>
