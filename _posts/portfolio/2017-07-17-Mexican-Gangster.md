@@ -2,12 +2,14 @@
 layout: post
 title: "The Mexican Gangster"
 date: 2017-07-17
+tags: real-time game-art
 categories:
   - portfolio
 excerpt: I decided to do some character in real time, so I came up with this fellow prisoner!
 image: /images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_right.png
 image-sm: /images/characters/mexican_gangster/mexican_gangster_by_hossimo_head_right.png
 featured: true
+showtags: true
 artstation: https://www.artstation.com/artwork/DJZKy
 ---
 

@@ -2,12 +2,14 @@
 layout: post
 title: "The Minotaur Action Figure"
 date: 2018-07-01
+tags: fantasy sculpture
 categories:
   - portfolio
 excerpt: This is my own take on the Minotaur of the ancient Greek mythology.
 image: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 image-sm: /images/characters/minotaur_action_figure/minotaur_statue_by_hossimo_01_square.jpg
 featured: true
+showtags: true
 artstation: https://www.artstation.com/artwork/Lq1kP
 ---
 

@@ -2,12 +2,14 @@
 layout: post
 title: "Sweet And Delicate"
 date: 2018-07-07
+tags: realistic sculpture
 categories:
   - portfolio
 excerpt: I wanted to do something with different mood than my usual work, so I came up with this idea.
 image: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 image-sm: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 featured: true
+showtags: true
 artstation: https://www.artstation.com/artwork/Veakn
 ---
 

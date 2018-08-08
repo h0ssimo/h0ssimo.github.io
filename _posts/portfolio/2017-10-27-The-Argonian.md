@@ -2,12 +2,14 @@
 layout: post
 title: "The Throat Cutter"
 date: 2017-10-27
+tags: fantasy sculpture argonian
 categories:
   - portfolio
 excerpt: This is the Argonian leader to take his role in my personal story. No one sees him coming!
 image: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
 image-sm: /images/characters/the_argonian/argonian_by_hossimo_right_col.jpg
 featured: true
+showtags: true
 artstation: https://www.artstation.com/artwork/JdqZd
 ---
 

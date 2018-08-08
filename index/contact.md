@@ -16,7 +16,9 @@ I'm a 3D Character Artist experienced in character pipelines for both animations
 
 I also have general capabalities and worked as a generalist for some time, able to work out skills like rigging, animation, rendering and composition.
 
+
 {% include linkedin.html %}
+
 
 ### Got an offer?
 <div class="box">

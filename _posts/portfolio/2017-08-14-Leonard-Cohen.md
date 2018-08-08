@@ -2,7 +2,7 @@
 layout: post
 title: "Leonard Cohen - Portrait"
 date: 2017-08-14
-tags: character likeness
+tags: sculpture likeness
 categories:
   - portfolio
 excerpt: I've been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times' style as a tribute to him.

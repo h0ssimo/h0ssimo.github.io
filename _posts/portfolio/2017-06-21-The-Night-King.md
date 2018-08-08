@@ -2,12 +2,14 @@
 layout: post
 title: "The Night King"
 date: 2017-06-21
+tags: fantasy likeness
 categories:
   - portfolio
 excerpt: I got really inspired by the Game of Thrones series, so I decided to create a fan art.
 image: /images/characters/the_night_king/the_night_king_by_hossimo.jpg
 image-sm: /images/characters/the_night_king/the_night_king_by_hossimo.jpg
 featured: true
+showtags: true
 artstation: https://www.artstation.com/artwork/L0RV5
 ---
 
