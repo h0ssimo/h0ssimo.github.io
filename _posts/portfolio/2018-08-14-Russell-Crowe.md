@@ -6,7 +6,7 @@ tags: realistic likeness
 categories:
   - portfolio
 excerpt: I've done this as a tribute to my favorite actor, Russell Crowe and also one of my favorite movies, Gladiator.
-image: /images/characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
+image: /images/Characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
 image-sm: /images/Characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
 featured: true
 showtags: true
