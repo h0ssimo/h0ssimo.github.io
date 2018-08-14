@@ -7,7 +7,7 @@ categories:
   - portfolio
 excerpt: I've done this as a tribute to my favorite actor, Russell Crowe and also one of my favorite movies, Gladiator.
 image: /images/characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
-image-sm: /images/characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
+image-sm: /images/Characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/vlQZD
@@ -23,7 +23,7 @@ I was going to try a couple of new techniques on some piece that adds a bit of v
 Given my age, "*Gladiator*" was the first movie which heavily touched me emotionally. I remember how I was fascinated by it as I watched it over and over again! Basically it was only after *Gladiator* when I got deeper into movies.So I decided to pay my tribute by creating this piece.
 Hope you like it.
 	
-  <img src="/images/characters/russell_crowe/gladiator_tribute_1_by_hossimo_square.jpg" alt="gladiator_tribute_1_by_hossimo_square" class="responsive">
+  <img src="/images/Characters/russell_crowe/gladiator_tribute_1_by_hossimo_square.jpg" alt="gladiator_tribute_1_by_hossimo_square" class="responsive">
 
 ### Sculpting Process
 
@@ -32,7 +32,7 @@ All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
 
 
-<img src="/images/characters/russell_crowe/gladiator_tribute_3_by_hossimo_square.jpg" alt="gladiator_tribute_3_by_hossimo_square" class="responsive">
+<img src="/images/Characters/russell_crowe/gladiator_tribute_3_by_hossimo_square.jpg" alt="gladiator_tribute_3_by_hossimo_square" class="responsive">
 
 
 
