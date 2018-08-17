@@ -6,8 +6,8 @@ tags: realistic likeness
 categories:
   - portfolio
 excerpt: I've done this as a tribute to my favorite actor, Russell Crowe and also one of my favorite movies, Gladiator.
-image: /images/Characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
-image-sm: /images/Characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
+image: /images/characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
+image-sm: /images/characters/russell_crowe/gladiator_tribute_2_by_hossimo_square.jpg
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/vlQZD
@@ -32,9 +32,10 @@ All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
 
 
-<img src="/images/Characters/russell_crowe/gladiator_tribute_3_by_hossimo_square.jpg" alt="gladiator_tribute_3_by_hossimo_square" class="responsive">
+<img src="/images/characters/russell_crowe/gladiator_tribute_3_by_hossimo_square.jpg" alt="gladiator_tribute_3_by_hossimo_square" class="responsive">
 
+<img src="/images/characters/russell_crowe/gladiator_tribute_sculpture_3_by_hossimo_square.jpg" alt="gladiator_tribute_sculpture_3_by_hossimo_square" class="responsive">
 
-
+<img src="/images/characters/russell_crowe/gladiator_tribute_2_comparison_by_hossimo.jpg" alt="gladiator_tribute_2_comparison_by_hossimo" class="responsive">
 
 For higher resolution and also more images, please visit my Artstation.
