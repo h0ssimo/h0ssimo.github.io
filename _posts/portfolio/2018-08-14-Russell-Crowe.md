@@ -23,7 +23,7 @@ I was going to try a couple of new techniques on some piece that adds a bit of v
 Given my age, "*Gladiator*" was the first movie which heavily touched me emotionally. I remember how I was fascinated by it as I watched it over and over again! Basically it was only after *Gladiator* when I got deeper into movies.So I decided to pay my tribute by creating this piece.
 Hope you like it.
 	
-  <img src="/images/Characters/russell_crowe/gladiator_tribute_1_by_hossimo_square.jpg" alt="gladiator_tribute_1_by_hossimo_square" class="responsive">
+  <img src="/images/characters/russell_crowe/gladiator_tribute_1_by_hossimo_square.jpg" alt="gladiator_tribute_1_by_hossimo_square" class="responsive">
 
 ### Sculpting Process
 
