@@ -4,8 +4,10 @@ bio:                'Digital Sculptor and Game Character Artist'
 description:        "Digital Sculptor and Game Character Artist"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hossim0.github.io" # the base hostname & protocol for your site
-
+url: "https://hossimo.com" # the base hostname & protocol for your site
+production_url: http://hossim0.github.io
+BASE_PATH: https://hossimo.com
+repository: hossim0/hossim0.github.io
 defaults:
 - scope:
     path: ''
