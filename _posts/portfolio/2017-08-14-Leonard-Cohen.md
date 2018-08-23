@@ -34,7 +34,7 @@ So my work was really inspired by that.
 
 ### Sculpting Process
 
-I used a Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
+I used Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
 All the accessories and clothing were done by hand.
 The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.
 
