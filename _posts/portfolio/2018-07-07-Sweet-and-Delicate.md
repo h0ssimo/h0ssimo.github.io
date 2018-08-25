@@ -2,12 +2,15 @@
 layout: post
 title: "Sweet And Delicate"
 date: 2018-07-07
+tags: realistic sculpture
 categories:
   - portfolio
 excerpt: I wanted to do something with different mood than my usual work, so I came up with this idea.
 image: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 image-sm: /images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_1.jpg
 featured: true
+showtags: true
+artstation: https://www.artstation.com/artwork/Veakn
 ---
 
 
@@ -23,7 +26,7 @@ Also I did this to study female anatomy and try some new composition techniques.
 
 I wanted her to kinda feel -as the title says- "sweet and delicate." Usually before this, I used to create some rough male characters. I wanted something different to try to expand my area of work.
 
-<img src="/images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_2.jpg" alt="sweet_and_delicate_by_hossimo_2" style="max-width:100%;height:auto">
+<img src="/images/characters/sweet_and_delicate/sweet_and_delicate_by_hossimo_2.jpg" alt="sweet_and_delicate_by_hossimo_2" class="responsive">
 
 Originally, this was inspired by my "sweetie," and all the feelings she pumped me with. I thank her from here! *xo xo*
 
@@ -34,4 +37,4 @@ I created a base mesh in Maya, and did the UV's there. Then I sculpted all the d
 
 I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.
 
-For higher resolution images, please visit my [Artstation](https://www.artstation.com/artwork/Veakn).
+For higher resolution images, please visit my Artstation.
