@@ -5,7 +5,7 @@
             {% assign comments = site.data.comments[page.slug] | sort %}
             {% endif %}
             <div class="comments__existing js-comments" {% if comments == null %} aria-hidden="false" {% endif %}>
-                <h2 class="comments__heading heading-2">Comments</h2>
+                <h3 class="comments__heading heading-2">Comments</h3>
     
                 {% for comment in comments %}
                     <article id="comment{{ forloop.index }}" class="js-comment comment">
