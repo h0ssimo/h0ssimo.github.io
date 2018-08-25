@@ -67,7 +67,7 @@
 		line-height: 1.5;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
-		margin: 0 10 (_size(element-margin) * 0.5) 10;
+		margin: 0 0 (_size(element-margin) * 0.5) 0;
 
 		a {
 			border-bottom: 0;
@@ -90,7 +90,7 @@
 
 	h3 {
 		font-size: 1.25rem;
-		margin: 0 20 (_size(element-margin) * 0.75) 0;
+		margin: 0 0 (_size(element-margin) * 0.75) 0;
 	}
 
 	h4 {
@@ -211,3 +211,7 @@
 	}
 
 	@include color-typography;
+
+	#footer h3 {
+        margin-right: 20px;
+    }
