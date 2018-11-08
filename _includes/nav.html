@@ -1,7 +1,5 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}" 	
-<a href="/blog/" data-no-instant>Blog</a>
->Home</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}" data-no-instant>Home</a></li>
   <li class="{% if page.url contains '/portfolio/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Portfolio</a></li>
   <li class="{% if page.url contains '/articles/' %} active {% endif %}"><a href="{{ "/articles/" | absolute_url }}">Articles</a></li>
   <li class="{% if page.url contains '/journal/' %} active {% endif %}"><a href="{{ "/journal/" | absolute_url }}">Journal</a></li>
