@@ -50,7 +50,12 @@
 					{% endif %}
 					</section>
 
-					
+					<section>
+		 {% if page.mview %}
+       {% include mviewer.html %}
+			 {% endif %}
+					</section>
+
 					{% if page.showtags == true %}
 					<div class="tags">
 							<h2 class="comments__heading heading-2">Tags:</h2>
