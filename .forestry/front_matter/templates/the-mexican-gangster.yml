@@ -1,0 +1,65 @@
+---
+label: post
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: image-sm
+  label: Image sm
+  type: file
+  hidden: false
+  default: ''
+- name: featured
+  label: Featured
+  type: boolean
+  hidden: false
+  default: ''
+- name: showtags
+  label: Showtags
+  type: boolean
+  hidden: false
+  default: ''
+- name: artstation
+  label: Artstation
+  type: text
+  hidden: false
+  default: ''
+- name: mview
+  label: Mview
+  type: text
+  hidden: false
+  default: ''
