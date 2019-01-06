@@ -6,7 +6,8 @@ excerpt: ''
 tags:
 - article
 - tutorial
-categories: []
+categories:
+- tutorial
 image: ''
 image-sm: ''
 featured: false
