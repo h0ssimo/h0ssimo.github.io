@@ -1,7 +1,7 @@
 ---
-label: portfolio
-hide_body: false
-is_partial: false
+label: article
+hide_body: 
+is_partial: 
 fields:
 - name: layout
   label: Layout
@@ -53,13 +53,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
-- name: artstation
-  label: Artstation
-  type: text
-  hidden: false
-  default: ''
-- name: mview
-  label: Mview
-  type: text
-  hidden: false
-  default: ''
+pages:
+- _posts/tutorial/2019-01-06-how-to-create-roughness-glossiness-map-for-our-character.md

@@ -1,7 +1,7 @@
 ---
-label: portfolio
-hide_body: false
-is_partial: false
+label: journal
+hide_body: 
+is_partial: 
 fields:
 - name: layout
   label: Layout
@@ -43,23 +43,8 @@ fields:
   type: file
   hidden: false
   default: ''
-- name: featured
-  label: Featured
-  type: boolean
-  hidden: false
-  default: ''
 - name: showtags
   label: Showtags
   type: boolean
-  hidden: false
-  default: ''
-- name: artstation
-  label: Artstation
-  type: text
-  hidden: false
-  default: ''
-- name: mview
-  label: Mview
-  type: text
   hidden: false
   default: ''
