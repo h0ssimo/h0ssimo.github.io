@@ -93,35 +93,35 @@ So, After putting the SDiv level of your model to half, click on _Create DispMap
 
 ![](/images/11_creating_disp_map.jpg)
 
-Now, like before, we need to clone it. Click on Clone Disp.
+Now, like before, we need to clone it. Click on _Clone Disp_.
 
-Before exporting Displacement Map, flip it vertically and then click on Export and save it.
+Before exporting _Displacement Map_, flip it vertically and then click on _Export_ and save it.
 
 ![](/images/12_exporting_disp_map.jpg)
 
-This is where the magic happens! In Photoshop! Yup, it’s time to combine the two.
+This is where the magic happens! In _Photoshop_! Yup, it’s time to combine the two.
 
-First, fill the Background layer with %60 grey. Then, import the Displacement Map on top of it, and put the opacity to something like %70. Next, import the Cavity Map and put the opacity to something like %25. Then add a Levels adjustment specifically on top of it and input something around 1.50 on the midtone section to make it a bit darker.
+First, fill the _Background_ layer with **%60** grey. Then, import the _Displacement Map_ on top of it, and put the opacity to something like **%70**. Next, import the _Cavity Map_ and put the opacity to something like **%25**. Then add a _Levels_ adjustment specifically on top of it and input something around **1.50** on the _midtone_ section to make it a bit darker.
 
 ![](/images/13_photoshop_composite.jpg)
 
-After that, I usually group everything except the Background layer and again, darken it a bit more using a Brightness/Contrast adjustment layer. It’s usually enough to put the brightness value to somewhere around -40.
+After that, I usually group everything except the _Background_ layer and again, darken it a bit more using a _Brightness/Contrast_ adjustment layer. It’s usually enough to put the brightness value to somewhere around **-40**.
 
 ![](/images/14_photoshop_adjustment_layer.jpg)
 
-That’s all. Now you have your Glossiness Map ready to put to test. This is obviously a back-and-forth process, the numbers I mentioned are based on my experience and my workflow. You could always change some stuff in Photoshop and then test it again to achieve what you really like. This method is usually good as a starting point; meaning for example if your character have scars or is sweaty, you could start creating a basic Glossiness Map using the method that I talked about in this article, and then take it to a PBR painting program like Substance Painter, and paint the desired Glossiness on top of the current one as the need arises.
+That’s all. Now you have your _Glossiness Map_ ready to put to test. This is obviously a back-and-forth process, the numbers I mentioned are based on my experience and my workflow. You could always change some stuff in _Photoshop_ and then test it again to achieve what you really like. This method is usually good as a starting point; meaning for example if your character have scars or is sweaty, you could start creating a basic _Glossiness Map_ using the method that I talked about in this article, and then take it to a PBR painting program like _Substance Painter_, and paint the desired _Glossiness_ on top of the current one as the need arises.
 
-This is how my final composited Glossiness Map looks like. It's also worth mentioning that the empty space in the UV layout, is for the hands, which I did not cover in this article.
+This is how my final composited _Glossiness Map_ looks like. It's also worth mentioning that the empty space in the _UV layout_, is for the hands, which I did not cover in this article.
 
 ![](/images/15_glossiness_map.jpg)
 
-As I mentioned earlier, to get the Roughness Map, it’s only a matter of inverting the colors of the Glossiness Map.
+As I mentioned earlier, to get the _Roughness Map_, it’s only a matter of inverting the colors of the _Glossiness Map_.
 
-(Flatten the image in Photoshop, and then press Ctrl+I to invert it.)
+(_Flatten_ the image in _Photoshop_, and then press _Ctrl+I_ to invert it.)
 
 ![](/images/16_roughness_map.jpg)
 
-Here’s the final real-time render I got in Marmoset Toolbag 3.04.
+Here’s the final real-time render I got in _Marmoset Toolbag 3.04_.
 
 ![](/images/17_head_final_render.jpg)
 
