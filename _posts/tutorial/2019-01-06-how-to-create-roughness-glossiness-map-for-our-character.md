@@ -51,23 +51,23 @@ Then, fill your model with white color.
 
 ![](/images/03_fill_color.jpg)
 
-First, we’re gonna create the Cavity Map. For that, click on Mask By Cavity in Masking menu. Then, Ctrl+Click on an empty space to invert the mask.
+First, we’re gonna create the _Cavity Map_. For that, click on _Mask By Cavity_ in _Masking_ menu. Then, _Ctrl+Click_ on an empty space to invert the mask.
 
 ![](/images/04_mask_by_cavity.jpg)
 
-You should have something that looks like the image below. If you don’t get a similar result (though it really depends on your model), try to play with the Cavity Map settings. Most important one of them being the Cavity Profile. And then try again.
+You should have something that looks like the image below. If you don’t get a similar result (though it really depends on your model), try to play with the _Cavity Map_ settings. Most important one of them being the _Cavity Profile_. And then try again.
 
 ![](/images/05_head_masked.jpg)
 
 Now, all we need to do, is to fill the selected area in black.
 
-This is how the Cavity Map should look like. Later, other than what we do with it here, it will have an important role to play when it comes to rendering, whether real-time, or pre-processed.
+This is how the _Cavity Map_ should look like. Later, other than what we do with it here, it will have an important role to play when it comes to rendering, whether real-time, or pre-processed.
 
 ![](/images/06_cavity_map.jpg)
 
-Now, it’s time to create it. But before that, remember that you should already have your final UV Layout. Also, in ZBrush, check you UV Map resolution and make it the size that you want. I usually go for the maximum 8K.
+Now, it’s time to create it. But before that, remember that you should already have your final _UV Layout_. Also, in _ZBrush_, check you _UV Map_ resolution and make it the size that you want. I usually go for the maximum 8K.
 
-OK, everything’s set. Click on New From Polypaint under the Texture Map sub-menu.
+OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ sub-menu.
 
 ![](/images/07_creating_texture.jpg)
 
