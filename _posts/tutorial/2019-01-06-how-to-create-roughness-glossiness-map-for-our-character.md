@@ -35,7 +35,7 @@ In this article, I’m gonna show you a way to quickly create a good looking bas
 
 ### The Concept Behind This Workflow
 
-Basically, all I do is to combine a specific version of the displacement map of my character, and its cavity map. That’s about it.
+Basically, all I do is to combine a specific version of the _displacement map_ of my character, and its _cavity map_. That’s about it.
 
 The displacement map is used to cover the general areas of the head, and the cavity map is used to bring out those little sculpting details like skin pores, and helps to pop them out.
 
