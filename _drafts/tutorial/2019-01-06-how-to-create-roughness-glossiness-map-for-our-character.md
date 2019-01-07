@@ -12,8 +12,8 @@ categories:
 - tutorial
 image: "/images/header_02.jpg"
 image-sm: "/images/header_02.jpg"
-featured: false
-showtags: false
+featured: true
+showtags: true
 artstation: ''
 mview: ''
 
