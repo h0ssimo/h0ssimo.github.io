@@ -27,9 +27,9 @@ OK, so you have your character sculpt ready for the next step. Most of the maps 
 
 ### Glossiness Map VS. Roughness Map
 
-It’s really simple, one is the inverted version of the other. Why don’t we just stick to one of them? Better ask the engineers working behind the rendering engines! So, for example if you create glossiness map, well, congrats, you have the other one as well. All it takes is to open it Photoshop, and press Ctrl+I. That’s it.
+It’s really simple, one is the inverted version of the other. Why don’t we just stick to one of them? Better ask the engineers working behind the rendering engines! So, for example if you create glossiness map, well, congrats, you have the other one as well. All it takes is to open it _Photoshop_, and press _Ctrl+I_. That’s it.
 
-It’s the target engine that determines which one to use. For example, the Unreal Engine 4 (UE4), uses Roughness as its standard workflow, and Marmoset Toolbag, uses Glossiness as its standard.
+It’s the target engine that determines which one to use. For example, the _Unreal Engine 4_ (_UE4_), uses _Roughness_ as its standard workflow, and _Marmoset Toolbag_, uses _Glossiness_ as its standard.
 
 In this article, I’m gonna show you a way to quickly create a good looking base for our glossiness map, then in the end, I’ll invert it to create roughness map as well.
 
