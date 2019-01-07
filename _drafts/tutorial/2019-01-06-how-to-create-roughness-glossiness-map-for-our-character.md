@@ -18,7 +18,7 @@ artstation: ''
 mview: ''
 
 ---
-How to Create Roughness/Glossiness Map For Our Character
+## How to Create Roughness/Glossiness Map For Our Character
 
 OK, so you have your character sculpt ready for the next step. Most of the maps needed for real time renders or pre-rendering engines like Renderman, VRay, Arnold, etc. are straight forward to create. I mean their processes are clear enough. However, creating roughness/glossiness map is probably one of them for most artists. There are several ways of creating it, but first, let me quickly go over the little, confusing difference between the glossiness map and the roughness map.
 
