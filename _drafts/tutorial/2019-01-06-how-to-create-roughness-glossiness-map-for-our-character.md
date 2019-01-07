@@ -86,7 +86,7 @@ As I mentioned earlier, to get the Roughness Map, it’s only a matter of invert
 
 (Flatten the image in Photoshop, and then press Ctrl+I to invert it.)
 
-Here’s the final real-time render I got in Marmoset Toolbag 3.04.
+Here’s the final real-time render I got in Marmoset Toolbag 3.04. It's also worth mentioning that the empty space in the UV layout, is for the hands which I did not cover in this article.
 
 Thanks for reading this article everyone. I hope you got something out of all this.
 
