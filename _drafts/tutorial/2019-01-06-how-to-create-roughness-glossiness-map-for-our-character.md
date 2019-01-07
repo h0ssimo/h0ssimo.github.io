@@ -10,8 +10,8 @@ tags:
 - tutorial
 categories:
 - tutorial
-image: ''
-image-sm: ''
+image: "/images/header_02.jpg"
+image-sm: "/images/header_02.jpg"
 featured: false
 showtags: false
 artstation: ''
