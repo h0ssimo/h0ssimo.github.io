@@ -67,7 +67,7 @@ This is how the _Cavity Map_ should look like. Later, other than what we do with
 
 Now, it’s time to create it. But before that, remember that you should already have your final _UV Layout_. Also, in _ZBrush_, check you _UV Map_ resolution and make it the size that you want. I usually go for the maximum 8K.
 
-OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ sub-menu.
+OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ menu.
 
 ![](/images/07_creating_texture.jpg)
 
@@ -83,13 +83,13 @@ Click on _Export_, and choose the format that you want. I’ll stick with ._PSD_
 
 So, the _Cavity Map_ is done. Now it’s time for the other map that we need; which is a _mid-value displacement map_.
 
-Alright. Let me give you an idea about it all. The whole idea here is, to put your model’s SDiv near half of what you have, and create a Displacement Map from there. My model has 6 subdivision levels and 14.2 million polygons. So I’m gonna put it on half-way through the subdivisions, like SDiv 3 and create the Displacement Map. This way, I prevent having too much (almost noisy details) in my Glossiness Map and cover the bigger shapes of the head.
+Alright. Let me give you an idea about it all. The whole idea here is, to put your model’s SDiv near half of what you have, and create a _Displacement Map_ from there. My model has 6 subdivision levels and 14.2 million polygons. So I’m gonna put it on half-way through the subdivisions, like SDiv 3 and create the _Displacement Map_. This way, I prevent having too much (almost noisy details) in my _Glossiness Map_ and cover the bigger shapes of the head.
 
 I hope I’m clear, but don’t worry if it’s not the case, it will make sense in the end.
 
 ![](/images/10_subdivision_level.jpg)
 
-So, After putting the SDiv level of your model to half, click on Create DispMap under the Displacement Map menu.
+So, After putting the SDiv level of your model to half, click on _Create DispMap_ under the _Displacement Map_ menu.
 
 ![](/images/11_creating_disp_map.jpg)
 
