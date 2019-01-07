@@ -43,7 +43,7 @@ So, enough talking, let’s do this.
 
 ### Detailed Steps of Creating Glossiness Map
 
-First, make sure you have no sculpting layers by baking all of them (if you have any). If you don’t do this step, you’re gonna have trouble painting your maps on your character.
+First, make sure you have no sculpting layers by baking all of them (if you have any). If you don’t do this step, probably you’re gonna have trouble painting your maps on your character.
 
 ![](/images/02_baking_layers.jpg)
 
