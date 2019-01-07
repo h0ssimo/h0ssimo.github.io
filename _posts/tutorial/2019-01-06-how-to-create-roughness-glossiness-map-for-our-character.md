@@ -62,15 +62,23 @@ Now, all we need to do, is to fill the selected area in black.
 
 This is how the Cavity Map should look like. Later, other than what we do with it here, it will have an important role to play when it comes to rendering, whether real-time, or pre-processed.
 
+![](/images/06_cavity_map.jpg)
+
 Now, it’s time to create it. But before that, remember that you should already have your final UV Layout. Also, in ZBrush, check you UV Map resolution and make it the size that you want. I usually go for the maximum 8K.
 
 OK, everything’s set. Click on New From Polypaint under the Texture Map sub-menu.
 
+![](/images/07_creating_texture.jpg)
+
 Then, you need to clone your texture to be able to export it. Click on Clone Txtr to clone it.
+
+![](/images/08_cloning_texture.jpg)
 
 Before exporting, you need to flip the texture vertically. Because as you know, the UV workflow in ZBrush is inverted vertically in comparison to what you have in other 3D packages like Maya, 3Ds Max and Blender.
 
 Click on Export, and choose the format that you want. I’ll stick with .PSD for now.
+
+![](/images/09_exporting_texture.jpg)
 
 So, the Cavity Map is done. Now it’s time for the other map that we need; which is a mid-value displacement map.
 
@@ -78,25 +86,43 @@ Alright. Let me give you an idea about it all. The whole idea here is, to put yo
 
 I hope I’m clear, but don’t worry if it’s not the case, it will make sense in the end.
 
+![](/images/10_subdivision_level.jpg)
+
 So, After putting the SDiv level of your model to half, click on Create DispMap under the Displacement Map menu.
+
+![](/images/11_creating_disp_map.jpg)
 
 Now, like before, we need to clone it. Click on Clone Disp.
 
 Before exporting Displacement Map, flip it vertically and then click on Export and save it.
 
+![](/images/12_exporting_disp_map.jpg)
+
 This is where the magic happens! In Photoshop! Yup, it’s time to combine the two.
 
-First, fill the Background layer with %60 grey. Then, import the Displacement Map on top of it, and put the opacity to something like %70. Next, import the Cavity Map and put the opacity to something like %25. Then add a Levels adjustment specifically on top of it and input something around 1.50 on the midtone section to make it a bit darker. After that, I usually group everything except the Background layer and again, darken it a bit more using a Brightness/Contrast adjustment layer. It’s usually enough to put the brightness value to somewhere around -40.
+First, fill the Background layer with %60 grey. Then, import the Displacement Map on top of it, and put the opacity to something like %70. Next, import the Cavity Map and put the opacity to something like %25. Then add a Levels adjustment specifically on top of it and input something around 1.50 on the midtone section to make it a bit darker.
+
+![](/images/13_photoshop_composite.jpg)
+
+After that, I usually group everything except the Background layer and again, darken it a bit more using a Brightness/Contrast adjustment layer. It’s usually enough to put the brightness value to somewhere around -40.
+
+![](/images/14_photoshop_adjustment_layer.jpg)
 
 That’s all. Now you have your Glossiness Map ready to put to test. This is obviously a back-and-forth process, the numbers I mentioned are based on my experience and my workflow. You could always change some stuff in Photoshop and then test it again to achieve what you really like. This method is usually good as a starting point; meaning for example if your character have scars or is sweaty, you could start creating a basic Glossiness Map using the method that I talked about in this article, and then take it to a PBR painting program like Substance Painter, and paint the desired Glossiness on top of the current one as the need arises.
 
-This is how my final composited Glossiness Map looks like.
+This is how my final composited Glossiness Map looks like. It's also worth mentioning that the empty space in the UV layout, is for the hands, which I did not cover in this article.
+
+![](/images/15_glossiness_map.jpg)
 
 As I mentioned earlier, to get the Roughness Map, it’s only a matter of inverting the colors of the Glossiness Map.
 
 (Flatten the image in Photoshop, and then press Ctrl+I to invert it.)
 
-Here’s the final real-time render I got in Marmoset Toolbag 3.04. It's also worth mentioning that the empty space in the UV layout, is for the hands which I did not cover in this article.
+![](/images/16_roughness_map.jpg)
+
+Here’s the final real-time render I got in Marmoset Toolbag 3.04.
+
+![](/images/17_head_final_render.jpg)
 
 Thanks for reading this article everyone. I hope you got something out of all this.
 
