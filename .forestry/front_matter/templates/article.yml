@@ -53,3 +53,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- _posts/tutorial/2019-01-06-how-to-create-roughness-glossiness-map-for-our-character.md
