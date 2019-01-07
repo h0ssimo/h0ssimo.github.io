@@ -8,6 +8,7 @@ excerpt: In this article, I'm gonna go over my workflow on how I create a quick 
 tags:
 - article
 - tutorial
+- workflow
 categories:
 - tutorial
 image: "/images/header_02.jpg"
