@@ -125,7 +125,7 @@ Here’s the final real-time render I got in _Marmoset Toolbag 3.04_.
 
 ![](/images/17_head_final_render.jpg)
 
-Thanks for reading this article everyone. I hope you got something out of all this.
+Thanks for reading this article everyone. I hope you got away with something out of all this.
 
 Feel free to let me know your feedback and ask me your questions in the comments.
 
