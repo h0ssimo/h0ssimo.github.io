@@ -71,17 +71,17 @@ OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ su
 
 ![](/images/07_creating_texture.jpg)
 
-Then, you need to clone your texture to be able to export it. Click on Clone Txtr to clone it.
+Then, you need to clone your texture to be able to export it. Click on _Clone Txtr_ to clone it.
 
 ![](/images/08_cloning_texture.jpg)
 
-Before exporting, you need to flip the texture vertically. Because as you know, the UV workflow in ZBrush is inverted vertically in comparison to what you have in other 3D packages like Maya, 3Ds Max and Blender.
+Before exporting, you need to flip the texture vertically. Because as you know, the UV workflow in _ZBrush_ is inverted vertically in comparison to what you have in other 3D packages like _Maya_, _3Ds Max_ and _Blender_.
 
-Click on Export, and choose the format that you want. I’ll stick with .PSD for now.
+Click on _Export_, and choose the format that you want. I’ll stick with ._PSD_ for now.
 
 ![](/images/09_exporting_texture.jpg)
 
-So, the Cavity Map is done. Now it’s time for the other map that we need; which is a mid-value displacement map.
+So, the _Cavity Map_ is done. Now it’s time for the other map that we need; which is a _mid-value displacement map_.
 
 Alright. Let me give you an idea about it all. The whole idea here is, to put your model’s SDiv near half of what you have, and create a Displacement Map from there. My model has 6 subdivision levels and 14.2 million polygons. So I’m gonna put it on half-way through the subdivisions, like SDiv 3 and create the Displacement Map. This way, I prevent having too much (almost noisy details) in my Glossiness Map and cover the bigger shapes of the head.
 
