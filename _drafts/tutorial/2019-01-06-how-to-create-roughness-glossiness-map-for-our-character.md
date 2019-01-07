@@ -22,7 +22,9 @@ mview: ''
 
 OK, so you have your character sculpt ready for the next step. Most of the maps needed for real time renders or pre-rendering engines like Renderman, VRay, Arnold, etc. are straight forward to create. I mean their processes are clear enough. However, creating roughness/glossiness map is probably one of them for most artists. There are several ways of creating it, but first, let me quickly go over the little, confusing difference between the glossiness map and the roughness map.
 
-Glossiness Map VS. Roughness Map
+![](/images/01_head_sculpt.jpg)
+
+### Glossiness Map VS. Roughness Map
 
 It’s really simple, one is the inverted version of the other. Why don’t we just stick to one of them? Better ask the engineers working behind the rendering engines! So, for example if you create glossiness map, well, congrats, you have the other one as well. All it takes is to open it Photoshop, and press Ctrl+I. That’s it.
 
@@ -30,7 +32,7 @@ It’s the target engine that determines which one to use. For example, the Unre
 
 In this article, I’m gonna show you a way to quickly create a good looking base for our glossiness map, then in the end, I’ll invert it to create roughness map as well.
 
-The Concept Behind This Workflow
+### The Concept Behind This Workflow
 
 Basically, all I do is to combine a specific version of the displacement map of my character, and its cavity map. That’s about it.
 
@@ -38,15 +40,23 @@ The displacement map is used to cover the general areas of the head, and the cav
 
 So, enough talking, let’s do this.
 
-Detailed Steps of Creating Glossiness Map
+### Detailed Steps of Creating Glossiness Map
 
 First, make sure you have no sculpting layers by baking all of them (if you have any). As if you don’t do this step, you’re gonna have trouble painting your maps on your character.
 
+![](/images/02_baking_layers.jpg)
+
 Then, fill your model with white color.
+
+![](/images/03_fill_color.jpg)
 
 First, we’re gonna create the Cavity Map. For that, click on Mask By Cavity in Masking menu. Then, Ctrl+Click on an empty space to invert the mask.
 
-You should have something that looks like this. If you don’t get a similar result (though it really depends on your model), try to play with the Cavity Map settings. Most important one of them being the Cavity Profile. And then try again.
+![](/images/04_mask_by_cavity.jpg)
+
+You should have something that looks like the image below. If you don’t get a similar result (though it really depends on your model), try to play with the Cavity Map settings. Most important one of them being the Cavity Profile. And then try again.
+
+![](/images/05_head_masked.jpg)
 
 Now, all we need to do, is to fill the selected area in black.
 
