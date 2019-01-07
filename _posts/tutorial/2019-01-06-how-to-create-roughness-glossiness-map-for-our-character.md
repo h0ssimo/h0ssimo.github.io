@@ -51,33 +51,33 @@ Then, fill your model with white color.
 
 First, we’re gonna create the _Cavity Map_. For that, click on _Mask By Cavity_ in _Masking_ menu. Then, _Ctrl+Click_ on an empty space to invert the mask.
 
-<img src="/04_mask_by_cavity.jpg" alt="04_mask_by_cavity" class="responsive">
+<img src="/images/04_mask_by_cavity.jpg" alt="04_mask_by_cavity" class="responsive">
 
 You should have something that looks like the image below. If you don’t get a similar result (though it really depends on your model), try to play with the _Cavity Map_ settings. Most important one of them being the _Cavity Profile_. And then try again.
 
-<img src="/05_head_masked.jpg" alt="05_head_masked" class="responsive">
+<img src="/images/05_head_masked.jpg" alt="05_head_masked" class="responsive">
 
 Now, all we need to do, is to fill the selected area in black.
 
 This is how the _Cavity Map_ should look like. Later, other than what we do with it here, it will have an important role to play when it comes to rendering, whether real-time, or pre-processed.
 
-<img src="/06_cavity_map.jpg" alt="06_cavity_map" class="responsive">
+<img src="/images/06_cavity_map.jpg" alt="06_cavity_map" class="responsive">
 
 Now, it’s time to create it. But before that, remember that you should already have your final _UV Layout_. Also, in _ZBrush_, check you _UV Map_ resolution and make it the size that you want. I usually go for the maximum 8K.
 
 OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ menu.
 
-<img src="/07_creating_texture.jpg" alt="07_creating_texture" class="responsive">
+<img src="/images/07_creating_texture.jpg" alt="07_creating_texture" class="responsive">
 
 Then, you need to clone your texture to be able to export it. Click on _Clone Txtr_ to clone it.
 
-<img src="/08_cloning_texture.jpg" alt="08_cloning_texture" class="responsive">
+<img src="/images/08_cloning_texture.jpg" alt="08_cloning_texture" class="responsive">
 
 Before exporting, you need to flip the texture vertically. Because as you know, the UV workflow in _ZBrush_ is inverted vertically in comparison to what you have in other 3D packages like _Maya_, _3Ds Max_ and _Blender_.
 
 Click on _Export_, and choose the format that you want. I’ll stick with ._PSD_ for now.
 
-<img src="/09_exporting_texture.jpg" alt="09_exporting_texture" class="responsive">
+<img src="/images/09_exporting_texture.jpg" alt="09_exporting_texture" class="responsive">
 
 So, the _Cavity Map_ is done. Now it’s time for the other map that we need; which is a _mid-value displacement map_.
 
@@ -85,17 +85,17 @@ Alright. Let me give you an idea about it all. The whole idea here is, to put yo
 
 I hope I’m clear, but don’t worry if it’s not the case, it will make sense in the end.
 
-<img src="/10_subdivision_level.jpg" alt="10_subdivision_level" class="responsive">
+<img src="/images/10_subdivision_level.jpg" alt="10_subdivision_level" class="responsive">
 
 So, After putting the SDiv level of your model to half, click on _Create DispMap_ under the _Displacement Map_ menu.
 
-<img src="/11_creating_disp_map.jpg" alt="11_creating_disp_map" class="responsive">
+<img src="/images/11_creating_disp_map.jpg" alt="11_creating_disp_map" class="responsive">
 
 Now, like before, we need to clone it. Click on _Clone Disp_.
 
 Before exporting _Displacement Map_, flip it vertically and then click on _Export_ and save it.
 
-<img src="/12_exporting_disp_map.jpg" alt="12_exporting_disp_map" class="responsive">
+<img src="/images/12_exporting_disp_map.jpg" alt="12_exporting_disp_map" class="responsive">
 
 This is where the magic happens! In _Photoshop_! Yup, it’s time to combine the two.
 
