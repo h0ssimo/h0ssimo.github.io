@@ -15,8 +15,6 @@ image: "/images/header_02.jpg"
 image-sm: "/images/header_02.jpg"
 featured: true
 showtags: true
-artstation: ''
-mview: ''
 
 ---
 OK, so you have your character sculpt ready for the next step. Most of the maps needed for real time renders or rendering engines like _Renderman_, _VRay_, _Arnold_, etc. are straight forward to create. I mean their processes are clear enough. However, creating roughness/glossiness map is probably not one of them for most artists. There are several ways of creating it, but first, let me quickly go over the little, confusing difference between the _glossiness map_ and the _roughness map_.
