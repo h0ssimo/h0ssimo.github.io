@@ -5,7 +5,7 @@ date: 2018-08-07
 tags: photography
 categories:
   - journal
-excerpt: I personally like this one a lot. It reminds me of, well, "Moonwalk!"
+excerpt: The green one (probably a male, I'm not a bird expert) seems to be really regretful. I wish could tell "I feel ya bro" to him!
 image: /images/Journal/Photography/im_not_listening.JPG
 image-sm: /images/Journal/Photography/im_not_listening.JPG
 featured: false
