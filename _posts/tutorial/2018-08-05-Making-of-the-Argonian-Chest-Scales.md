@@ -20,36 +20,36 @@ To create the scales on the chest of this guy, I used ZBrush's **Noise** maker c
 
 Mask the area you want to apply the scales, and invert it.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_1.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_1" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_1.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_1" class="responsive">
 
 Go to *Tool*>*Surface*>*Noise*.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_2.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_2" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_2.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_2" class="responsive">
 
 Click on Alpha On/Off and open your alpha image.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_3.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_3" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_3.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_3" class="responsive">
 
 Click on *Uv* to scatter alpha image using UVs.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_4.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_4" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_4.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_4" class="responsive">
 
 Zero out the *Mix Basic Noise* slider to avoid the funkiness of the basic noise.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_5.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_5" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_5.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_5" class="responsive">
 
 Play around with *Alpha Scale* to adjust the size of scattered alpha.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_6.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_6" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_6.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_6" class="responsive">
 
 Adjust the depth of the alpha, by using the *Strength* slider.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_7.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_7" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_7.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_7" class="responsive">
 
 Click *OK*, adjust the mask if you need to, and then click on *Apply To Mesh*.
 
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_8.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_8" class="narrowResponsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_8.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_8" class="responsive">
 
 ### General Noise Maker Tips
 
