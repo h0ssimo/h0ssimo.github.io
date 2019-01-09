@@ -23,4 +23,6 @@ Here, I'm gonna share some of the tips I know from my experience.
 
 * Have an eye on the focal length of the camera you're sculpting to. It better be the same as your main references. If you're using ZBrush, there's no real camera in there, but you could change the Angle Of View under the Draw menu. Somewhere around 20 (the default is 50) will do the job. It's worth mentioning that you could try getting your references' EXIF info (camera information) online on websites like [metapicz](http://metapicz.com "metapicz").
 
-* Anyways, aside from all those stuff about lenses and cameras, you definitely will have to eyeball lots of stuff when sculpting. You gotta train your eye, and as you grow your experience, you see more. But, how to train the eyes? Well, as you know, the most common way
+* Anyways, aside from all those stuff about lenses and cameras, you definitely will have to eyeball lots of stuff when sculpting. You gotta train your eye, and as you grow your experience, you see more. But, how to train the eyes? Well, as you know, the most common way, is to measure. And by that, I don't mean to measure like "the distance from the eyes to the mouth;" you will have better results if you try to measure more in-depth. Like say "the distance between the corner of the mouth, to the nasolabial fold." The point is, to break the main distances to smaller ones to make it more trackable.
+
+* 
