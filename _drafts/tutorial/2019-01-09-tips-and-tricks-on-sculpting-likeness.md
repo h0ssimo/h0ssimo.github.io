@@ -18,3 +18,6 @@ showtags: true
 There have always been discussions on how to do likeness art. Be it drawings or sculpting. Well, first, let me make it clear; it's totally normal to get frustrated when you begin, you're not alone, just learn to deal with it. That's true even for industry-leading artists. It's a hard thing to do after all.
 
 Here, I'm gonna share some of the tips I know from my experience.
+
+* First things first, gather as much references as you can. The more, the better. It's worth it, I'm telling you. Have a special eye on those with harsher shadows. It's gonna help you a lot when it comes to sculpting secondary shapes. Also, normally, you will need front views and a side view. Go for the ones shot with tele lenses (around 100 mm focal length in the best), which kinda flatten the face, and cause less distortion on it.
+* 
