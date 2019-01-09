@@ -7,10 +7,11 @@ excerpt: In this article, I'm gonna go over some tips and tricks I picked up so 
 tags:
 - article
 - TipsAndTricks
-categories: []
+categories:
+- tutorial
 image: ''
 image-sm: ''
-featured: false
-showtags: false
+featured: true
+showtags: true
 
 ---
