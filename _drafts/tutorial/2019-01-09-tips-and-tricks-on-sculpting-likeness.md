@@ -28,3 +28,7 @@ Here, I'm gonna share some of the tips I know from my experience on sculpting li
 * As I mentioned earlier, try to make good use of the shadows in your references. I mean, the shadows are not just there, they are there for a reason. And that reason is the plane change, or the shape change happening in the face. That's really important, and why the images with harsher lighting situations are important to look for when gathering references.
 
 * Don't stick with only one or two views, always look at your model from different angles. If you think that's obvious, well, yes, but I have something else for you; change the light direction frequently as well. It could be easy to forget while sculpting. The benefits of changing the light direction is to check if you get all those shadows you see in your references and the plane changes in the face are happening nicely.
+
+* It's a common mistake to for the details too soon. Well, don't. Not until you're happy with the basic proportions and measurements. Stay on low subdivision levels until you feel the face is recognizable (you could also ask someone if they can recognize).
+
+* If you're stuck and also have time, let your brain and eyes rest for a day or two. Completely forget about it, and when you come back, you will know what to do. As you become more experienced, the need for this step lessens.
