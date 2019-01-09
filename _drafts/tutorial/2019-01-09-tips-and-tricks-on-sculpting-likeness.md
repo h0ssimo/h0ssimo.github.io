@@ -10,8 +10,8 @@ tags:
 - likeness
 categories:
 - tutorial
-image: ''
-image-sm: ''
+image: "/images/tips_and_tricks_on_sculpting_likeness_header.jpg"
+image-sm: "/images/tips_and_tricks_on_sculpting_likeness_header.jpg"
 featured: true
 showtags: true
 
