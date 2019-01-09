@@ -28,4 +28,6 @@ Here, I'm gonna share some of the tips I know from my experience on sculpting li
 * It's a common mistake to for the details too soon. Well, don't. Not until you're happy with the basic proportions and measurements. Stay on low subdivision levels until you feel the face is recognizable (you could also ask someone if they can recognize).
 * If you're stuck and also have time, let your brain and eyes rest for a day or two. Completely forget about it, and when you come back, you will know what to do. As you become more experienced, the need for this step lessens.
 
-I really hope this little article was useful for you guys. If I'm missing something, let me know in the comments. Remember, sharing is caring!
+If you're interested, you can see the full Leonard Cohen sculpt I did [here](https://hossimo.com/portfolio/Leonard-Cohen/ "Leonard Cohen Likeness Sculpt by Hossein Moayed").
+
+I really hope this little article was useful for you guys. If I'm missing something, please let me know in the comments. Remember, sharing is caring!
