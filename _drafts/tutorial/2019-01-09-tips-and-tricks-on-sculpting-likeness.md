@@ -25,4 +25,6 @@ Here, I'm gonna share some of the tips I know from my experience.
 
 * Anyways, aside from all those stuff about lenses and cameras, you definitely will have to eyeball lots of stuff when sculpting. You gotta train your eye, and as you grow your experience, you see more. But, how to train the eyes? Well, as you know, the most common way, is to measure. And by that, I don't mean to measure like "the distance from the eyes to the mouth;" you will have better results if you try to measure more in-depth. Like say "the distance between the corner of the mouth, to the nasolabial fold." The point is, to break the main distances to smaller ones to make it more trackable.
 
-* 
+* As I mentioned earlier, try to make good use of the shadows in your references. I mean, the shadows are not just there, they are there for a reason. And that reason is the plane change, or the shape change happening in the face. That's really important, and why the images with harsher lighting situations are important to look for when gathering references.
+
+* Don't stick with only one or two views, always look at your model from different angles. If you think that's obvious, well, yes, but I have something else for you; change the light direction frequently as well. It could be easy to forget while sculpting. The benefits of changing the light direction is to check if you get all those shadows you see in your references and the plane changes in the face are happening nicely.
