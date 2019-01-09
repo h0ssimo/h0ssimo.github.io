@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making of the Argonian: Chest Scales"
+title: "Quick Tips: Making of the Argonian Chest Scales"
 date: 2018-08-05
 tags: quick-tips tutorial article argonian
 categories:
