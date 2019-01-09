@@ -15,3 +15,6 @@ featured: true
 showtags: true
 
 ---
+There have always been discussions on how to do likeness art. Be it drawings or sculpting. Well, first, let me make it clear; it's totally normal to get frustrated when you begin, you're not alone, just learn to deal with it. That's true even for industry-leading artists. It's a hard thing to do after all.
+
+Here, I'm gonna share some of the tips I know from my experience.
