@@ -15,7 +15,7 @@ featured: true
 showtags: true
 
 ---
-There have always been discussions on how to do likeness art. Be it drawings or sculpting. Well, first, let me make it clear; it's totally normal to get frustrated when you begin, you're not alone, just learn to deal with it. That's true even for industry-leading artists. It's a hard thing to do after all.
+There have always been discussions on how to do likeness art. Be it drawing or sculpting. Well, first, let me make it clear; it's totally normal to get frustrated when you begin, you're not alone, just learn to deal with it. Your model WILL look ugly for the first 4-5 hours, or day maybe. That's true even for industry-leading artists. It's a hard thing to do after all.
 
 Here, I'm gonna share some of the tips I know from my experience on sculpting likenesses.
 
@@ -32,3 +32,5 @@ Here, I'm gonna share some of the tips I know from my experience on sculpting li
 * It's a common mistake to for the details too soon. Well, don't. Not until you're happy with the basic proportions and measurements. Stay on low subdivision levels until you feel the face is recognizable (you could also ask someone if they can recognize).
 
 * If you're stuck and also have time, let your brain and eyes rest for a day or two. Completely forget about it, and when you come back, you will know what to do. As you become more experienced, the need for this step lessens.
+
+I really hope this was useful for you guys. If I'm missing something, let me know in the comments. Remember, sharing is caring!
