@@ -27,6 +27,7 @@ Here, I'm gonna share some of the tips I know from my experience on sculpting li
 * Don't stick with only one or two views, always look at your model from different angles. If you think that's obvious, well, yes, but I have something else for you; change the light direction frequently as well. It could be easy to forget while sculpting. The benefits of changing the light direction is to check if you get all those shadows you see in your references and the plane changes in the face are happening nicely.
 * It's a common mistake to for the details too soon. Well, don't. Not until you're happy with the basic proportions and measurements. Stay on low subdivision levels until you feel the face is recognizable (you could also ask someone if they can recognize).
 * If you're stuck and also have time, let your brain and eyes rest for a day or two. Completely forget about it, and when you come back, you will know what to do. As you become more experienced, the need for this step lessens.
+* There's one trick that I like to do while I'm sculpting, that is to use Photoshop's Liquify tool on a screenshot of my work-in-progress model, to try different shapes and forms. This is definitely faster than sculpting itself, so I can see where I'm gonna go next.
 
 If you're interested, you can see the full Leonard Cohen sculpt I did [here](https://hossimo.com/portfolio/Leonard-Cohen/ "Leonard Cohen Likeness Sculpt by Hossein Moayed").
 
