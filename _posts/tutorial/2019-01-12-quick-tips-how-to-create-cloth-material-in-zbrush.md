@@ -16,7 +16,7 @@ featured: true
 showtags: true
 
 ---
-It's really a good idea to present our characters before going further in the pipeline. This way, the directors in charge, can have a more clear idea of how it's gonna look in the end, and change some stuff if they need to. It's much easier to change stuff at this stage anyways.
+It's really a good idea to present our characters before going further in the pipeline. This way, the directors in charge, can have a clearer idea of how it's gonna look in the end, and change some stuff if they need to. It's much easier to change stuff at this stage anyways.
 
 In bigger production pipelines, it's a crucial task to check the concepts regularly. However, while it's totally acceptable to even share a _ZBrush_ screenshot, or a quick _BPR_ render, it's more appealing to present the art in style.
 
