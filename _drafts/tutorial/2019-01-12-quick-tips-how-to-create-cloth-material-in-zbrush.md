@@ -16,3 +16,8 @@ featured: true
 showtags: true
 
 ---
+It's really a good idea to present our characters before going further in the pipeline. This way, the directors in charge, can have a more clear idea of how it's gonna look in the end, and change some stuff if they need to. It's much easier to change stuff at this stage anyways.
+
+In bigger production pipelines, it's a crucial task to check the concepts regularly. However, while it's totally acceptable to even share a ZBrush screenshot, or a quick BPR render, it's more appealing to present the art in style.
+
+One aspect is the materials. Here, I'm gonna go step by step, over how I create cloth material for my concept presentations. Hope it comes handy for you guys as well.
