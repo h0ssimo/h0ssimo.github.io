@@ -48,6 +48,14 @@ Next, while the _DoubleShade1_ active, click on _PasteSH_ under the _Modifiers_ 
 
 Just so you know, you can use other multiple shaders as well; just turn off the extra slots and the rest is the same as explained.
 
+This is the _ZBrush_ screenshot of what I got:
+
+![](/images/04_zbrush_screenshot.jpg)
+
+This is a quick _BPR_ render I composited in _Photoshop_:
+
+![](/images/05_final_render.jpg)
+
 Remember, if you're gonna render it using _BPR_, apply the noise to the mesh, and colorize the cavities to pop the details out in the render as well.
 
 That's it. Thanks for reading another article of mine. Hope it's worth your time.
