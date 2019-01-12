@@ -21,3 +21,11 @@ It's really a good idea to present our characters before going further in the pi
 In bigger production pipelines, it's a crucial task to check the concepts regularly. However, while it's totally acceptable to even share a ZBrush screenshot, or a quick BPR render, it's more appealing to present the art in style.
 
 One aspect is the materials. Here, I'm gonna go step by step, over how I create cloth material for my concept presentations. Hope it comes handy for you guys as well.
+
+### The Concept Behind This Method
+
+It's really simple: pop out the cloth details, and make a fresnel look in your material. While ZBrush is not a real rendering engine, it has its own tools to help us create what we want.
+
+### Step By Step Guide
+
+OK, so you have your cloth sculpt/simulation imported in ZBrush. Make sure that you have a nice UV layout for your cloth piece. It's only needed for the cloth details, so don't worry if you only need to use the material I'm gonna talk about.
