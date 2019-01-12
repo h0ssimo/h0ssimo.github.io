@@ -37,3 +37,9 @@ These are the setting I have in the NoiseMaker window:
 Now, the real trick; the material. With your BasicMaterial selected, go to the Material menu, and click on CopySH under the Modifiers sub-menu, to copy the shader. Now, choose DoubleShade1 material in the Standard Materials palette.
 
 If you have troubles previewing the material on your model, just make sure this little brush button is turned off the Subtool menu. Now, you're on track.
+
+Next, while the DoubleShade1 active, click on PasteSH under the Modifiers sub-menu in the Material menu. Note that since this is a double shader, you have two slots named S1 and S2. Click on S2, and PasteSH again. After that, with S2 selected, crank up the Diffuse slider and go to the Mixer menu, and crank up the Fresnel slider as well. BOOM! That's the trick! Now, it's only a matter of playing with Diffuse, Specular, and Ambient sliders of the slot 1 (S1) to get what you're looking for. Usually, I keep all of them pretty low.
+
+Remember, if you're gonna render it using BPR, apply the noise to the mesh, and colorize it to pop the details out in the render as well.
+
+That's it. Thanks for reading another article of mine. Hope it's worth your time.
