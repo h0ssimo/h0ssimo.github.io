@@ -51,3 +51,5 @@ Just so you know, you can use other multiple shaders as well, just turn of the e
 Remember, if you're gonna render it using BPR, apply the noise to the mesh, and colorize the cavities to pop the details out in the render as well.
 
 That's it. Thanks for reading another article of mine. Hope it's worth your time.
+
+Cheers!
