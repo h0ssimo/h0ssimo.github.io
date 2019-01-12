@@ -29,3 +29,11 @@ It's really simple: pop out the cloth details, and make a fresnel look in your m
 ### Step By Step Guide
 
 OK, so you have your cloth sculpt/simulation imported in ZBrush. Make sure that you have a nice UV layout for your cloth piece. It's only needed for the cloth details, so don't worry if you only need to use the material I'm gonna talk about.
+
+First, let's add cloth texture on top of what we have, using the Noise maker under the Surface menu. You need proper UV layout, and a good tileable displacement texture map for this step. Open the NoiseMaker, the plug the disp image on the bottom left, where it says Alpha On/Off. Then, zero out the Mix Basic Noise slider to get rid of the unwanted noise. Then play with the sliders to get your desired Strength and Scale. The important part here could be underestimating the power of ColorBlend slider. Put it to a negative value to add more depth to your cloth's look.
+
+These are the setting I have in the NoiseMaker window:
+
+Now, the real trick; the material. With your BasicMaterial selected, go to the Material menu, and click on CopySH under the Modifiers sub-menu, to copy the shader. Now, choose DoubleShade1 material in the Standard Materials palette.
+
+If you have troubles previewing the material on your model, just make sure this little brush button is turned off the Subtool menu. Now, you're on track.
