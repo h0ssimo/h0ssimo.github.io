@@ -10,9 +10,9 @@ tags:
 - tutorial
 categories:
 - tutorial
-image: ''
-image-sm: ''
-featured: false
-showtags: false
+image: "/images/how_to_create_cloth_material_in _zbrush_header.jpg"
+image-sm: "/images/how_to_create_cloth_material_in _zbrush_header.jpg"
+featured: true
+showtags: true
 
 ---
