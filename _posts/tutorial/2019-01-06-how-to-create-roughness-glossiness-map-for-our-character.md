@@ -1,6 +1,6 @@
 ---
-title: "Workflow: How to Create Roughness / Glossiness Map For Our Character"
-date: 2019-01-06
+title: 'Workflow: How to Create Roughness / Glossiness Map For Our Character'
+date: 2019-01-06 00:00:00 +0000
 layout: post
 excerpt: In this article, I'm gonna go over my workflow on how I create a quick but
   good-looking Glossiness/Roughness Map for my characters. It's a solid starting point
@@ -97,11 +97,11 @@ Before exporting _Displacement Map_, flip it vertically and then click on _Expor
 
 This is where the magic happens! In _Photoshop_! Yup, it’s time to combine the two.
 
-First, fill the _Background_ layer with **%60** grey. Then, import the _Displacement Map_ on top of it, and put the opacity to something like **%70**. Next, import the _Cavity Map_ and put the opacity to something like **%25**. Then add a _Levels_ adjustment specifically on top of it and input something around **1.50** on the _midtone_ section to make it a bit darker.
+First, fill the _Background_ layer with **%60** grey. Then, import the _Displacement Map_ on top of it, and put the opacity to something like **%70**. Next, import the _Cavity Map_ and put the opacity to something like **%25**. Then add a _Levels_ adjustment specifically on top of it and input something around **1.50** on the _midtone_ section to make it a bit lighter in _midtone_ areas.
 
 <img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/13_photoshop_composite.jpg" alt="images/13_photoshop_composite" class="responsive">
 
-After that, I usually group everything except the _Background_ layer and again, darken it a bit more using a _Brightness/Contrast_ adjustment layer. It’s usually enough to put the brightness value to somewhere around **-40**.
+After that, I usually group everything except the _Background_ layer and darken it a bit more using a _Brightness/Contrast_ adjustment layer. It’s usually enough to put the brightness value to somewhere around **-40**.
 
 <img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/14_photoshop_adjustment_layer.jpg" alt="14_photoshop_adjustment_layer" class="responsive">
 
