@@ -5,3 +5,14 @@
   max-width: 100%;
   height: auto;
 }
+
+@media only screen and (min-width: 800px) {
+  .narrowResponsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    max-width: 40%;
+    height: auto;
+  }
+}
