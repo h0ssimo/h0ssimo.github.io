@@ -6,3 +6,23 @@
   max-width: 100%;
   height: auto;
 }
+
+.narrowResponsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+  max-width: 100%;
+  height: auto;
+}
+
+@media only screen and (min-width: 700px) {
+  .narrowResponsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    max-width: 40%;
+    height: auto;
+  }
+}

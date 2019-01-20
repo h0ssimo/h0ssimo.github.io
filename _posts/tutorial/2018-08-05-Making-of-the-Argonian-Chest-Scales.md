@@ -24,7 +24,7 @@ Mask the area you want to apply the scales, and invert it.
 
 Go to *Tool*>*Surface*>*Noise*.
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_2.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_2" class="responsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_2.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_2" class="narrowResponsive">
 
 Click on Alpha On/Off and open your alpha image.
 
@@ -49,7 +49,7 @@ Adjust the depth of the alpha, by using the *Strength* slider.
 Click *OK*, adjust the mask if you need to, and then click on *Apply To Mesh*.
 
 
-<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_8.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_8" class="responsive">
+<img src="/images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Step_8.jpg" alt="Making_of_the_Argonian_Chest_Scales_Step_8" class="narrowResponsive">
 
 ### General Noise Maker Tips
 

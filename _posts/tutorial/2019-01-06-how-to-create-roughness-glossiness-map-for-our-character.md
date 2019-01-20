@@ -41,41 +41,41 @@ So, enough talking, let’s do this.
 
 First, make sure you have no sculpting layers by baking all of them (if you have any). If you don’t do this step, probably you’re gonna have trouble painting your maps on your character.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/02_baking_layers.jpg" alt="02_baking_layers" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/02_baking_layers.jpg" alt="02_baking_layers" class="narrowResponsive">
 
 Then, fill your model with white color.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/03_fill_color.jpg" alt="03_fill_color" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/03_fill_color.jpg" alt="03_fill_color" class="narrowResponsive">
 
 First, we’re gonna create the _Cavity Map_. For that, click on _Mask By Cavity_ in _Masking_ menu. Then, _Ctrl+Click_ on an empty space to invert the mask.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/04_mask_by_cavity.jpg" alt="04_mask_by_cavity" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/04_mask_by_cavity.jpg" alt="04_mask_by_cavity" class="narrowResponsive">
 
 You should have something that looks like the image below. If you don’t get a similar result (though it really depends on your model), try to play with the _Cavity Map_ settings. Most important one of them being the _Cavity Profile_. And then try again.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/05_head_masked.jpg" alt="05_head_masked" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/05_head_masked.jpg" alt="05_head_masked" class="narrowResponsive">
 
 Now, all we need to do, is to fill the selected area in black.
 
 This is how the _Cavity Map_ should look like. Later, other than what we do with it here, it will have an important role to play when it comes to rendering, whether real-time, or pre-processed.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/06_cavity_map.jpg" alt="06_cavity_map" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/06_cavity_map.jpg" alt="06_cavity_map" class="narrowResponsive">
 
 Now, it’s time to create it. But before that, remember that you should already have your final _UV Layout_. Also, in _ZBrush_, check you _UV Map_ resolution and make it the size that you want. I usually go for the maximum 8K.
 
 OK, everything’s set. Click on _New From Polypaint_ under the _Texture Map_ menu.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/07_creating_texture.jpg" alt="07_creating_texture" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/07_creating_texture.jpg" alt="07_creating_texture" class="narrowResponsive">
 
 Then, you need to clone your texture to be able to export it. Click on _Clone Txtr_ to clone it.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/08_cloning_texture.jpg" alt="08_cloning_texture" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/08_cloning_texture.jpg" alt="08_cloning_texture" class="narrowResponsive">
 
 Before exporting, you need to flip the texture vertically. Because as you know, the UV workflow in _ZBrush_ is inverted vertically in comparison to what you have in other 3D packages like _Maya_, _3Ds Max_ and _Blender_.
 
 Click on _Export_, and choose the format that you want. I’ll stick with ._PSD_ for now.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/09_exporting_texture.jpg" alt="09_exporting_texture" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/09_exporting_texture.jpg" alt="09_exporting_texture" class="narrowResponsive">
 
 So, the _Cavity Map_ is done. Now it’s time for the other map that we need; which is a _mid-value displacement map_.
 
@@ -83,17 +83,17 @@ Alright. Let me give you an idea about it all. The whole idea here is, to put yo
 
 I hope I’m clear, but don’t worry if it’s not the case, it will make sense in the end.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/10_subdivision_level.jpg" alt="10_subdivision_level" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/10_subdivision_level.jpg" alt="10_subdivision_level" class="narrowResponsive">
 
 So, After putting the SDiv level of your model to half, click on _Create DispMap_ under the _Displacement Map_ menu.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/11_creating_disp_map.jpg" alt="11_creating_disp_map" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/11_creating_disp_map.jpg" alt="11_creating_disp_map" class="narrowResponsive">
 
 Now, like before, we need to clone it. Click on _Clone Disp_.
 
 Before exporting _Displacement Map_, flip it vertically and then click on _Export_ and save it.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/12_exporting_disp_map.jpg" alt="12_exporting_disp_map" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/12_exporting_disp_map.jpg" alt="12_exporting_disp_map" class="narrowResponsive">
 
 This is where the magic happens! In _Photoshop_! Yup, it’s time to combine the two.
 
@@ -109,13 +109,13 @@ That’s all. Now you have your _Glossiness Map_ ready to put to test. This is o
 
 This is how my final composited _Glossiness Map_ looks like. It's also worth mentioning that the empty space in the _UV layout_, is for the hands, which I did not cover in this article.
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/15_glossiness_map.jpg" alt="15_glossiness_map" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/15_glossiness_map.jpg" alt="15_glossiness_map" class="narrowResponsive">
 
 As I mentioned earlier, to get the _Roughness Map_, it’s only a matter of inverting the colors of the _Glossiness Map_.
 
 (_Flatten_ the image in _Photoshop_, and then press _Ctrl+I_ to invert it.)
 
-<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/16_roughness_map.jpg" alt="16_roughness_map" class="responsive">
+<img src="/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/16_roughness_map.jpg" alt="16_roughness_map" class="narrowResponsive">
 
 Here’s the final real-time render I got in _Marmoset Toolbag 3.04_.
 
