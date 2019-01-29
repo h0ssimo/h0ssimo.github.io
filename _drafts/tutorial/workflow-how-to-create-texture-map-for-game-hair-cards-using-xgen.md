@@ -36,6 +36,7 @@ We're gonna use a simple plane geometry for every hair group to grow from, and t
 
 Before you jump into XGen, there are several general tips to be aware of:
 
+* Have you project address Set correctly in Maya. File -> Set Project...
 * Make sure you use Maya's default materials on your geometry (in our case, the planes). So, for example only use Lambert, Blinn, etc. and don't use Arnold's materials. Because you're gonna have trouble seeing the maps you paint on you geometry.
 * Make sure the name of the geometry you're using as a base for hairs to grow from, is unique.
 * Make sure your mesh has UVs, and the UVs are on the first UDIM.
