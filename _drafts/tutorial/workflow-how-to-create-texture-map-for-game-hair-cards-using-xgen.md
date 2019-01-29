@@ -82,3 +82,5 @@ Again, as I have mentioned before, the Modifier CV Count in the Primitives tab, 
 You need to create a Description and do these steps for every hair group in your hair texture sheet. Each one with a different style and usage, and possibly a unique material to add more variety to the color.
 
 Then, set your orthographic camera as if you're seeing your texture sheet in it. Optimize the view, and have as little empty space as you can to be efficient.
+
+Next, check your render settings, and do a render to see what you get in your first try. Then don't get lazy like, me, try to improve the results as much as you can.
