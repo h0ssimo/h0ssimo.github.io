@@ -54,3 +54,13 @@ The only option I change, is the Control the Primitives by, which I choose Placi
 XGen needs at least 3 guides to create a preview. So, place an shape them however you please. Just remember, if you use Rotate on the guides, when you're done with it, click on  Bake Guide Vertices under the Guides menu in the XGen window.
 
 Paint a simple mask for Density. Just under the Density slider in the Primitives tab. Remember to hit save every time you make changes to every mask in XGen system. That's how it works. If you forget to hit the save button, you won't see the changes, because the PTex file hasn't been generated.
+
+In the Primitives tab, there are a couple of things to change. First, adjust the density slider as you see fit. Then there's Mask that I told you about. Next, would be Modifier CV Count, which is basically the number of vertices on the generated hair. The more you put this value, the smoother the results will be. Also it will have a direct affect when it comes to Modifiers, which I'll talk about it later.
+
+For the Width, a value around 0.35 is pretty accurate in terms of realism. Just for the hair sheet we're creating, put the Width Ramp to something like the image below. The reason is, to make where the hair grow thinner, to create a more believable connection to the head late.
+
+Taper is pretty obvious, it tapers the hair strands. Basically, it makes the hair like a pyramid, in which the tip is thinner than the root. Taper Start, defines at what point on the hair, the tapering will begin. For example, if you input 0.5 in there, it tells the computer to treat the hair normally from root to half, then from half point to the tip, eventually make the hair thinner.
+
+If you have noticed, there a little script button in front of every slider. If you click on for example the script button of the Length, it will open a window, allowing you to add more randomness or anything you like to it. Speaking of randomness, you can paste this code on the second line there to add more variety to the Length: $a * rand(0.8,1.2) What it tells the computer is to grab the length of every single hair, and multiply it by a random value between 0.8 and 1.2 to shorten or lengthen it. Obviously you can change the numbers as you like. The great thing about XGen is you can do this little trick to almost everything that has that script button in front of it. Like Taper, Width, Taper Start, etc.
+
+The Modifier CV Count that I mentioned earlier, was for the generated hair and not the Guides. If you want to add more points to the guides, select them, and click on the Rebuild... button to input as many points as you like on your Guides. It a lot when it comes to shaping the hair.
