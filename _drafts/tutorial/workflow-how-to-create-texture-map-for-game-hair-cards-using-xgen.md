@@ -83,8 +83,12 @@ You need to create a Description and do these steps for every hair group in your
 
 Then, set your orthographic camera as if you're seeing your texture sheet in it. Optimize the view, and have as little empty space as you can to be efficient.
 
-Next, check your render settings, and do a render to see what you get in your first try. Then don't get lazy like, me, try to improve the results as much as you can.
+Next, check your render settings, and do a render to see what you get in your first try. Then from there, try to improve the results as much as you can.
 
 About that Specular Map in the header image, it's just a simple Ambient Occlusion applied as material to the hair description. It still needs some heavy tweaks in Photoshop, but it's almost there.
 
-The best thing about this workflow, is its flexibility. You can come back later and change stuff as you need.
+### Conclusion
+
+The best thing about this workflow, is its flexibility. You can come back later and change stuff as you or your art directors need. Generally speaking, the hair creation process is all about patience, it's your best friend. It's also worth mentioning that this workflow is widely used in the industry level and I do the same with my professional works as well.
+
+I guess that's about it. Thanks for reading this article. Check out my other articles too, to see if there's anything you like. I know you may have all sorts of questions. So don't get lazy, ask them now in the comments.
