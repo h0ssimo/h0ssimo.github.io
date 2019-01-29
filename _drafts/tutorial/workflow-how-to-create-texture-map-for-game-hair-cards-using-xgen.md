@@ -74,7 +74,11 @@ For the _Width_, a value around 0.35 is pretty accurate in terms of realism. Jus
 
 _Taper_ pretty obviously, tapers the hair strands. Basically, it makes the hair like a pyramid, in which the tip is thinner than the root. _Taper Start_, defines at what point on the hair, the tapering will begin. For example, if you input 0.5 in there, it tells the computer to treat the hair normally from thr root to half, then from half point to the tip, eventually make the hair thinner.
 
-If you have noticed, there a little script button in front of every slider. If you click on for example the script button of the _Length_, it will open a window, allowing you to add more randomness or anything you like to it. Speaking of randomness, you can paste this code on the second line there to add more variety to the _Length_: **$a * rand(0.8,1.2)** What it tells the computer is to grab the length of every single hair, and multiply it by a random value between 0.8 and 1.2 to shorten or lengthen it. Obviously you can change the numbers as you like. The great thing about _XGen_ is you can do this little trick to almost everything that has that script button in front of it. Like _Taper_, _Width_, _Taper Start_, etc.
+If you have noticed, there a little script button in front of every slider. If you click on for example the script button of the _Length_, it will open a window, allowing you to add more randomness or anything you like to it.
+
+Speaking of randomness, you can paste this code on the second line there to add more variety to the _Length_: **$a * rand(0.8,1.2)** What it tells the computer is to grab the length of every single hair, and multiply it by a random value between 0.8 and 1.2 to shorten or lengthen it. Obviously you can change the numbers as you like.
+
+The great thing about _XGen_ is you can do this little trick to almost everything that has that script button in front of it. Like _Taper_, _Width_, _Taper Start_, etc.
 
 Next, I like uncheck the _Tube Shade_ option to be able to see the color of the hair a bit better in the _viewport_.
 
