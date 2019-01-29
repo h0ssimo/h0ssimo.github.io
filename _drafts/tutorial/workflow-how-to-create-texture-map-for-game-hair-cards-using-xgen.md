@@ -44,3 +44,9 @@ Before you jump into Xgen, there are several general tips to be aware of:
 * Pick your rendering engine at the beginning and do a quick research about its integration with Xgen. Some versions of Maya and rendering engines, have the issue of "Activating the rendering engine plugin before activating the Xgen plugin." So, have an eye on that as well.
 
 ### Important Steps
+
+Rotate the plane around 30 degrees in X direction (if you're gonna use front camera as your render cam). This way, we can kinda mimic the head, and give the feeling as if it's growing from somewhere.
+
+Select the plane, and hit Create New Description. Pick a name name for your Description and Collection. Remember, no space.
+
+The only option I change, is the Control the Primitives by, which I choose Placing and shaping Guides.
