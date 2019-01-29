@@ -38,7 +38,7 @@ We're gonna use a simple plane geometry for every hair group to grow from, and t
 
 Before you jump into _XGen_, there are several general tips to be aware of:
 
-* Have you project address _Set_ correctly in Maya. _File_ -> _Set Project..._
+* Have your project address _Set_ correctly in Maya. _File_ -> _Set Project..._
 
 * Make sure you use _Maya_'s default materials on your geometry (in our case, the planes). So, for example only use _Lambert_, _Blinn_, etc. and don't use _Arnold_'s materials. Because you're gonna have trouble seeing the maps you paint on you geometry.
 
