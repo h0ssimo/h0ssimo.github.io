@@ -88,7 +88,11 @@ I guess that's all we needed in the _Primitives_ tab.
 
 ![](/images/04_xgen_primitives_tab.jpg)
 
-In the _Preview/Output_ tab, there are a couple of stuff to have an eye on. The first being the _Renderer_ under the _Output Settings_. This is where you tell _XGen_ which rendering engine you're gonna be using in the end. Then there's the _Primitive Bound_ right underneath the _Renderer_. Just have this in mind that every time you change your hair, come here and click on _Auto Set_ button before you render. To make sure that the hair boundary has enough space to include all the hair you've created.
+In the _Preview/Output_ tab, there are a couple of stuff to have an eye on.
+
+The first being the _Renderer_ under the _Output Settings_. This is where you tell _XGen_ which rendering engine you're gonna be using in the end.
+
+Then there's the _Primitive Bound_ right underneath the _Renderer_. Just have this in mind that every time you change your hair, come here and click on _Auto Set_ button before you render. To make sure that the hair boundary has enough space to include all the hair you've created.
 
 This tab also includes the shader information. Its options varies depending on your renderer. So I say, sometimes it's easier to just select the _Description_ in the _Outliner_, and assign a material as you would normally do in _Maya_. Remember, select the _Description_, not the _Collection_ or any other nodes there.
 
