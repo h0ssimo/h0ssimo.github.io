@@ -100,17 +100,21 @@ This tab also includes the shader information. Its options varies depending on y
 
 Welcome to the _Modifiers_ tab. This is the fun part. Here, you can add details to the hair.
 
-There are a lot of things you can do here, but let me talk about what I like to do in these situations. I add two _Clumping_ modifiers, the first one is the one with big broad clumps, the second one has more subtle clumps to add more details. Just have in mind that in order to use a _Clumping_ modifier, after adding it, you need to click on _Setup Maps..._ and _Generate_ some sort of map to tell the computer where and how many clumps you need in your modifier.
+There are a lot of things you can do here, but let me talk about what I like to do in these situations.
+
+I add two _Clumping_ modifiers, the first one is the one with big broad clumps, the second one has more subtle clumps to add more details. Just have in mind that in order to use a _Clumping_ modifier, after adding it, you need to click on _Setup Maps..._ and _Generate_ some sort of map to tell the computer where and how many clumps you need in your modifier.
 
 Then, I add a _Cut_ modifier to well, cut the hair tips to add more variety to it.
 
-Then there's _Noise_ modifier, I like this one a lot because there are a lot of styling I can do only with this modifier. Play with the _Magnitude_, _Frequency_, _Mask_ and other options to get what you need. Next, I add a _Coil_, which basically has a spring-like effect on the hair. I kept it very low in my case, but you can try it out to see what you like.
+Then there's _Noise_ modifier, I like this one a lot because there are a lot of styling I can do only with this modifier. Play with the _Magnitude_, _Frequency_, _Mask_ and other options to get what you need.
+
+Next, I add a _Coil_, which basically has a spring-like effect on the hair. I kept it very low in my case, but you can try it out to see what you like.
 
 Again, as I have mentioned before, the _Modifier CV Count_ in the _Primitives_ tab, comes to play here. The _Noise_ and _Coil_ modifiers for example, rely heavily on that. As with same values for them, if you change the _Modifier CV Count_ number, you will see a different result.
 
 ![](/images/06_xgen_modifiers_tab.jpg)
 
-You need to create a _Description_ and do these steps for every hair group in your hair texture sheet. Each one with a different style and usage, and possibly a unique material to add more variety to the color too.
+You need to create a _Description_ and do these steps for every hair group in your hair texture sheet. Each one with a different style and usage, and possibly a different material to add more variety to the color too.
 
 Then, set your orthographic camera as if you're seeing your texture sheet in it. Optimize the view, and have as little empty space as you can to be efficient.
 
@@ -120,6 +124,8 @@ About that _Specular Map_ in the header image, it's just a simple _Ambient Occlu
 
 ### Conclusion
 
-The best thing about this workflow, is its flexibility. You can come back later and change stuff as you or your art directors need. Generally speaking, the hair creation process is all about patience, it's your best friend. It's also worth mentioning that this workflow is widely used in the industry level and I do the same with my professional works as well.
+The best thing about this workflow, is its flexibility. You can come back later and change stuff as you or your art directors need. It's also worth mentioning that this workflow is widely used in the industry level and I do the same with my professional works as well.
+
+Generally speaking, the hair creation process is all about patience, it's your best friend.
 
 I guess that's about it. Thanks for reading this article. Check out my other articles too, to see if there's anything you like. I know you may have all sorts of questions. So don't get lazy, ask them now in the comments.
