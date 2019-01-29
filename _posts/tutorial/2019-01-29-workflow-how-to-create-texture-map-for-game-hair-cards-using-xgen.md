@@ -86,7 +86,7 @@ Speaking of randomness, you can paste this code on the second line there to add 
 
 The great thing about _XGen_ is you can do this little trick to almost everything that has that script button in front of it. Like _Taper_, _Width_, _Taper Start_, etc.
 
-Next, I like uncheck the _Tube Shade_ option to be able to see the color of the hair a bit better in the _viewport_.
+Next, I like to uncheck the _Tube Shade_ option to be able to see the color of the hair a bit better in the _viewport_.
 
 The _Modifier CV Count_ that I mentioned earlier, was for the generated hair and not the _Guides_. If you want to add more points to the guides themselves, select them, and click on the _Rebuild..._ button to input as many points as you like on your _Guides_. It helps a lot when it comes to shaping the hair.
 
