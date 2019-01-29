@@ -62,7 +62,7 @@ Select the plane, and hit _Create New Description_. Pick a name name for your _D
 
 The only option I change, is the _Control the Primitives by_, which I choose _Placing and shaping Guides_.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/02_creating_xgen_description.jpg" alt="02_creating_xgen_description" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/02_creating_xgen_description.jpg" alt="02_creating_xgen_description" class="narrowResponsive">
 
 _XGen_ needs at least 3 _Guides_ to create a preview. So, place an shape them however you please. Just remember, if you _Rotate_ the _Guides_ themselves and not their vertices, when you're done with it, click on  _Bake Guide Vertices_ under the _Guides_ menu in the _XGen_ window.
 
