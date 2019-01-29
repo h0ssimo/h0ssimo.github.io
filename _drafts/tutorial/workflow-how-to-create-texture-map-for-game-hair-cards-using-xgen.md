@@ -26,6 +26,8 @@ I have to say though, since it contains a lot of steps, I can only go over impor
 
 In short, we need to render out an image like the one below (it still needs some work on it though):
 
+![](/images/00_final_texture_sheet.jpg)
+
 We need thick hair, to create the silhouette and cover most of the head; thinner hair for adding breakups and tinier shapes, and finally some thin strand groups and flyaways to add more details to the hair.
 
 ### Overall Workflow
@@ -48,15 +50,25 @@ Before you jump into _XGen_, there are several general tips to be aware of:
 
 _Rotate_ the plane around 30 degrees in _X_ direction (if you're gonna use front camera as your render cam). This way, we can kinda mimic the head, and give the feeling as if it's growing from somewhere.
 
+![](/images/01_base_plane_for_xgen.jpg)
+
 Select the plane, and hit _Create New Description_. Pick a name name for your _Description_ and _Collection_. Remember, **no space**.
 
 The only option I change, is the _Control the Primitives by_, which I choose _Placing and shaping Guides_.
+
+![](/images/02_creating_xgen_description.jpg)
 
 _XGen_ needs at least 3 _Guides_ to create a preview. So, place an shape them however you please. Just remember, if you _Rotate_ the _Guides_ themselves and not their vertices, when you're done with it, click on  _Bake Guide Vertices_ under the _Guides_ menu in the _XGen_ window.
 
 Paint a simple mask for _Density_. Just under the _Density_ slider in the _Primitives_ tab. Remember to hit save every time you make changes to every mask in _XGen_ system. That's how it works. If you forget to hit the save button, you won't see the changes, because the _PTex_ file hasn't been generated.
 
-In the _Primitives_ tab, there are a couple of things to change. First, adjust the _Density_ slider as you see fit. Then there's the _Mask_ that I told you about. Next, would be _Modifier CV Count_, which is basically the number of vertices on the generated hair. The more you put this value, the smoother the results will be. Also it will have a direct affect when it comes to _Modifiers_, which I'll talk about later.
+![](/images/03_xgen_guide_and_mask.jpg)
+
+In the _Primitives_ tab, there are a couple of things to change.
+
+First, adjust the _Density_ slider as you see fit. Then there's the _Mask_ that I told you about.
+
+Next, would be _Modifier CV Count_, which is basically the number of vertices on the generated hair. The more you put this value, the smoother the results will be. Also it will have a direct affect when it comes to _Modifiers_, which I'll talk about later.
 
 For the _Width_, a value around 0.35 is pretty accurate in terms of realism. Just for the hair sheet we're creating, put the _Width Ramp_ to something like the image below. The reason is, to make where the hair grow thinner, to create a more believable connection to the head late.
 
@@ -70,9 +82,13 @@ The _Modifier CV Count_ that I mentioned earlier, was for the generated hair and
 
 I guess that's all we needed in the _Primitives_ tab.
 
+![](/images/04_xgen_primitives_tab.jpg)
+
 In the _Preview/Output_ tab, there are a couple of stuff to have an eye on. The first being the _Renderer_ under the _Output Settings_. This is where you tell _XGen_ which rendering engine you're gonna be using in the end. Then there's the _Primitive Bound_ right underneath the _Renderer_. Just have this in mind that every time you change your hair, come here and click on _Auto Set_ button before you render. To make sure that the hair boundary has enough space to include all the hair you've created.
 
 This tab also includes the shader information. Its options varies depending on your renderer. So I say, sometimes it's easier to just select the _Description_ in the _Outliner_, and assign a material as you would normally do in _Maya_. Remember, select the _Description_, not the _Collection_ or any other nodes there.
+
+![](/images/05_xgen_preview_output_tab.jpg)
 
 Welcome to the _Modifiers_ tab. This is the fun part. Here, you can add details to the hair.
 
@@ -83,6 +99,8 @@ Then, I add a _Cut_ modifier to well, cut the hair tips to add more variety to i
 Then there's _Noise_ modifier, I like this one a lot because there are a lot of styling I can do only with this modifier. Play with the _Magnitude_, _Frequency_, _Mask_ and other options to get what you need. Next, I add a _Coil_, which basically has a spring-like effect on the hair. I kept it very low in my case, but you can try it out to see what you like.
 
 Again, as I have mentioned before, the _Modifier CV Count_ in the _Primitives_ tab, comes to play here. The _Noise_ and _Coil_ modifiers for example, rely heavily on that. As with same values for them, if you change the _Modifier CV Count_ number, you will see a different result.
+
+![](/images/06_xgen_modifiers_tab.jpg)
 
 You need to create a _Description_ and do these steps for every hair group in your hair texture sheet. Each one with a different style and usage, and possibly a unique material to add more variety to the color too.
 
