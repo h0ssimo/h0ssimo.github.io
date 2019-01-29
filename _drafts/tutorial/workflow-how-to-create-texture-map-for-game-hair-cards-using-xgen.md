@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Workflow: How To Create Texture Map For Game Hair Cards Using Xgen'
-excerpt: ''
+excerpt: In this article, I'm gonna quickly go over my workflow of creating texture
+  maps for game hair cards. I guess it's easier than what you think.
 date: 2019-01-29 00:00:00 +0330
 tags:
 - article
