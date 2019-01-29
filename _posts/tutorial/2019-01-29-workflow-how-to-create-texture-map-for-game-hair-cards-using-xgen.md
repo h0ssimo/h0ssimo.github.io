@@ -26,7 +26,7 @@ I have to say though, since it contains a lot of steps, I can only go over impor
 
 In short, we need to render out an image like the one below (it still needs some work on it though):
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/00_final_texture_sheet.jpg" alt="00_final_texture_sheet" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/00_final_texture_sheet.jpg" alt="00_final_texture_sheet" class="narrowResponsive">
 
 We need thick hair, to create the silhouette and cover most of the head; thinner hair for adding breakups and tinier shapes, and finally some thin strand groups and flyaways to add more details to the hair.
 
@@ -56,7 +56,7 @@ Before you jump into _XGen_, there are several general tips to be aware of:
 
 _Rotate_ the plane around 30 degrees in _X_ direction (if you're gonna use front camera as your render cam). This way, we can kinda mimic the head, and give the feeling as if it's growing from somewhere.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/01_base_plane_for_xgen.jpg" alt="01_base_plane_for_xgen" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/01_base_plane_for_xgen.jpg" alt="01_base_plane_for_xgen" class="narrowResponsive">
 
 Select the plane, and hit _Create New Description_. Pick a name name for your _Description_ and _Collection_. Remember, **no space**.
 
@@ -68,7 +68,7 @@ _XGen_ needs at least 3 _Guides_ to create a preview. So, place an shape them ho
 
 Paint a simple mask for _Density_. Just under the _Density_ slider in the _Primitives_ tab. Remember to hit save every time you make changes to every mask in _XGen_ system. That's how it works. If you forget to hit the save button, you won't see the changes, because the _PTex_ file hasn't been generated.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/03_xgen_guide_and_mask.jpg" alt="03_xgen_guide_and_mask" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/03_xgen_guide_and_mask.jpg" alt="03_xgen_guide_and_mask" class="narrowResponsive">
 
 In the _Primitives_ tab, there are a couple of things to change.
 
@@ -92,7 +92,7 @@ The _Modifier CV Count_ that I mentioned earlier, was for the generated hair and
 
 I guess that's all we needed in the _Primitives_ tab.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/04_xgen_primitives_tab.jpg" alt="04_xgen_primitives_tab" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/04_xgen_primitives_tab.jpg" alt="04_xgen_primitives_tab" class="narrowResponsive">
 
 In the _Preview/Output_ tab, there are a couple of stuff to have an eye on.
 
@@ -102,7 +102,7 @@ Then there's the _Primitive Bound_ right underneath the _Renderer_. Just have th
 
 This tab also includes the shader information. Its options varies depending on your renderer. So I say, sometimes it's easier to just select the _Description_ in the _Outliner_, and assign a material as you would normally do in _Maya_. Remember, select the _Description_, not the _Collection_ or any other nodes there.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/05_xgen_preview_output_tab.jpg" alt="05_xgen_preview_output_tab" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/05_xgen_preview_output_tab.jpg" alt="05_xgen_preview_output_tab" class="narrowResponsive">
 
 Welcome to the _Modifiers_ tab. This is the fun part. Here, you can add details to the hair.
 
@@ -118,7 +118,7 @@ Next, I add a _Coil_, which basically has a spring-like effect on the hair. I ke
 
 Again, as I have mentioned before, the _Modifier CV Count_ in the _Primitives_ tab, comes to play here. The _Noise_ and _Coil_ modifiers for example, rely heavily on that. As with same values for them, if you change the _Modifier CV Count_ number, you will see a different result.
 
-<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/06_xgen_modifiers_tab.jpg" alt="06_xgen_modifiers_tab" class="responsive">
+<img src="/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/06_xgen_modifiers_tab.jpg" alt="06_xgen_modifiers_tab" class="narrowResponsive">
 
 You need to create a _Description_ and do these steps for every hair group in your hair texture sheet. Each one with a different style and usage, and possibly a different material to add more variety to the color too.
 
