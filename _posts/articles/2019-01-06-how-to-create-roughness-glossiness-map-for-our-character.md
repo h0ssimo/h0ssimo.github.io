@@ -10,7 +10,7 @@ tags:
 - tutorial
 - workflow
 categories:
-- tutorial
+- articles
 image: "/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/How_to_Create_Roughness_Glossiness_Map_for_our_Character_Header.jpg"
 image-sm: "/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/How_to_Create_Roughness_Glossiness_Map_for_our_Character_Header.jpg"
 featured: true

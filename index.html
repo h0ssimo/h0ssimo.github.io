@@ -3,9 +3,9 @@ layout: null
 title: Hossein Moayed
 description: Digital Sculptor and Game Character Artist.
 sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+priority: 1.0
+lastmod: 2017-11-02
+changefreq: weekly
 ---
 <!DOCTYPE HTML>
 <!--
@@ -15,116 +15,163 @@ sitemap:
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-    {% include head.html %}
+
+<head>
+	{% include head.html %}
 
 
-	</head>
-	<body class="is-loading">
+</head>
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<body class="is-loading">
 
-				<!-- Intro -->
-					<div id="intro">
-						<img src="/images/logo-white.png" alt="logo" style="width:15em;height:15em;">
-						<br>
-						<br>
-						<h1>{{site.title}}</h1>
-						<p>Digital Sculptor and Game Character Artist</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
 
-				<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+		<!-- Intro -->
+		<div id="intro">
+			<img src="/images/logo-white.png" alt="logo" style="width:15em;height:15em;">
+			<br>
+			<br>
+			<h1>{{site.title}}</h1>
+			<p>Digital Sculptor and Game Character Artist</p>
+			<ul class="actions">
+				<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+			</ul>
+		</div>
+
+		<!-- Header -->
+		<header id="header">
+			<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+		</header>
+
+		<!-- Nav -->
+		<nav id="nav">
+
+			{% include nav.html %}
+
+			<ul class="icons">
+				<li><a href="https://artstation.com/{{site.artstation}}" class="icon-artstation" rel="nofollow"><span class="label"></span></a></li>
+				<li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+				<li><a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
+				<li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+			</ul>
+		</nav>
+
+		<!-- Main -->
+		<div id="main">
+			<!-- Featured Post -->
+			<article class="post featured">
+				<header class="major">
+					<h2><a href="#">Welcome</a></h2>
+					<p> My goal is to showcase my work, <br />
+						and also show some of my workflows in character art. <br />
+						I hope you enjoy your time around.</p>
+				</header>
+				<a href="#" class="image main"><img src="{{ "/images/header.jpg" | absolute_url }}" alt="" /></a>
+				<p>You can visit my portfolio and also take a look at some of my bite-sized tutorials to see if you like anything.
+					<br>
+					I try to update often, so make sure you're not left behind.
+				</p>
+
+			</article>
+
+			<!-- Posts -->
+			<section class="posts">
+
+				{% assign articles = site.categories.articles | where: "featured","true" %}
+				{% for post in articles limit:4 %}
+
+				<article>
+					<header>
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 					</header>
-
-				<!-- Nav -->
-					<nav id="nav">
-
-            {% include nav.html %}
-
-						<ul class="icons">
-							<li><a href="https://artstation.com/{{site.artstation}}" class="icon-artstation" rel="nofollow"><span class="label"></span></a></li>
-							<li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-							<li><a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-             				<li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-						</ul>
-					</nav>
-
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#">Welcome</a></h2>
-									<p> My goal is to showcase my work, <br />
-										and also show some of my workflows in character art. <br />
-										I hope you enjoy your time around.</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/header.jpg" | absolute_url }}" alt="" /></a>
-                <p>You can visit my portfolio and also take a look at some of my bite-sized tutorials to see if you like anything. <br>
-					I try to update often, so make sure you're not left behind.  
-								 </p>
-
-							</article>
-
-						<!-- Posts -->
-							<section class="posts">
-				{% assign posts = site.posts | where: "featured","true" %}	
-                {% for post in posts limit:4 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-									  <p>{{ post.excerpt }}</p>
-									  
-									  
-
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-									  </ul>
-									  {% if post.showtags == true %}
-									  <div class="tags" style="display:inline; float:left; border-left: 3px solid gray;">
-											  <h4 style="display:inline; padding-left: 2px">Tags:</h4>
-											  
-											  {% for tag in post.tags %}
-											  
-											  <a style="display:inline" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">
-												 -{{ tag }}
-											  </a>{% endfor %}
-											  </div>
-											  {% endif %}
-  								</article>
-                {% endfor %}
-
-							</section>
-
-						<!-- Footer -->
-							<footer>
-                <ul class="actions">
-				  <li><a href="{{ "/portfolio/" | absolute_url }}" class="button">Portfolio</a></li>
-				  <li><a href="{{ "/articles/" | absolute_url }}" class="button">Articles</a></li>
-				  <li><a href="{{ "/journal/" | absolute_url }}" class="button">Journal</a></li>
-                </ul>
-							</footer>
-
+					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+					<p>{{ post.excerpt }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+					</ul>
+					{% if post.showtags == true %}
+					<div class="tags" style="display:inline; float:left; border-left: 3px solid gray;">
+						<h4 style="display:inline; padding-left: 2px">Tags:</h4>
+						{% for tag in post.tags %}
+						<a style="display:inline" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">
+							#{{ tag }}
+						</a>{% endfor %}
 					</div>
+					{% endif %}
+				</article>
+				{% endfor %}
 
-				<!-- Footer -->
-        {% include foot.html %}
+				{% assign portfolio = site.categories.portfolio | where: "featured","true" %}
+				{% for post in portfolio limit:2 %}
+				<article>
+					<header>
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+					</header>
+					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+					<p>{{ post.excerpt }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+					</ul>
+					{% if post.showtags == true %}
+					<div class="tags" style="display:inline; float:left; border-left: 3px solid gray;">
+						<h4 style="display:inline; padding-left: 2px">Tags:</h4>
+						{% for tag in post.tags %}
+						<a style="display:inline" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">
+							#{{ tag }}
+						</a>{% endfor %}
+					</div>
+					{% endif %}
+				</article>
+				{% endfor %}
 
-			</div>
+				{% assign journal = site.categories.journal | where: "featured","true" %}
+				{% for post in journal limit:2 %}
+				<article>
+					<header>
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+					</header>
+					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+					<p>{{ post.excerpt }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+					</ul>
+					{% if post.showtags == true %}
+					<div class="tags" style="display:inline; float:left; border-left: 3px solid gray;">
+						<h4 style="display:inline; padding-left: 2px">Tags:</h4>
+						{% for tag in post.tags %}
+						<a style="display:inline" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">
+							#{{ tag }}
+						</a>{% endfor %}
+					</div>
+					{% endif %}
+				</article>
+				{% endfor %}
+			</section>
 
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    {% include tracking.html %}
+			<!-- Footer -->
+			<footer>
+				<ul class="actions">
+					<li><a href="{{ "/portfolio/" | absolute_url }}" class="button">Portfolio</a></li>
+					<li><a href="{{ "/articles/" | absolute_url }}" class="button">Articles</a></li>
+					<li><a href="{{ "/journal/" | absolute_url }}" class="button">Journal</a></li>
+				</ul>
+			</footer>
 
-	</body>
+		</div>
+
+		<!-- Footer -->
+		{% include foot.html %}
+
+	</div>
+
+	<!-- Scripts -->
+	{% include scripts-main.html %}
+	{% include tracking.html %}
+
+</body>
+
 </html>

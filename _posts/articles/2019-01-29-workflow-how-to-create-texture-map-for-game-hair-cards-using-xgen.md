@@ -11,7 +11,7 @@ tags:
 - workflow
 - maya
 categories:
-- tutorial
+- articles
 image: "/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/how_to_create_texture_map_for_game_hair_cards_using_xgen_header.jpg"
 image-sm: "/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/how_to_create_texture_map_for_game_hair_cards_using_xgen_header.jpg"
 featured: true

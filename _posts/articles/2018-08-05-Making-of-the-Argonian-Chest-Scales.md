@@ -4,7 +4,7 @@ title: "Quick Tips: Making of the Argonian Chest Scales"
 date: 2018-08-05
 tags: quick-tips tutorial article argonian
 categories:
-  - tutorial
+  - articles
 excerpt: Here I'm gonna go over how I created the chest scales for this character in ZBrush.
 image: /images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Header.jpg
 image-sm: /images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Header.jpg

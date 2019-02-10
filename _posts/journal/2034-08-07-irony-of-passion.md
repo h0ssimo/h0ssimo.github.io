@@ -8,7 +8,7 @@ categories:
 excerpt: Seems like Desperado guitar case! It always works for carrying around an air rifle.
 image: /images/Journal/Photography/irony_of_passion.JPG
 image-sm: /images/Journal/Photography/irony_of_passion.JPG
-featured: false
+featured: true
 showtags: true
 ---
 

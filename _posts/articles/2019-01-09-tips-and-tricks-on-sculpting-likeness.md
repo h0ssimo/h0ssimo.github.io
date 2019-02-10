@@ -9,7 +9,7 @@ tags:
 - TipsAndTricks
 - likeness
 categories:
-- tutorial
+- articles
 image: "/images/Tutorials/Tips_And_Tricks/Sculpting_Likesness/tips_and_tricks_sculpting_likeness_header.jpg"
 image-sm: "/images/Tutorials/Tips_And_Tricks/Sculpting_Likesness/tips_and_tricks_sculpting_likeness_header.jpg"
 featured: true

@@ -9,7 +9,7 @@ tags:
 - quick-tips
 - tutorial
 categories:
-- tutorial
+- articles
 image: "/images/Tutorials/Quick_Tips/How_to_Create_Cloth_Material_in_ZBrush/how_to_create_cloth_material_in _zbrush_header.jpg"
 image-sm: "/images/Tutorials/Quick_Tips/How_to_Create_Cloth_Material_in_ZBrush/how_to_create_cloth_material_in _zbrush_header.jpg"
 featured: true

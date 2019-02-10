@@ -8,7 +8,7 @@ categories:
 excerpt: They didn't seem like a bunch of ordinary extra mannequins to me. They seemed to have feelings.
 image: /images/Journal/Photography/group_despair.JPG
 image-sm: /images/Journal/Photography/group_despair.JPG
-featured: false
+featured: true
 showtags: true
 ---
 
