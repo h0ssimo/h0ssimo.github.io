@@ -28,6 +28,7 @@
 		z-index: _misc(z-index-base) + 1;
 
 		&:before {
+			font-family: "Font Awesome 5 Free";
 			content: '\f0c9';
 			margin-right: 0.5rem;
 		}
@@ -115,6 +116,7 @@
 			width: 7rem;
 
 			&:before {
+				font-family: "Font Awesome 5 Free";
 				content: '\f00d';
 				font-size: 1.25rem;
 			}
