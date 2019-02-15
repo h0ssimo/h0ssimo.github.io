@@ -10,6 +10,7 @@ image: /images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_o
 image-sm: /images/Tutorials/Quick_Tips/Making_of_the_Argonian_Chest_Scales/Making_of_the_Argonian_Chest_Scales_Header.jpg
 featured: true
 showtags: true
+permalink: "/tutorial/Making-of-the-Argonian-Chest-Scales/"
 ---
 ## Making of the Argonian: Chest Scales
 

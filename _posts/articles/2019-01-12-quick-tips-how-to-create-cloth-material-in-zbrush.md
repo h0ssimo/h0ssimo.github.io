@@ -14,7 +14,7 @@ image: "/images/Tutorials/Quick_Tips/How_to_Create_Cloth_Material_in_ZBrush/how_
 image-sm: "/images/Tutorials/Quick_Tips/How_to_Create_Cloth_Material_in_ZBrush/how_to_create_cloth_material_in _zbrush_header.jpg"
 featured: true
 showtags: true
-
+permalink: "/tutorial/quick-tips-how-to-create-cloth-material-in-zbrush/"
 ---
 It's really a good idea to present our characters before going further in the pipeline. This way, the directors in charge, can have a clearer idea of how it's gonna look in the end, and change some stuff if they need to. It's much easier to change stuff at this stage anyways.
 
