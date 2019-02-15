@@ -16,7 +16,7 @@ image: "/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards
 image-sm: "/images/Tutorials/Workflow/How_To_Create_Texture_Map_For_Game_Hair_Cards_Using_XGen/how_to_create_texture_map_for_game_hair_cards_using_xgen_header.jpg"
 featured: true
 showtags: true
-
+permalink: "/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/"
 ---
 Game hair has always been an interesting topic to talk about because of all the challenges it produces along the way. Every artist have their own way of handling them. But in general, there are only a few methods in terms of creating the texture sheet. One robust and flexible workflow, is to use _Maya_'s _XGen_ system. I know, _XGen_ may seem a bit tricky to understand at first glance, but once you're there, it's really easy to get the most out of it.
 

@@ -15,7 +15,7 @@ image: "/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_ou
 image-sm: "/images/Tutorials/Workflow/How_to_Create_Roughness_Glossiness_Map_for_our_Character/How_to_Create_Roughness_Glossiness_Map_for_our_Character_Header.jpg"
 featured: true
 showtags: true
-
+permalink: "/tutorial/how-to-create-roughness-glossiness-map-for-our-character/"
 ---
 OK, so you have your character sculpt ready for the next step. Most of the maps needed for real time renders or rendering engines like _Renderman_, _VRay_, _Arnold_, etc. are straight forward to create. I mean their processes are clear enough. However, creating roughness/glossiness map is probably not one of them for most artists. There are several ways of creating it, but first, let me quickly go over the little, confusing difference between the _glossiness map_ and the _roughness map_.
 

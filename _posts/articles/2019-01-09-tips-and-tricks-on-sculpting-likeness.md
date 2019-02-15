@@ -14,7 +14,7 @@ image: "/images/Tutorials/Tips_And_Tricks/Sculpting_Likesness/tips_and_tricks_sc
 image-sm: "/images/Tutorials/Tips_And_Tricks/Sculpting_Likesness/tips_and_tricks_sculpting_likeness_header.jpg"
 featured: true
 showtags: true
-
+permalink: "/tutorial/tips-and-tricks-on-sculpting-likeness/"
 ---
 There have always been discussions on how to do likeness art. Be it drawing or sculpting. Well, first, let me make it clear; it's totally normal to get frustrated when you begin, you're not alone, just learn to deal with it. Your model WILL look ugly for the first 4-5 hours, or day maybe. That's true even for industry-leading artists. It's a hard thing to do after all.
 
