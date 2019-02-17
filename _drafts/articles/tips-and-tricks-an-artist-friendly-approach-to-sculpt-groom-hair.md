@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tips and Tricks: An Artist-Friendly Approach To Sculpt/Groom Hair'
+title: 'Tips and Tricks: The Right Way To Think About Doing Hair As An Artist'
 excerpt: In this quick article, I'm gonna cover the concepts of creating hair. Whether
   it be sculpture, grooming or real-time hair cards.
 date: 2019-02-17 00:00:00 +0330
@@ -23,7 +23,7 @@ Now, I'm not gonna write any step-by-step guides, because you can find loads of 
 
 _This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other pro artists' works (I've done some paint-overs though) and I have no claims on them._
 
-### The Right Way To Think About Doing Hair As An Artist
+### An Artist-Friendly Approach To Sculpt/Groom Hair
 
 The basic idea, is to think of it as a sculpting process. Meaning that you have to do the primary forms first, then nail down the secondary shapes and finally the tertiary details. I'm gonna explain about each one and how to figure out each pass. As I said before, it doesn't matter what sort of 3D hair you're creating. This way of thinking, applies to all.
 
