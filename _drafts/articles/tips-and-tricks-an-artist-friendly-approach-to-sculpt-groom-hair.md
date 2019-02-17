@@ -21,7 +21,7 @@ Let me make it clear at this point that if you're looking for quality output, th
 
 Now, I'm not gonna write any step-by-step guides, because you can find loads of them on Google, and good ones, too. However, I'm here to talk about how to catch a fish, rather than giving you only one fish.
 
-_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of pro work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other pro artists' works and I have no claims on them._
+_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other pro artists' works and I have no claims on them._
 
 ### The Right Way To Think About Doing Hair As An Artist
 
