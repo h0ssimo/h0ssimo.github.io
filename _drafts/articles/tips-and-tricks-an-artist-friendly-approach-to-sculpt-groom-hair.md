@@ -44,3 +44,7 @@ The goal of this pass, is simply to cover most of the head and let no scalp skin
 The Secondary shapes, live inside the primary forms. At this stage, you're gonna add a bit more definition on top of what you had before. To put it in a nutshell, take one of your references on Photoshop and blur it. See those lines?! They're the secondary shapes.
 
 However, if you ask about the definition, I'll reply: "The Secondary Shapes, are the ones that include hair breakups and the connectivity or the flow of the hair. They're made of smaller strokes than the Primary Forms, and bigger ones than the Tertiary Details. They're groups of hairs that are related to each other in a smooth flow."
+
+The goal of this pass, is to define the general flow of the hair, add a bit more detail to the silhouette and add color variations as well. This is where most of the fight-throughs happen as an artist. If you have this pass done, and blurred it in Photoshop and it still worked, you're on the right track.
+
+Just have this mind, that this pass should define big\[ger\] chunks of hair. Leave the tiny details to the final step. Don't be obsessed with details too much for now.
