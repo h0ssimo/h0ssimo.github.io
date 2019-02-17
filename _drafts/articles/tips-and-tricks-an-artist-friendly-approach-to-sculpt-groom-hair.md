@@ -31,7 +31,7 @@ _First, gather a bunch of references and put them in a single canvas in Photosho
 
 ##### Primary Forms
 
-The primary forms, are the first step (after gathering and studying references which I'm gonna talk about in a bit) of doing hair. If you ask about a clearer definition, I'll put it this way: "The Primary forms of hair, are the ones which define the overall volume of the hair, and the general silhouette (forget about the tiny fly-away hairs for now). The ones that are recognized by the audience if your character is in the darkness and there's some light behind."
+The primary forms, are the first step (after gathering and studying references which I'm gonna talk about in a bit) of doing hair. If you ask about a clearer definition, I'll put it this way: "The Primary Forms of hair, are the ones which define the overall volume of the hair, and the general silhouette (forget about the tiny fly-away hairs for now). The ones that are recognized by the audience if your character is in the darkness and there's some light behind."
 
 The goal of this pass, is simply to cover most of the head and let no scalp skin be visible. Besides, to show the general recognizable hairstyle.
 
@@ -40,3 +40,7 @@ The goal of this pass, is simply to cover most of the head and let no scalp skin
 * If you're sculpting hair, it's still the same; you have to somewhat forget about details and nail down the primary shapes.
 
 ##### Secondary Shapes
+
+The Secondary shapes, live inside the primary forms. At this stage, you're gonna add a bit more definition on top of what you had before. To put it in a nutshell, take one of your references on Photoshop and blur it. See those lines?! They're the secondary shapes.
+
+However, if you ask about the definition, I'll reply: "The Secondary Shapes, are the ones that include hair breakups and the connectivity or the flow of the hair. They're made of smaller strokes than the Primary Forms, and bigger ones than the Tertiary Details. They're groups of hairs that are related to each other in a smooth flow."
