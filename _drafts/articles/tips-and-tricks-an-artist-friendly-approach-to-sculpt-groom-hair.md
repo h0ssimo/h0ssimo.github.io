@@ -25,7 +25,7 @@ _This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/
 
 ### The Right Way To Think About Doing Hair As An Artist
 
-The basic idea, is to think of it as a sculpting process. Meaning that you have to do the primary forms and silhouette first, then nail down the secondary shapes and finally the tertiary details. I'm gonna explain about each one and how to figure out each pass. As I said before, it doesn't matter what sort of 3D hair you're creating. This way of thinking, applies to all.
+The basic idea, is to think of it as a sculpting process. Meaning that you have to do the primary forms first, then nail down the secondary shapes and finally the tertiary details. I'm gonna explain about each one and how to figure out each pass. As I said before, it doesn't matter what sort of 3D hair you're creating. This way of thinking, applies to all.
 
 _First, gather a bunch of references and put them in a single canvas in Photoshop. Then try to study them by painting over. The goals are clear: to break the reference into smaller shapes. The overall volume and silhouette is translated as the primary forms,_
 
