@@ -50,7 +50,8 @@ The goal of this pass, is to define the general flow of the hair, add a bit more
 Just have this mind, that this pass should define big\[ger\] chunks of hair. Leave the tiny details to the final step. Don't be obsessed with details too much for now. Try to focus on how those big chunks of hair are connected/related to each other, as this is a very vital step in the whole process.
 
 * If you're doing real-time hair, you need a texture sheet with a few hair groups consisted of mid to low counts of hairs. Also you can add a bit more color variations to them. You can read more about creating game hair texture sheet, [here](https://hossimo.com/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/ "How To Create Texture Map For Game Hair Cards Using XGen").
-* 
+* If you're using hair-groomers like XGen, you may need to add a few descriptions depending on the hairstyle, and also use modifiers like Clumping in a more visible, meaningful way.
+* If you're sculpting, the procedure is the same. Since you're doing it by hand, you have to pay more attention to the relationship of the hair chunks. Also, it's easy to find yourself wasting your time on details! Just... stay focused!
 
 ##### Tertiary Details
 
