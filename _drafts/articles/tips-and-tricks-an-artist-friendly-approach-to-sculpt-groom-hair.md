@@ -35,7 +35,7 @@ The primary forms, are the first step (after gathering and studying references w
 
 The goal of this pass, is simply to cover most of the head and let no scalp skin be visible. Besides, to show the general recognizable hairstyle.
 
-* If you're doing real-time hair, you're gonna need a texture sheet that does have some thick groups of hair, so that it let almost no light through and cover the scalp skin.
+* If you're doing real-time hair, you're gonna need a texture sheet that does have some thick groups of hair, so that it let almost no light through and cover the scalp skin. You can read more about creating game hair texture sheet, [here](https://hossimo.com/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/ "How To Create Texture Map For Game Hair Cards Using XGen").
 * If you're using hair-groomers like XGen, it's the same; depending on your desired hairstyle, you'll need at least one separate description to cover the head and shape the general silhouette.
 * If you're sculpting hair, it's still the same; you have to somewhat forget about details and nail down the primary shapes.
 
@@ -49,8 +49,11 @@ The goal of this pass, is to define the general flow of the hair, add a bit more
 
 Just have this mind, that this pass should define big\[ger\] chunks of hair. Leave the tiny details to the final step. Don't be obsessed with details too much for now. Try to focus on how those big chunks of hair are connected/related to each other, as this is a very vital step in the whole process.
 
+* If you're doing real-time hair, you need a texture sheet with a few hair groups consisted of mid to low counts of hairs. Also you can add a bit more color variations to them. You can read more about creating game hair texture sheet, [here](https://hossimo.com/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/ "How To Create Texture Map For Game Hair Cards Using XGen").
+* 
+
 ##### Tertiary Details
 
 The Tertiary Details; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. Tertiary Details define, well, the tiny details like single hair strands (in sculpture), and the fly-away hairs added on the silhouette. This pass is also supposed to add more randomness and breakups to the hair.
 
-Another important aspect of this pass could be on the hairlines. The way hair touches the head may not look good/natural until this step. You have to try to add more single strands/low-count chunks of hair to where the hair meets the scalp. This is a huge step to the realism, which most artist either forget, or don't pay too much attention.
+Another important aspect of this pass could be on the hairlines. The way hair touches the head may not look good/natural until this step. You have to try to add more single strands/lower-count chunks of hair to where the hair meets the scalp. This is a huge step to the realism, which most artist either forget, or don't pay too much attention.
