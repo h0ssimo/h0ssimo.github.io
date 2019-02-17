@@ -32,3 +32,11 @@ _First, gather a bunch of references and put them in a single canvas in Photosho
 ##### Primary Forms
 
 The primary forms, are the first step (after gathering and studying references which I'm gonna talk about in a bit) of doing hair. If you ask about a clearer definition, I'll put it this way: "The Primary forms of hair, are the ones which define the overall volume of the hair, and the general silhouette (forget about the tiny fly-away hairs for now). The ones that are recognized by the audience if your character is in the darkness and there's some light behind."
+
+The goal of this pass, is simply to cover most of the head and let no scalp skin be visible. Besides, to show the general recognizable hairstyle.
+
+* If you're doing real-time hair, you're gonna need a texture sheet that does have some thick groups of hair, so that it let almost no light through and cover the scalp skin.
+* If you're using hair-groomers like XGen, it's the same; depending on your desired hairstyle, you'll need at least one separate description to cover the head and shape the general silhouette.
+* If you're sculpting hair, it's still the same; you have to somewhat forget about details and nail down the primary shapes.
+
+##### Secondary Shapes
