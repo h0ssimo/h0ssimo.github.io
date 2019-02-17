@@ -47,4 +47,8 @@ However, if you ask about the definition, I'll reply: "The Secondary Shapes, are
 
 The goal of this pass, is to define the general flow of the hair, add a bit more detail to the silhouette and add color variations as well. This is where most of the fight-throughs happen as an artist. If you have this pass done, and blurred it in Photoshop and it still worked, you're on the right track.
 
-Just have this mind, that this pass should define big\[ger\] chunks of hair. Leave the tiny details to the final step. Don't be obsessed with details too much for now.
+Just have this mind, that this pass should define big\[ger\] chunks of hair. Leave the tiny details to the final step. Don't be obsessed with details too much for now. Try to focus on how those big chunks of hair are connected/related to each other, as this is a very vital step in the whole process.
+
+##### Tertiary Details
+
+The Tertiary Details; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. 
