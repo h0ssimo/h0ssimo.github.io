@@ -51,4 +51,6 @@ Just have this mind, that this pass should define big\[ger\] chunks of hair. Lea
 
 ##### Tertiary Details
 
-The Tertiary Details; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. 
+The Tertiary Details; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. Tertiary Details define, well, the tiny details like single hair strands (in sculpture), and the fly-away hairs added on the silhouette. This pass is also supposed to add more randomness and breakups to the hair.
+
+Another important aspect of this pass could be on the hairlines. The way hair touches the head may not look good/natural until this step. You have to try to add more single strands/low-count chunks of hair to where the hair meets the scalp. This is a huge step to the realism, which most artist either forget, or don't pay too much attention.
