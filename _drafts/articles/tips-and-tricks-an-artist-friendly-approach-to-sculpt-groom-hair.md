@@ -77,7 +77,7 @@ Also by doing so, you can -for example- have an idea of how many hair groups you
 
 ### Conclusion
 
-I already said everything about the process. Just take your time, and don't stick with what you already have. Don't be afraid of changing, to be able push your art to the next level.
+Note that the passes I talked about, are not totally separated processes. For example, you may need to adjust the _Primary Forms_ while doing the _Secondary Shapes_. Just take your time, and don't stick with what you already have. Don't be afraid of changing, to be able push your art to the next level.
 
 That's it guys. I hope I was clear in explanation of the concept of breaking down the steps of doing all sorts of hairs. I'll be happy to hear from you guys.
 
