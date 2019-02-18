@@ -22,8 +22,6 @@ Having control over the sewing lines you sculpt in your character's clothing, is
 
 The whole idea, is simply to create a mask while sculpting in ZBrush. Then, when you import your model to Substance Painter, it's just a matter of applying the created mask to the desired material. And BOOM! You are in the driving seat!
 
-This showcased workflow, could be used for any sorts of similar things, like zippers; then you can assign metal material to that section in Substance Painter.
-
 ### Important Notes Before Starting
 
 * Your mesh has to have proper UVs.
@@ -45,3 +43,13 @@ If you have trouble seeing your sculpting process, while in black, just click on
 When you finished sculpting, it's time to export the mask. Before that, select your desired UV resolution under the UV Map in Tool palette. Go with maximum to have more control later. To export the map, click on New From Polypaint under the Create sub-menu under the Texture Map menu in Tool palette. Then click on Clone Txtr. After that, click on Flip V under the Texture palette and then export. The exported image is the one we use in Substance Painter.
 
 Import the mesh and the exported map from ZBrush into Substance Painter. Add the material you want to use for the sewing lines, then right click on the assigned material, and click on "Add bitmap mask," then select the imported mask. That't it, now the material only works on your sewing lines.
+
+### Conclusion
+
+I like this workflow because it's fast and doesn't need extra UDIM tiles.
+
+Also, this showcased workflow, could be used for any sorts of similar things, like zippers; then you can assign metal material to that section in Substance Painter.
+
+That's it everyone. Thanks for reading. I hope you got something useful out of this article. Let me hear what you have to say. Getting feedback is what gets me going faster.
+
+Cheers!
