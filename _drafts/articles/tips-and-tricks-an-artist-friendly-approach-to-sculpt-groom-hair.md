@@ -63,4 +63,8 @@ Another important aspect of this pass could be on the hairlines. The way hair to
 
 ### Studying The References
 
-As always, it's crucial to gather a bunch of references for the hairstyle you're going for. A way of quickly studying you references would be to open them in Photoshop, and trying to determine the Primary Forms, the Secondary Shapes and the Tertiary details by doing some paint-overs. By doing so, you can have an idea of how may
+As always, it's crucial to gather a bunch of references for the hairstyle you're going for. A way of quickly studying you references would be to open them in Photoshop, and trying to determine the Primary Forms, the Secondary Shapes and the Tertiary details by doing some paint-overs.
+
+When studying, have that blur trick in mind. Blur you reference image, and draw on the main lines you see. That will be the Secondary Shapes. Whatever not noticeably visible, is in the Tertiary Details pass.
+
+Also by doing so, you can -for example- have an idea of how many hair groups you need in your texture sheet for you real-time hair.
