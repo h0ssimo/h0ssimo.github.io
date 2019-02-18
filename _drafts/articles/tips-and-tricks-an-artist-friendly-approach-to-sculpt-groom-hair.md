@@ -11,8 +11,8 @@ categories:
 - articles
 image: ''
 image-sm: ''
-featured: false
-showtags: false
+featured: true
+showtags: true
 
 ---
 Doing hair -regardless of the art type- has always been an interesting topic to talk about among artists; due to its daunting challenges on the way. No matter what type of 3D hair you're creating (real-time, rendered or sculpted), the way of thinking about it, the concept, is the same.
