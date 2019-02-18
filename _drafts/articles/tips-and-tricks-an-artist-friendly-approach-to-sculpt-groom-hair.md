@@ -17,17 +17,15 @@ showtags: false
 ---
 Doing hair -regardless of the art type- has always been an interesting topic to talk about among artists; due to its daunting challenges on the way. No matter what type of 3D hair you're creating (real-time, rendered or sculpted), the way of thinking about it, the concept, is the same.
 
-Let me make it clear at this point that if you're looking for quality output, there's no fast ways around it, you have to be patient and spend your time, deal with it; period.
+Let me make it clear at this point that if you're looking for quality output, there's no fast ways around it, you have to be patient and spend your time, deal with it.
 
 Now, I'm not gonna write any step-by-step guides, because you can find loads of them on Google, and good ones, too. However, I'm here to talk about how to catch a fish, rather than giving you only one fish.
 
-_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other pro artists' works (I've done some paint-overs though) and I have no claims on them._
+_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other artists' works (I've done some paint-overs though) and I have no claims on them._
 
 ### An Artist-Friendly Approach To Sculpt/Groom Hair
 
 The basic idea, is to think of it as a sculpting process. Meaning that you have to do the primary forms first, then nail down the secondary shapes and finally the tertiary details. I'm gonna explain about each one and how to figure out each pass. As I said before, it doesn't matter what sort of 3D hair you're creating. This way of thinking, applies to all.
-
-_First, gather a bunch of references and put them in a single canvas in Photoshop. Then try to study them by painting over. The goals are clear: to break the reference into smaller shapes. The overall volume and silhouette is translated as the primary forms,_
 
 ##### Primary Forms
 
@@ -59,6 +57,10 @@ The Tertiary Details; this pass could be more time-consuming, but I gotta say if
 
 Another important aspect of this pass could be on the hairlines. The way hair touches the head may not look good/natural until this step. You have to try to add more single strands/lower-count chunks of hair to where the hair meets the scalp. This is a huge step to the realism, which most artist either forget, or don't pay too much attention.
 
-* If you're doing real-time hair, you need your texture sheet to have a few hair groups made of low\[er\] counts of hair strands. Since every piece of hair card you add matters, choose the placement of the details carefully (as always, refer to the reference). Also pay attention to the hairlines as it's often in real-time hairs that hairlines looks so unnatural.
+* If you're doing real-time hair, you need your texture sheet to have a few hair groups made of low\[er\] counts of hair strands. Since every piece of hair card you add matters, choose the placement of the details carefully (as always, refer to the reference). Also pay attention to the hairlines as it's often in real-time hairs that hairlines looks so unnatural. Again, you can read more about creating game hair texture sheet, [here](https://hossimo.com/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/ "How To Create Texture Map For Game Hair Cards Using XGen").
 * If you're using hair-groomers like XGen, you'll probably need at least two descriptions. One for the hairlines, and one for the fly-away hairs and little details here and there.
 * If you're sculpting, you just need to make your audience "feel" the material of the hair. You don't always have to do every single hair strand, it's almost impossible (not totally, it just needs tons of time!) in some ways. Choose the placement and the size of your strokes carefully.
+
+### Studying The References
+
+As always, it's crucial to gather a bunch of references for the hairstyle you're going for. A way of quickly studying you references would be to open them in Photoshop, and trying to determine the Primary Forms, the Secondary Shapes and the Tertiary details by doing some paint-overs. By doing so, you can have an idea of how may
