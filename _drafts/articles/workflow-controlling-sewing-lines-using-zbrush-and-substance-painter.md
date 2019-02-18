@@ -11,8 +11,8 @@ tags:
 - tutorial
 categories:
 - articles
-image: ''
-image-sm: ''
+image: "/images/controlling_stitching_sewing_lines_using_zbrush_and_substance_painter_header.jpg"
+image-sm: "/images/controlling_stitching_sewing_lines_using_zbrush_and_substance_painter_header.jpg"
 featured: true
 showtags: true
 
@@ -35,13 +35,21 @@ Before doing any sort of sewing line sculpting, bring the alpha of your brush\[e
 
 An example of creating the right mask for the sewing brush\[es\]:
 
+![](/images/01_creating_the_mask_for_brush.jpg)
+
 Then import the created mask to the texture section of _ZBrush_ and apply it to the texture of your brush.
 
+![](/images/02_importing_and_applying_the_mask.jpg)
+
 Then fill your mesh with black (pick black color, then go to _Color_ -> _FillObject_, with _RGB_ _ON_ on any brush), and turn on the _RGB_ of your sewing brush, and sculpt while a white color is chosen. This way, when applying the sewing lines to the mesh, the white color will automatically be applied right on top of the sewing lines. This will ultimately be our mask that we're gonna export to _Substance Painter_.
+
+![](/images/03_1_fill_black_sculpt_with_white_RGB.jpg)![](/images/03_2_fill_black_sculpt_with_white_RGB.jpg)
 
 If you have trouble seeing your sculpting process, while in black, just click on the little "brush" button under the _Subtool_ menu, beside the thumbnail of your mesh, to turn polypaint preview off. Now, you don't see the white being painted, but don't worry, it's painting as long as you keep your _RGB_ button _ON_ while using your brush. You can click on that little "_brush_" button again, to make sure it's painting.
 
 When you finished sculpting, it's time to export the mask. Before that, select your desired _UV_ resolution under the _UV Map_ in _Tool_ palette. Go with maximum to have more control later. To export the map, click on _New From Polypaint_ under the _Create_ sub-menu under the _Texture Map_ menu in _Tool_ palette. Then click on _Clone Txtr_. After that, click on _Flip V_ under the _Texture_ palette and then export. The exported image is the one we use in _Substance Painter_.
+
+![](/images/04_create_and_export_mask.jpg)
 
 Import the mesh and the exported map from _ZBrush_ into _Substance Painter_. Add the material you want to use for the sewing lines, then right click on the assigned material, and click on "_Add bitmap mask_," then select the imported mask. That't it, now the material only works on your sewing lines.
 
