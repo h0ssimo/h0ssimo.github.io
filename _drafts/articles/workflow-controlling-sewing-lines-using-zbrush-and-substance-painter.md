@@ -43,7 +43,8 @@ Then import the created mask to the texture section of _ZBrush_ and apply it to 
 
 Then fill your mesh with black (pick black color, then go to _Color_ -> _FillObject_, with _RGB_ _ON_ on any brush), and turn on the _RGB_ of your sewing brush, and sculpt while a white color is chosen. This way, when applying the sewing lines to the mesh, the white color will automatically be applied right on top of the sewing lines. This will ultimately be our mask that we're gonna export to _Substance Painter_.
 
-![](/images/03_1_fill_black_sculpt_with_white_RGB.jpg)![](/images/03_2_fill_black_sculpt_with_white_RGB.jpg)
+![](/images/03_1_fill_black_sculpt_with_white_RGB.jpg)
+![](/images/03_2_fill_black_sculpt_with_white_RGB.jpg)
 
 If you have trouble seeing your sculpting process, while in black, just click on the little "brush" button under the _Subtool_ menu, beside the thumbnail of your mesh, to turn polypaint preview off. Now, you don't see the white being painted, but don't worry, it's painting as long as you keep your _RGB_ button _ON_ while using your brush. You can click on that little "_brush_" button again, to make sure it's painting.
 
