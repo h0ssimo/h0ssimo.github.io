@@ -38,8 +38,10 @@ An example of creating the right mask for the sewing brush\[es\]:
 
 Then import the created mask to the texture section of ZBrush and apply it to the texture of your brush.
 
-Then fill your mesh with black, and turn on the RGB of your brush, and sculpt while a white color is chosen. This way, when applying the sewing lines to the mesh, the white color will automatically be applied right on top of the sewing lines. This will ultimately be our mask that we're gonna export to Substance Painter.
+Then fill your mesh with black (pick black color, then go to Color -> FillObject, with RGB ON on any brush), and turn on the RGB of your sewing brush, and sculpt while a white color is chosen. This way, when applying the sewing lines to the mesh, the white color will automatically be applied right on top of the sewing lines. This will ultimately be our mask that we're gonna export to Substance Painter.
 
 If you have trouble seeing your sculpting process, while in black, just click on the little "brush" button under the Subtool menu, beside the thumbnail of your mesh, to turn polypaint preview off. Now, you don't see the white being painted, but don't worry, it's painting as long as you keep your RGB button ON while using your brush. You can click on that little "brush" button again, to make sure it's painting.
 
 When you finished sculpting, it's time to export the mask. Before that, select your desired UV resolution under the UV Map in Tool palette. Go with maximum to have more control later. To export the map, click on New From Polypaint under the Create sub-menu under the Texture Map menu in Tool palette. Then click on Clone Txtr. After that, click on Flip V under the Texture palette and then export. The exported image is the one we use in Substance Painter.
+
+Import the mesh and the exported map from ZBrush into Substance Painter. Add the material you want to use for the sewing lines, then right click on the assigned material, and click on "Add bitmap mask," then select the imported mask. That't it, now the material only works on your sewing lines.
