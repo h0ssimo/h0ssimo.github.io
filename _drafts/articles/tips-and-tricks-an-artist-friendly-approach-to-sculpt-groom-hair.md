@@ -64,6 +64,10 @@ Just have this mind, that this pass should define big\[ger\] chunks of hair. Lea
 
 _There will be a lot of back-and-forth process when sculpting hair._
 
+![](/images/hair_secondary_shapes_trick.jpg)
+
+_It just works!_
+
 ##### Tertiary Details
 
 The _Tertiary Details_; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. The _Tertiary Details_ define, well, the tiny details like **single hair strands**, and the **fly-away** hairs added on the silhouette. This pass is also supposed to add more **randomness** and **breakups** to the hair.
