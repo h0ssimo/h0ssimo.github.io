@@ -21,7 +21,7 @@ Let me make it clear at this point that if you're looking for quality output, th
 
 Now, I'm not gonna write any step-by-step guides, because you can find loads of them on Google, and good ones, too. However, I'm here to talk about how to catch a fish, rather than giving you only one fish.
 
-_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context, are other artists' works (however, I've done some paint-overs) and I have no claims on them._
+_This article is written because one of my_ [_Reddit_](https://www.reddit.com/r/CharacterArtists/ "Reddit - r/CharacterArtists") _subscribers asked me about some explanations on doing hair. Due to the loads of work and lack of time, I couldn't create the images of this article myself. So the images shown in the context (not the header though), are other artists' works and I have no claims on them._
 
 ### An Artist-Friendly Approach To Sculpt/Groom Hair
 
@@ -99,6 +99,8 @@ Also by doing so, you can -for example- have an idea of how many hair groups you
 ![](/images/hair_reference_study.jpg)
 
 _Reference study by Adam Skutt_
+
+![](/images/hair_reference_study_2.jpg)
 
 ### Conclusion
 
