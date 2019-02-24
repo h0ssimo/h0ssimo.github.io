@@ -50,6 +50,8 @@ _This one's pretty basic. Obviously, there will be a lot more tweaking along the
 
 The _Secondary Shapes_, live inside the _Primary Forms_. At this stage, you're gonna add a bit more definition on top of what you had before. To put it in a nutshell, take one of your references on _Photoshop_ and blur it. See those lines?! They're the _Secondary Shapes_.
 
+![](/images/hair_secondary_shapes_blur.jpg)
+
 However, if you ask about the definition, I'll reply: "The _Secondary Shapes_, are the ones that include hair **breakups** and the **connectivity** or the **flow** of the hair. They're made of smaller strokes than the _Primary Forms_, and bigger ones than the _Tertiary Details_. They're groups of hairs that are related to each other in a smooth flow."
 
 The goal of this pass, is to define the general flow of the hair, add a bit more detail to the silhouette and add **color variations** as well. This is where most of the fight-throughs happen as an artist. If you have this pass done, and blurred it in _Photoshop_ and it still worked, you're on the right track.
