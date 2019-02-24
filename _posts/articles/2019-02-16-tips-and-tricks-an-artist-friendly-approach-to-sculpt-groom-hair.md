@@ -45,7 +45,7 @@ The goal of this pass, is simply to cover most of the head and let no scalp skin
 _This image above is a good example of primary forms of hair. By Adam Skutt_
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_primary_forms_2.jpg" alt="hair_primary_forms_2" class="narrowResponsive">
-_This one's pretty basic. Obviously, there will be a lot more tweaking along the way._
+_This one's pretty basic. Obviously, there will be a lot more tweaking along the way. By Henning Sanden_
 
 
 ##### Secondary Shapes
@@ -67,10 +67,10 @@ Just have this mind, that this pass should define big\[ger\] chunks of hair. Lea
 * If you're sculpting, the procedure is the same. Since you're doing it by hand, you have to pay more attention to the relationship of the hair chunks. Also, it's easy to find yourself wasting your time on details too soon! Just... stay focused!
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_secondary_shapes.jpg" alt="hair_secondary_shapes" class="narrowResponsive">
-_There will be a lot of back-and-forth process when sculpting hair._
+_There will be a lot of back-and-forth process when sculpting hair. By Henning Sanden_
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_secondary_shapes_trick.jpg" alt="hair_secondary_shapes_trick" class="narrowResponsive">
-_It just works!_
+_It just works! By Henning Sanden_
 
 
 ##### Tertiary Details
@@ -89,7 +89,7 @@ Another important aspect of this pass could be on the **hairlines**. The way hai
 _Final game hair by Adam Skutt_
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_tertiary_details_2.jpg" alt="hair_tertiary_details_2" class="narrowResponsive">
-_This sculpture is stylized, but you still can see pretty well that how tertiary details are executed when sculpting._
+_This sculpture is stylized, but you still can see pretty well that how tertiary details are executed when sculpting. By Henning Sanden_
 
 
 ### Studying The References
@@ -104,7 +104,7 @@ Also by doing so, you can -for example- have an idea of how many hair groups you
 _Reference study by Adam Skutt_
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_reference_study_2.jpg" alt="hair_reference_study_2" class="narrowResponsive">
-
+_Reference study by Henning Sanden_
 
 ### Conclusion
 
