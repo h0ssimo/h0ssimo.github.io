@@ -14,7 +14,7 @@ image: "/images/Characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg
 image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg"
 featured: true
 showtags: true
-artstation: ''
+artstation: https://www.artstation.com/artwork/XBG3E3
 
 ---
 These are a couple of unfinished shots of my recent personal project I'm doing in my free time.
@@ -48,3 +48,5 @@ This shows my render passes, composed in Photoshop:
 I'm almost happy with the head sculpt, but I'm gonna improve it more as I go forward towards rendering. But before that, I'm gonna work on the clothing which I'm not quite happy about.
 
 The hair and the brows are temporary ones, because my plan is to get everything inside Maya and from there, render a realistic portrait of him using Vray; so I'm gonna be doing all the hair in Maya using XGen. Maybe I will use some of these FiberMesh curves as a base for my XGen.
+
+For higher quality images, please visit my Artstation.
