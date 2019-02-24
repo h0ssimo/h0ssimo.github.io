@@ -103,7 +103,7 @@ Also by doing so, you can -for example- have an idea of how many hair groups you
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_reference_study.jpg" alt="hair_reference_study" class="responsive">
 _Reference study by Adam Skutt_
 
-<img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_reference_study_2.jpg" alt="hair_reference_study_2" class="responsive">
+<img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_reference_study_2.jpg" alt="hair_reference_study_2" class="narrowResponsive">
 
 
 ### Conclusion
