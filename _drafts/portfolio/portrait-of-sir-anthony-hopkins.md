@@ -28,7 +28,7 @@ I'll be updating this post to share the process from sculpting to rendering. Let
 
 Here I'm gonna quickly go over my process so far.
 
-I've created all my base meshes in Maya, even the clothing. Then imported them sculpted in ZBrush and started sculpting. At the beginning, I brought in only the head, to stay focused.
+I've created all my base meshes in Maya, even the clothing. Then imported them in ZBrush and started sculpting. At the beginning, I brought in only the head, to stay focused.
 
 The hair and the brows are FiberMesh, consisted of multiple setups.
 
