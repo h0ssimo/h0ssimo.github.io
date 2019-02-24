@@ -3,14 +3,14 @@ layout: post
 title: 'Tips and Tricks: The Right Way To Think About Doing Hair As An Artist'
 excerpt: In this quick article, I'm gonna cover the concepts of creating hair. Whether
   it be sculpture, grooming or real-time hair cards.
-date: 2019-02-17 00:00:00 +0330
+date: 2019-02-16 20:30:00 +0000
 tags:
 - article
 - TipsAndTricks
 categories:
 - articles
-image: ''
-image-sm: ''
+image: "/images/tips_and_tricks_on_grooming_sculpting_hair_header.jpg"
+image-sm: "/images/tips_and_tricks_on_grooming_sculpting_hair_header.jpg"
 featured: true
 showtags: true
 
