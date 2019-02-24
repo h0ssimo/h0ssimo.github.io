@@ -53,6 +53,8 @@ _This one's pretty basic. Obviously, there will be a lot more tweaking along the
 The _Secondary Shapes_, live inside the _Primary Forms_. At this stage, you're gonna add a bit more definition on top of what you had before. To put it in a nutshell, take one of your references on _Photoshop_ and blur it. See those lines?! They're the _Secondary Shapes_.
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tips_and_Tricks_on_Grooming_Sculpting_Hair/hair_secondary_shapes_blur.jpg" alt="hair_secondary_shapes_blur" class="narrowResponsive">
+_By Henning Sanden_
+
 
 However, if you ask about the definition, I'll reply: "The _Secondary Shapes_, are the ones that include hair **breakups** and the **connectivity** or the **flow** of the hair. They're made of smaller strokes than the _Primary Forms_, and bigger ones than the _Tertiary Details_. They're groups of hairs that are related to each other in a smooth flow."
 
