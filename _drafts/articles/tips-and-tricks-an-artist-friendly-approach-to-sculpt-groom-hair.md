@@ -37,6 +37,15 @@ The goal of this pass, is simply to cover most of the head and let no scalp skin
 * If you're using hair-groomers like _XGen_, it's the same; depending on your desired hairstyle, you'll need at least one separate description to cover the head and shape the general silhouette.
 * If you're sculpting hair, it's still the same; you have to somewhat forget about details and nail down the primary shapes.
 
+![](/images/hair_primary_forms_1.jpg)
+
+_This image above is a good example of primary forms of hair. By Adam Skutt_
+
+  
+![](/images/hair_primary_forms_2.jpg)
+
+_This one's pretty basic. Obviously, there will be a lot more tweaking along the way._
+
 ##### Secondary Shapes
 
 The _Secondary Shapes_, live inside the _Primary Forms_. At this stage, you're gonna add a bit more definition on top of what you had before. To put it in a nutshell, take one of your references on _Photoshop_ and blur it. See those lines?! They're the _Secondary Shapes_.
@@ -51,6 +60,10 @@ Just have this mind, that this pass should define big\[ger\] chunks of hair. Lea
 * If you're using hair-groomers like _XGen_, you may need to add a few descriptions depending on the hairstyle, and also use modifiers like Clumping in a more visible, meaningful way.
 * If you're sculpting, the procedure is the same. Since you're doing it by hand, you have to pay more attention to the relationship of the hair chunks. Also, it's easy to find yourself wasting your time on details too soon! Just... stay focused!
 
+![](/images/hair_secondary_shapes.jpg)
+
+_There will be a lot of back-and-forth process when sculpting hair._
+
 ##### Tertiary Details
 
 The _Tertiary Details_; this pass could be more time-consuming, but I gotta say if the previous passes have gone as you would like, this is the fun part. The _Tertiary Details_ define, well, the tiny details like **single hair strands**, and the **fly-away** hairs added on the silhouette. This pass is also supposed to add more **randomness** and **breakups** to the hair.
@@ -60,6 +73,14 @@ Another important aspect of this pass could be on the **hairlines**. The way hai
 * If you're doing real-time hair, you need your texture sheet to have a few hair groups made of low\[er\] counts of hair strands. Since every piece of hair card you add matters, choose the placement of the details carefully (as always, have an eye on the reference). Also pay attention to the transition of hairlines as it's often in real-time hairs that hairlines looks so unnatural. _Again, you can read more about creating game hair texture sheet,_ [_here_](https://hossimo.com/tutorial/workflow-how-to-create-texture-map-for-game-hair-cards-using-xgen/ "How To Create Texture Map For Game Hair Cards Using XGen")_._
 * If you're using hair-groomers like _XGen_, you'll probably need at least two descriptions, depending on your workflow. One for the hairlines, and one for the fly-away hairs and little details here and there.
 * If you're sculpting, you just need to make your audience "feel" the material of the hair. You don't always have to do every single hair strand, it's almost impossible (not totally, it just needs tons of time!) in some ways. Choose the placement and the size of your strokes carefully.
+
+![](/images/hair_tertiary_details_1.jpg)
+
+_Final game hair by Adam Skutt_
+
+![](/images/hair_tertiary_details_2.jpg)
+
+_This sculpture is stylized, but you still can see pretty well that how tertiary details are executed when sculpting._
 
 ### Studying The References
 
