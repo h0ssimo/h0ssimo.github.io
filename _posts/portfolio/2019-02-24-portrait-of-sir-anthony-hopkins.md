@@ -41,7 +41,7 @@ It's also worth mentioning that I've explained in-depth about the cloth material
 
 This shows my render passes, composed in Photoshop:
 
-<img src="/images/characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_breakup.gif" alt="anthony_hopkins_by_hossimo_breakup" class="narrowResponsive">
+<img src="/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_breakup.gif" alt="anthony_hopkins_by_hossimo_breakup" class="narrowResponsive">
 
 ### What's Next?
 
