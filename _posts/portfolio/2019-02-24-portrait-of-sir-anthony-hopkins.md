@@ -10,8 +10,8 @@ tags:
 - WIP
 categories:
 - portfolio
-image: "/images/characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg"
-image-sm: "/images/characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg"
+image: "/images/Characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg"
+image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.jpg"
 featured: true
 showtags: true
 artstation: ''
@@ -21,7 +21,7 @@ These are a couple of unfinished shots of my recent personal project I'm doing i
 
 I'll be updating this post to share the process from sculpting to rendering. Let me know if you have any questions.
 
-<img src="/images/characters/Anthony_Hopkins/anthony_hopkins_head_sculpt_by_hossimo.jpg" alt="anthony_hopkins_head_sculpt_by_hossimo" class="responsive">
+<img src="/images/Characters/Anthony_Hopkins/anthony_hopkins_head_sculpt_by_hossimo.jpg" alt="anthony_hopkins_head_sculpt_by_hossimo" class="responsive">
 
 ### Workflow
 
@@ -33,7 +33,7 @@ The hair and the brows are FiberMesh, consisted of multiple setups.
 
 The rendering, is done inside ZBrush as well. I used BPR render passes and combined them in Photoshop with a little touch up.
 
-<img src="/images/characters/Anthony_Hopkins/anthony_hopkins_wide_by_hossimo.jpg" alt="anthony_hopkins_wide_by_hossimo" class="responsive">
+<img src="/images/Characters/Anthony_Hopkins/anthony_hopkins_wide_by_hossimo.jpg" alt="anthony_hopkins_wide_by_hossimo" class="responsive">
 
 It's also worth mentioning that I've explained in-depth about the cloth material in ZBrush [here](https://hossimo.com/tutorial/quick-tips-how-to-create-cloth-material-in-zbrush/ "How To Create Cloth Material In ZBrush").
 
