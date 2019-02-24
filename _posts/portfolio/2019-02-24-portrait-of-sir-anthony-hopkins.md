@@ -15,7 +15,6 @@ image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_square_by_hossimo.
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/XBG3E3
-mview: ''
 
 ---
 These are a couple of unfinished shots of my recent personal project I'm doing in my free time.
