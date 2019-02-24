@@ -10,8 +10,8 @@ tags:
 - WIP
 categories:
 - portfolio
-image: ''
-image-sm: ''
+image: "/images/anthony_hopkins_square_by_hossimo.jpg"
+image-sm: "/images/anthony_hopkins_square_by_hossimo.jpg"
 featured: true
 showtags: true
 artstation: ''
