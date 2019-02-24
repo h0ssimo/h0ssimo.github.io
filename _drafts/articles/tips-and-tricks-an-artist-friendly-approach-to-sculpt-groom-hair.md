@@ -90,6 +90,10 @@ When studying, have that **blur trick** in mind. Blur you reference image, and d
 
 Also by doing so, you can -for example- have an idea of how many hair groups you need in your texture sheet for you real-time hair.
 
+![](/images/hair_reference_study.jpg)
+
+_Reference study by Adam Skutt_
+
 ### Conclusion
 
 Note that the passes I talked about, are not totally separated processes and could be a back-and-forth workflow between them, which in most cases, it is. For example, you may need to adjust the _Primary Forms_ while doing the _Secondary Shapes_. Just take your time, and don't stick with what you already have. Don't be afraid of changing, to be able push your art to the next level.
