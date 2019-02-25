@@ -56,7 +56,7 @@ Import the mesh and the exported map from _ZBrush_ into _Substance Painter_. Add
 
 ### Conclusion
 
-I like this workflow because it's fast and doesn't need extra _UDIM_ _tiles_.
+I like this workflow because it's fast and doesn't necessarily need extra _UDIM_ _tiles_.
 
 Also, this showcased workflow, could be used for any sorts of similar things, like zippers; then you can assign metal material to that section in _Substance Painter_.
 
