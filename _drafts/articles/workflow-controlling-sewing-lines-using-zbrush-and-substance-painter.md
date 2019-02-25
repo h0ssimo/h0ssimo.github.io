@@ -4,7 +4,7 @@ title: 'Workflow: Controlling Stitching / Sewing Lines Using ZBrush And Substanc
   Painter'
 excerpt: In this article I'm gonna give you an overview of my sewing workflow, in
   which you have full control over them when it comes to texturing.
-date: 2019-02-22 00:00:00 +0330
+date: 2019-02-21 20:30:00 +0000
 tags:
 - article
 - workflow
@@ -21,7 +21,7 @@ Having control over the sewing lines you sculpt in your character's clothing, is
 
 ### The Concept
 
-The whole idea, is simply to create a mask while sculpting in _ZBrush_. Then, when you import your model to _Substance Painter_, it's just a matter of applying the created mask to the desired material. And _BOOM_! You are in the driving seat!
+The whole idea, is simply to create a mask while sculpting in _ZBrush_. Then, when you import your model to _Substance Painter_, it's just a matter of applying the created mask to the desired material. And _BOOM_! You're in the driving seat!
 
 ### Notes Before Starting
 
