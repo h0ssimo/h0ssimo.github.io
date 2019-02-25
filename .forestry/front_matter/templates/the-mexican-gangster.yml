@@ -63,3 +63,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _posts/portfolio/2019-02-24-portrait-of-sir-anthony-hopkins.md
