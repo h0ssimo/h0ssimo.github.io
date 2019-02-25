@@ -21,7 +21,7 @@ These are a couple of unfinished shots of my recent personal project I'm doing i
 I'll be updating this post to share the process from sculpting to rendering. Let me know if you have any questions.
 
 
-<img src="/images/Characters/Anthony_Hopkins/anthony_hopkins_head_sculpt_by_hossimo.jpg" alt="anthony_hopkins_head_sculpt_by_hossimo" class="responsive">
+<img src="/images/Characters/Anthony_Hopkins/anthony_hopkins_head_all_by_turnarnound_hossimo.jpg" alt="anthony_hopkins_head_all_by_turnarnound_hossimo" class="responsive">
 
 
 ### Workflow
