@@ -33,7 +33,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   hossimo
 
 # Social
 analytics-id:       "UA-126991135-1"
@@ -57,7 +57,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
+  - jekyll-seo-tag
 paginate: 6
 paginate_path: "/blog/page:num/"
 
