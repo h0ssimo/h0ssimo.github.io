@@ -24,9 +24,9 @@ The whole idea, is simply to create a mask while sculpting in _ZBrush_. Then, wh
 
 ### Notes Before Starting
 
-* Your mesh has to have proper _UV_s.
+* Your mesh has to have proper _UVs._
 * We create the mask while sculpting, so if you already have your sculpt ready, this is not gonna work, naturally.
-* If you needed to change/optimize the mesh's _UV_s after doing the sculpture, there's nothing to worry about. The mask will be projected to your new mesh along with the sculpting details.
+* If you needed to change/optimize the mesh's _UVs_ after doing the sculpture, there's nothing to worry about. The mask will be projected to your new mesh along with the sculpting details.
 
 ### The Workflow
 
