@@ -1,7 +1,6 @@
 ---
 label: portfolio
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -64,4 +63,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/portfolio/nikolai.md
 - _posts/portfolio/2019-02-24-portrait-of-sir-anthony-hopkins.md
