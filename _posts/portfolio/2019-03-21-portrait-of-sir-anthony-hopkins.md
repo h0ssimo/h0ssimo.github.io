@@ -15,7 +15,6 @@ image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_front.j
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/qA6N4e
-mview: ''
 
 ---
 Finally, I decided to call this work done, otherwise I'd never knew when to stop working on it!
