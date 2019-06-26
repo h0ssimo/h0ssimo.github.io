@@ -7,3 +7,5 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
+gem "tzinfo"
+gem "tzinfo-data"
