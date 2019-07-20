@@ -1,5 +1,5 @@
-
-<div class="marmoset">
-<script> var mviewfile = {{page.mview | prepend: site.url | jsonify}}; </script>
-<iframe src="{{site.url}}/assets/mviewer/mviewer.html" allowfullscreen="true" height="600" width="800"></iframe>
+<div class="marmoset" align="center" style="height: 80vh;width: 100%;">
+    <script> var mviewfile = {{ page.mview | prepend: site.url | jsonify}} </script>
+    <iframe src="{{site.url}}/assets/mviewer/mviewer.html" allowfullscreen="true"
+        style="width: 100%;height: 100%;"></iframe>
 </div>
