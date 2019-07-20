@@ -10,8 +10,12 @@
 		&.special {
 			text-align: center;
 		}
+		
 	}
-
+	.card-header{
+		min-height: 75px;
+		max-height: 75px;
+	}
 	header {
 		cursor: default;
 

@@ -82,7 +82,7 @@ changefreq: weekly
 				{% for post in articles limit:4 %}
 
 				<article>
-					<header>
+					<header class="card-header">
 						<span class="date">{{ post.date | date_to_string }}</span>
 						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 					</header>
