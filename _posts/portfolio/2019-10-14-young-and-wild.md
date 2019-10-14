@@ -19,7 +19,7 @@ mview: ''
 
 I started this project a while ago, knowing that it's meant to be 3D printed, I chose the following pipline.
 
-    <img src="/images/young_and_wild_by_hossimo_1.jpg" alt="young_and_wild_by_hossimo_1" class="responsive">
+<img src="/images/young_and_wild_by_hossimo_1.jpg" alt="young_and_wild_by_hossimo_1" class="responsive">
 
 The base mesh and posing were done in Maya. Then I brought the model to ZBrush, in order to add some details and refine the pose. Also I sculpted the hair from scratch in ZBrush.
 
