@@ -5,7 +5,8 @@ excerpt: This is a commission sculpt I did for a client recently. It was done fo
   3D printing.
 date: 2019-10-14 00:00:00 +0330
 tags: []
-categories: []
+categories:
+- portfolio
 image: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 image-sm: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 featured: true
