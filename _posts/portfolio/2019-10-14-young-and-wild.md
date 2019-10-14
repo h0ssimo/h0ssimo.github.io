@@ -12,7 +12,7 @@ categories:
 image: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 image-sm: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 featured: true
-showtags: false
+showtags: true
 artstation: ''
 mview: ''
 
