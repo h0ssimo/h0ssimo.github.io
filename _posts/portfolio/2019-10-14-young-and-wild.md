@@ -13,7 +13,7 @@ image: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 image-sm: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 featured: true
 showtags: true
-artstation: ''
+artstation: https://www.artstation.com/artwork/L2yOvK
 mview: ''
 
 ---
