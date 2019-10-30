@@ -14,7 +14,7 @@ image-sm: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/L2yOvK
-mview: ''
+
 
 ---
 ## Young And Wild
