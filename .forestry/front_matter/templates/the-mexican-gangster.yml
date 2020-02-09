@@ -63,7 +63,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/portfolio/2019-10-14-young-and-wild.md
-- _posts/portfolio/2019-03-21-portrait-of-sir-anthony-hopkins.md
 - _posts/portfolio/2019-02-24-portrait-of-sir-anthony-hopkins.md
 - _posts/portfolio/2019-03-09-nikolai.md
+- _posts/portfolio/2019-03-21-portrait-of-sir-anthony-hopkins.md
+- _posts/portfolio/2019-10-14-young-and-wild.md

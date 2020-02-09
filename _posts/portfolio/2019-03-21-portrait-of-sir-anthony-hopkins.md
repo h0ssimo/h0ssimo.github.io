@@ -4,17 +4,18 @@ title: Portrait of Sir Anthony Hopkins
 excerpt: This is my most recent personal project that I've been creating in my free
   time. It's inspired by "Robert Ford" character in Westworld series, played by the
   living legend, Anthony Hopkins.
-date: 2019-03-21 20:30:00 +0000
+date: 2019-03-21T20:30:00.000+00:00
 tags:
 - hyperrealistic
 - likeness
 categories:
 - portfolio
-image: "/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_front.jpg"
-image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_front.jpg"
+image: "/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_side.jpg"
+image-sm: "/images/Characters/Anthony_Hopkins/anthony_hopkins_by_hossimo_side.jpg"
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/qA6N4e
+mview: ''
 
 ---
 Finally, I decided to call this work done, otherwise I'd never knew when to stop working on it!
