@@ -28,3 +28,5 @@ You can find Transfer Attributes in _Modeling_ section under _Mesh_->_Transfer A
 ![](/images/01_transfer_attributes_options.jpg)
 
 _default options_
+
+Think of the first part of the options as "WHAT" you want to transfer between geometries, and the second part as "HOW" you want the attributes to transfer.
