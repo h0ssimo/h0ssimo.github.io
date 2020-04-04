@@ -19,4 +19,6 @@ featured: true
 showtags: false
 
 ---
-### How Maya Transfer Attributes Work
+### How Maya Transfer Attributes Works
+
+Much like other Maya functions, Transfer Attributes needs a target, and a source geometry. First, you have to select the source geo, and then the target to which the transfer will be applied.
