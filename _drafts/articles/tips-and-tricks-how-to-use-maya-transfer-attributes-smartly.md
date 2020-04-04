@@ -36,3 +36,7 @@ You can read the full documentation on each one of the options [_here_](https://
 On a daily basis, we have to keep an eye on a number of important stuff: _Component IDs_, _UVs_, _Topology Changes_, _Spacing_ _(world, local, etc.)_
 
 I'm gonna explain more on a couple of examples:
+
+##### Case: Transferring UVs Between Meshes
+
+There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
