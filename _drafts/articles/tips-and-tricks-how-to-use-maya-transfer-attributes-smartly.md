@@ -43,4 +43,4 @@ There could be lots of scenarios, here's the basic one plus a bit of information
 
 Here I have two identical meshes, all except _UVs_. I want to transfer the UVs from the left one (obvious, it has _Normal Map_!) to the other. Let's go through the options we need and why.
 
-_Vertex Position: Off_ - I don't need that because my meshes are basically the same and no vertices were move or deformed. This could be useful when 
+_Vertex Position: Off_ - I don't need that because my meshes are basically the same and no vertices were move or deformed. This could be useful when you want to match the surfaces of two objects. Or when transferring data between high and low versions of a model. 
