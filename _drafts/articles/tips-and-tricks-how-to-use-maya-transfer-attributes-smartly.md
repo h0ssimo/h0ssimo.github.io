@@ -30,3 +30,7 @@ You can find Transfer Attributes in _Modeling_ section under _Mesh_->_Transfer A
 _default options_
 
 Think of the first part of the options as "WHAT" you want to transfer between geometries, and the second part as "HOW" you want the attributes to transfer.
+
+You can read the full documentation on each one of the options [here](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Maya-Modeling/files/GUID-76D5F064-C5A1-4310-B72A-788AB5C9A25B-htm.html "Transfer attributes between meshes").
+
+On a daily basis, we have to keep an eye on a number of important stuff: Component IDs, UVs, Topology Changes, Space (world, local, etc.)
