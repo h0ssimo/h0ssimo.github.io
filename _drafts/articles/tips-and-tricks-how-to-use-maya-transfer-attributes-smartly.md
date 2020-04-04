@@ -21,6 +21,10 @@ showtags: false
 ---
 ### How Maya Transfer Attributes Works
 
-Much like other Maya functions, Transfer Attributes needs a target, and a source geometry. First, you have to select the source geo, and then the target to which the transfer will be applied.
+Much like other _Maya_ functions, _Transfer Attributes_ needs a target, and a source geometry. First, you have to select the **source** geo, and then the **target** to which the transfer will be applied.
 
-You can find Transfer Attributes in Modeling section under Mesh->Transfer Attributes. After you made your geometry selection click on the the Transfer Attributes options to see the window below:
+You can find Transfer Attributes in _Modeling_ section under _Mesh_->_Transfer Attributes_. After you made your geometry selection click on the the _Transfer Attributes_ options to see the window below:
+
+![](/images/01_transfer_attributes_options.jpg)
+
+_default options_
