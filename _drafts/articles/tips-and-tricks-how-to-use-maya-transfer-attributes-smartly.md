@@ -13,9 +13,10 @@ tags:
 - MarvelousDesigner
 categories:
 - articles
-image: ''
-image-sm: ''
+image: "/images/tips_and_tricks_on_transfer_attributes_header.jpg"
+image-sm: "/images/tips_and_tricks_on_transfer_attributes_header.jpg"
 featured: true
 showtags: false
 
 ---
+### How Maya Transfer Attributes Work
