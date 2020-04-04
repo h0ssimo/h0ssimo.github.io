@@ -40,3 +40,7 @@ I'm gonna explain more on a couple of examples:
 ##### Case: Transferring UVs Between Meshes
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
+
+Here I have two identical meshes, all except _UVs_. I want to transfer the UVs from the left one (obvious, it has _Normal Map_!) to the other. Let's go through the options we need and why.
+
+_Vertex Position: Off_ - I don't need that because my meshes are basically the same and no vertices were move or deformed. This could be useful when 
