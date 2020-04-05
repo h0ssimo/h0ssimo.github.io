@@ -41,6 +41,6 @@ I'm gonna explain more on a couple of examples:
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
 
-Here I have two meshes with the same topology, one with the right UVs and mouth closed, and the other, no UVs and mouth closed. I want to transfer the UVs and also the shape to the other. Let's go through the options we need and why.
+Here I have two meshes with the same topology, one with the right UVs and mouth closed, and the other, no UVs and mouth closed. I want to transfer the UVs and also the shape to the other. Let's go through some of the options we need and why.
 
-_Vertex Position: On_ - I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use Blendshapes. 
+_Vertex Position: On_ - I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use Blendshapes.
