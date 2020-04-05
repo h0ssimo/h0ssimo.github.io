@@ -29,7 +29,7 @@ Much like other _Maya_ functions, _Transfer Attributes_ needs a target, and a so
 
 You can find _Transfer Attributes_ in _Modeling_ section under _Mesh_>_Transfer Attributes_. After you made your geometry selection click on the the _Transfer Attributes_ options to see the window below:
 
-![](/images/01_transfer_attributes_options.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/01_transfer_attributes_options.jpg" alt="01_transfer_attributes_options" class="responsive">
 
 _the default settings_
 
