@@ -73,8 +73,6 @@ _The hair geometry (target) is sitting right into the dome geometry (source)._
 
 Now, for Transfer Attributes Options:
 
-**_Vertex Position: Off_** - We don't need any geometry changes.
-
 **_Vertex Normals: On_** - This is the main data that if transferred from the shape we just created, solves all the spec and seamlessness issues I mentioned before.
 
-We don't need 
+**_Sample Space: World_** - 
