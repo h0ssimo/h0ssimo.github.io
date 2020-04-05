@@ -55,7 +55,7 @@ Here I have two meshes with the same topology, one with the right _UVs_ and mout
 
 **_Sample Space: Component_** - This is usually the make-or-break part of this whole transferring. In this case, since I have the same topology and _Component IDs_, I chose component. If the _Vertex IDs_ on models did not match each other, I'd use Topology option instead.
 
-![](/images/03_transfer_attributes_case_1_options.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/03_transfer_attributes_case_1_options.jpg" alt="03_transfer_attributes_case_1_options" class="responsive">
 
 _So these are the settings in this case._
 
