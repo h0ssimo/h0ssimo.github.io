@@ -83,13 +83,13 @@ Now, for Transfer Attributes Options:
 
 **_Search Method: Closest To Point_** - This is the default option. Just make sure you don't have the other option (_Closest Along Normal_) is not activated. Because it could cause some artifacts.
 
-<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/06_transfer_attributes_case_2_options.jpg" alt="06_transfer_attributes_case_2_options" class="responsive">
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/07_transfer_attributes_case_3.jpg" alt="07_transfer_attributes_case_3" class="responsive">
 
 _These are the settings in the second case._
 
 ##### Case #3: Using Transfer Attributes In Marvelous Designer Workflow
 
-![](/images/07_transfer_attributes_case_3.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/06_transfer_attributes_case_2_options.jpg" alt="06_transfer_attributes_case_2_options" class="responsive">
 
 In this case I'm gonna demonstrate a cool trick to retopologize the clothes created in _Marvelous Designer_ for further use in the pipeline.
 
