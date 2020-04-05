@@ -19,6 +19,10 @@ featured: true
 showtags: false
 
 ---
+Maya's Transfer Attributes function is probably something you should reconsider when it comes to using it your workflow. Because it's awesome, and sadly often underestimated!
+
+So today I'm gonna try to show you guys some examples of how we can use this function to save some precious time and also the variety of the things we could do with Transfer Attributes.
+
 ### How Maya Transfer Attributes Works
 
 Much like other _Maya_ functions, _Transfer Attributes_ needs a target, and a source geometry. First, you have to select the **source** geometry, and then the **target** to which the transfer will be applied.
