@@ -77,7 +77,7 @@ _The hair geometry (target) is sitting right into the dome geometry (source)._
 
 Now, for Transfer Attributes Options:
 
-**_Vertex Normals: On_** - This is the main data that if transferred from the shape we just created, solves all the spec and seamlessness issues I mentioned before.
+**_Vertex Normals: On_** - This is the main data that if transferred from the shape we just created, solves all the specular and seamlessness issues I mentioned before.
 
 **_Sample Space: World_** - By choosing this option, sampling normals is done by evaluation of the absolute distance between the vertices. So, good for us!
 
