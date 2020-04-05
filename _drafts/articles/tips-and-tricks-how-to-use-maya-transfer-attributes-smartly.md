@@ -53,7 +53,7 @@ Here I have two meshes with the same topology, one with the right _UVs_ and mout
 
 ![](/images/03_transfer_attributes_case_1_options.jpg)
 
-_So this is the options in this case._
+_So these are the settings in this case._
 
 ##### Case #2: Transferring Vertex Normals
 
@@ -78,3 +78,7 @@ Now, for Transfer Attributes Options:
 **_Sample Space: World_** - By choosing this option, sampling normals is done by evaluation of the absolute distance between the vertices. So, good for us!
 
 **_Search Method: Closest To Point_** - This is the default option. Just make sure you don't have the other option (_Closest Along Normal_) is not activated. Because it could cause some artifacts.
+
+![](/images/06_transfer_attributes_case_2_options.jpg)
+
+_These are the settings in the second case._
