@@ -94,3 +94,5 @@ We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export
 ![](/images/08_transfer_attributes_case_3_models.jpg)
 
 _These are the models we need._
+
+So, now what we need to do, is to transfer UVs from the triangulated flat model (1) to the quads version (2). Then, we should be able to transfer vertex positions from the triangulated model (3) to the quad flat model (2). That's it.
