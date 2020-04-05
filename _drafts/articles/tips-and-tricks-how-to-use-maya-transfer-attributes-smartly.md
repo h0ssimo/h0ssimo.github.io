@@ -37,10 +37,20 @@ On a daily basis, we have to keep an eye on a number of important stuff: _Compon
 
 I'm gonna explain more on a couple of examples:
 
+![](/images/02_transfer_attributes_case_1.jpg)
+
 ##### Case: Transferring UVs Between Meshes
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
 
-Here I have two meshes with the same topology, one with the right UVs and mouth closed, and the other, no UVs and mouth closed. I want to transfer the UVs and also the shape to the other. Let's go through some of the options we need and why.
+Here I have two meshes with the same topology, one with the right _UVs_ and mouth closed, and the other, no _UVs_ and mouth closed. I want to transfer the _UVs_ and also the shape to the other. Let's go through some of the options we need and why.
 
-_Vertex Position: On_ - I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use Blendshapes.
+**_Vertex Position: On _**- I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use _Blendshapes_.
+
+**_UV Sets: All _**- So I want to transfer everything about _UVs_ from the old model to the new one, right?
+
+**_Sample Space: Component_** - This is usually the make-or-break part of this whole transferring. In this case, since I have the same topology and _Component IDs_, I chose component. If the _Vertex IDs_ on models did not match each other, I'd use Topology option instead.
+
+![](/images/03_transfer_attributes_case_1_options.jpg)
+
+_So this is the options in this case._
