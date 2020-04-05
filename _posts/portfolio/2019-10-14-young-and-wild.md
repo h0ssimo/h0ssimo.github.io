@@ -9,7 +9,7 @@ tags:
 - sculpture
 categories:
 - portfolio
-image: "/images/young_and_wild_by_hossimo_1_render.jpeg"
+image: "/images/Characters/Young_And_Wild/young_and_wild_by_hossimo_1_render.jpeg"
 image-sm: "/images/young_and_wild_by_hossimo_1_render.jpeg"
 featured: true
 showtags: true
@@ -21,14 +21,14 @@ artstation: https://www.artstation.com/artwork/L2yOvK
 
 I started this project a while ago, knowing that it's meant to be 3D printed, I chose the following pipline.
 
-<img src="/images/young_and_wild_by_hossimo_1.jpeg" alt="young_and_wild_by_hossimo_1" class="responsive">
+<img src="/images/Characters/Young_And_Wild/young_and_wild_by_hossimo_1.jpeg" alt="young_and_wild_by_hossimo_1" class="responsive">
 
 The base mesh and posing were done in Maya. Then I brought the model to ZBrush, in order to add some details and refine the pose. Also I sculpted the hair from scratch in ZBrush.
 
-<img src="/images/young_and_wild_by_hossimo_2.jpeg" alt="young_and_wild_by_hossimo_2" class="responsive">
+<img src="/images/Characters/Young_And_Wild/young_and_wild_by_hossimo_2.jpeg" alt="young_and_wild_by_hossimo_2" class="responsive">
 
 Then I dynameshed the whole model with the right resolution, and further tweaked it for 3D printing.
 
-<img src="/images/young_and_wild_by_hossimo_3.jpeg" alt="young_and_wild_by_hossimo_3" class="responsive">
+<img src="/images/Characters/Young_And_Wild/young_and_wild_by_hossimo_3.jpeg" alt="young_and_wild_by_hossimo_3" class="responsive">
 
 For more and higher resolution images, you can visit my Artstation. I hope you like it.
