@@ -61,4 +61,6 @@ _So this is the options in this case._
 
 In this case, I just want to showcase an example of how we could actually put this option to good use.
 
-So I have a hair made of hair cards for game engines. As you create you strips of polygon hair, each strip has its own normals, naturally. In order to 
+So I have a hair made of hair cards for game engines. As you create you strips of polygon hair, each strip has its own normals, naturally. In order to make them seamlessly blend into each other like real hair would do, specially in terms of creating smooth highlights, we should use transfer attributes.
+
+First merge all your hair cards into one geometry, if you already haven't. Then create a somewhat cylindrical dome-alike object to nearly match the outline of the hair. Now divide the dome to have really hi-res geometry.
