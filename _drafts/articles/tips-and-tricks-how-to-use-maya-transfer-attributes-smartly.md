@@ -71,7 +71,7 @@ First of all, merge all your hair cards into one geometry (_target_ object), if 
 
 You should have something similar to the image below.
 
-![](/images/05_transfer_attributes_case_2_target_source_geos.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/05_transfer_attributes_case_2_target_source_geos.jpg" alt="05_transfer_attributes_case_2_target_source_geos" class="responsive">
 
 _The hair geometry (target) is sitting right into the dome geometry (source)._
 
