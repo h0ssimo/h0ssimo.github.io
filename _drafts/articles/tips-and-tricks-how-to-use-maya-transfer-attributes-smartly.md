@@ -61,7 +61,7 @@ _So these are the settings in this case._
 
 ##### Case #2: Transferring Vertex Normals
 
-![](/images/04_transfer_attributes_case_2.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/04_transfer_attributes_case_2.jpg" alt="04_transfer_attributes_case_2" class="responsive">
 
 In this case, I just want to showcase an example of how we could actually put this option to good use.
 
