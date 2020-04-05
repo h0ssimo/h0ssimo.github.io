@@ -95,4 +95,8 @@ We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export
 
 _These are the models we need._
 
-So, now what we need to do, is to transfer UVs from the triangulated flat model (1) to the quads version (2). Then, we should be able to transfer vertex positions from the triangulated model (3) to the quad flat model (2). That's it.
+So, now what we need to do, is to transfer UVs from the triangulated flat model (1) to the quads version (2). Then, we should be able to transfer vertex positions from the triangulated model (3) to the quad flat model (2). And that's it.
+
+For the first "Transfer Operation," since our models are exactly on top on each other, we need to use World Sample Space to transfer the UVs.
+
+For the second "Transfer Operation," since our models share the same UV sets, we could use UV Sample Space to transfer the Vertex Position.
