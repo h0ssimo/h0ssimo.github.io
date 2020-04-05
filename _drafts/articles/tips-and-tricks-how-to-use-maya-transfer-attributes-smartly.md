@@ -49,7 +49,7 @@ There could be lots of scenarios, here's the basic one plus a bit of information
 
 Here I have two meshes with the same topology, one with the right _UVs_ and mouth closed, and the other, no _UVs_ and mouth open. I want to transfer the _UVs_ and also the shape to the other. Let's go through some of the options we need and why.
 
-**_Vertex Position: On _**- I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use _Blendshapes_.
+**_Vertex Position: On _**- I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with _Topology_ sample space when Component IDs have changed, therefore you can't use _Blendshapes_.
 
 **_UV Sets: All _**- So I want to transfer everything about _UVs_ from the old model to the new one, right?
 
