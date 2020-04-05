@@ -41,6 +41,6 @@ I'm gonna explain more on a couple of examples:
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
 
-Here I have two identical meshes, all except _UVs_. I want to transfer the UVs from the left one (obvious, it has _Normal Map_!) to the other. Let's go through the options we need and why.
+Here I have two meshes with the same topology, one with the right UVs and mouth closed, and the other, no UVs and mouth closed. I want to transfer the UVs and also the shape to the other. Let's go through the options we need and why.
 
-_Vertex Position: Off_ - I don't need that because my meshes are basically the same and no vertices were move or deformed. This option could be useful when you want to match the surfaces of two objects. Or when transferring data between high and low versions of a model. 
+_Vertex Position: On_ - I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with Topology sample space when Component IDs have changed, therefore you can't use Blendshapes. 
