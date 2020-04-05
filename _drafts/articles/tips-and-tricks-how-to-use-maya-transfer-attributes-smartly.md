@@ -67,7 +67,7 @@ In this case, I just want to showcase an example of how we could actually put th
 
 So I have a hair made of hair cards for game engines. As you create strips of polygon hair, each strip has its own normals, naturally. In order to make them seamlessly blend into each other like real hair would do, specially in terms of creating smooth highlights, we should use transfer attributes.
 
-First merge all your hair cards into one geometry (_target_ object), if you already haven't. Then create a somewhat cylindrical dome-alike object to nearly match the outline of the hair. Now divide the dome to have really hi-res geometry. Then freeze transforms on both source and target objects. This is important since we're gonna use _World_ sample space.
+First of all, merge all your hair cards into one geometry (_target_ object), if you already haven't. Then create a somewhat cylindrical dome-alike object to nearly match the outline of the hair. Now divide the dome to have really hi-res geometry. Then freeze transforms on both source and target objects. This is important since we're gonna use _World_ sample space.
 
 You should have something similar to the image below.
 
