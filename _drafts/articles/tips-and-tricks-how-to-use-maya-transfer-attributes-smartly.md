@@ -93,4 +93,4 @@ We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export
 
 ![](/images/08_transfer_attributes_case_3_models.jpg)
 
-_These are the model we need._
+_These are the models we need._
