@@ -37,9 +37,9 @@ On a daily basis, we have to keep an eye on a number of important stuff: _Compon
 
 I'm gonna explain more on a couple of examples:
 
-![](/images/02_transfer_attributes_case_1.jpg)
-
 ##### Case #1: Transferring UVs Between Meshes
+
+![](/images/02_transfer_attributes_case_1.jpg)
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
 
@@ -56,5 +56,7 @@ Here I have two meshes with the same topology, one with the right _UVs_ and mout
 _So this is the options in this case._
 
 ##### Case #2: Transferring Vertex Normals
+
+![](/images/04_transfer_attributes_case_2.jpg)
 
 In this case, I just want to showcase an example of how we could actually put this option to good use.
