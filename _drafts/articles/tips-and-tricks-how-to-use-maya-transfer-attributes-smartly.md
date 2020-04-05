@@ -21,7 +21,7 @@ showtags: false
 ---
 Maya's Transfer Attributes function is probably something you should reconsider when it comes to using it your workflow. Because it's awesome, and sadly often underestimated!
 
-So today I'm gonna try to show you guys some examples of how we can use this function to save some precious time and also the variety of the things we could do with Transfer Attributes.
+So today I'm gonna try to show you guys some examples of how we can use this function to save ourselves some precious time and also the variety of the things we could do with Transfer Attributes. Hopefully it helps you along with your projects.
 
 ### How Maya Transfer Attributes Works
 
