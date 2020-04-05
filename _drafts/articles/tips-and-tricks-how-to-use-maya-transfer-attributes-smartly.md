@@ -43,7 +43,7 @@ I'm gonna explain more on a couple of examples:
 
 ##### Case #1: Transferring UVs Between Meshes
 
-![](/images/02_transfer_attributes_case_1.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/02_transfer_attributes_case_1.jpg" alt="02_transfer_attributes_case_1" class="responsive">
 
 There could be lots of scenarios, here's the basic one plus a bit of information on other scenarios:
 
