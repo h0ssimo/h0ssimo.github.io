@@ -60,3 +60,5 @@ _So this is the options in this case._
 ![](/images/04_transfer_attributes_case_2.jpg)
 
 In this case, I just want to showcase an example of how we could actually put this option to good use.
+
+So I have a hair made of hair cards for game engines. As you create you strips of polygon hair, each strip has its own normals, naturally. In order to 
