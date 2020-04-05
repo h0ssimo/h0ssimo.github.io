@@ -79,7 +79,7 @@ Now, for Transfer Attributes Options:
 
 **_Vertex Normals: On_** - This is the main data that if transferred from the shape we just created, solves all the specular and seamlessness issues I mentioned before.
 
-**_Sample Space: World_** - By choosing this option, sampling normals is done by evaluation of the absolute distance between the vertices. So, good for us!
+**_Sample Space: World_** - By choosing this option, "sampling normals" is done by evaluation of the absolute distance between the vertices. So, good for us!
 
 **_Search Method: Closest To Point_** - This is the default option. Just make sure you don't have the other option (_Closest Along Normal_) is not activated. Because it could cause some artifacts.
 
