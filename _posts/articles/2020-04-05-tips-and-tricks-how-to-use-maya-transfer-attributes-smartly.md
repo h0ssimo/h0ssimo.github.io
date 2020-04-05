@@ -4,19 +4,18 @@ title: 'Tips and Tricks: How To Use Maya Transfer Attributes Smartly'
 excerpt: I this article, I'm gonna explain how to get the most out of Maya's Transfer
   Attributes as a Character Artist, and I'll also show you guys some hopefully useful
   examples to demonstrate a variety of usages of TA.
-date: 2020-04-03T19:30:00.000+00:00
+date: 2020-04-05 00:00:00 +0430
 tags:
 - article
 - TipsAndTricks
 - Maya
-- ZBrush
 - MarvelousDesigner
 categories:
 - articles
 image: "/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/tips_and_tricks_on_transfer_attributes_header.jpg"
 image-sm: "/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/tips_and_tricks_on_transfer_attributes_header.jpg"
 featured: true
-showtags: false
+showtags: true
 
 ---
 _Maya's Transfer Attributes_ function is probably something you should reconsider when it comes to using it your workflow. Because it's awesome, and sadly often underestimated!
