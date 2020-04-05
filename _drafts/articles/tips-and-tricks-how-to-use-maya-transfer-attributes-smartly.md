@@ -92,3 +92,5 @@ In this case I'm gonna demonstrate a cool trick to retopologize the clothes crea
 We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export a flat version of the clothes model from MD with unified UVs. Now, retopologize the flat version in your preferred 3D application to create the second geometry. You could use ZRemesher in ZBrush for example. And for the third and final geometry, export the clothes model from MD.
 
 ![](/images/08_transfer_attributes_case_3_models.jpg)
+
+_These are the model we need._
