@@ -83,7 +83,7 @@ Now, for Transfer Attributes Options:
 
 **_Search Method: Closest To Point_** - This is the default option. Just make sure you don't have the other option (_Closest Along Normal_) is not activated. Because it could cause some artifacts.
 
-![](/images/06_transfer_attributes_case_2_options.jpg)
+<img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/06_transfer_attributes_case_2_options.jpg" alt="06_transfer_attributes_case_2_options" class="responsive">
 
 _These are the settings in the second case._
 
