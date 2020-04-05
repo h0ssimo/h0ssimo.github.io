@@ -49,7 +49,7 @@ There could be lots of scenarios, here's the basic one plus a bit of information
 
 Here I have two meshes with the same topology, one with the right _UVs_ and mouth closed, and the other, no _UVs_ and mouth open. I want to transfer the _UVs_ and also the shape to the other. Let's go through some of the options we need and why.
 
-**_Vertex Position: On _**- I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with _Topology_ sample space when Component IDs have changed, therefore you can't use _Blendshapes_.
+**_Vertex Position: On _**- I basically need this just because I want to make the lips closed in the new version. This option could be useful in combination with _Topology_ sample space when _Component IDs_ have changed, therefore you can't use _Blendshapes_.
 
 **_UV Sets: All _**- So I want to transfer everything about _UVs_ from the old model to the new one, right?
 
@@ -65,7 +65,7 @@ _So these are the settings in this case._
 
 In this case, I just want to showcase an example of how we could actually put this option to good use.
 
-So I have a hair made of hair cards for game engines. As you create you strips of polygon hair, each strip has its own normals, naturally. In order to make them seamlessly blend into each other like real hair would do, specially in terms of creating smooth highlights, we should use transfer attributes.
+So I have a hair made of hair cards for game engines. As you create strips of polygon hair, each strip has its own normals, naturally. In order to make them seamlessly blend into each other like real hair would do, specially in terms of creating smooth highlights, we should use transfer attributes.
 
 First merge all your hair cards into one geometry (_target_ object), if you already haven't. Then create a somewhat cylindrical dome-alike object to nearly match the outline of the hair. Now divide the dome to have really hi-res geometry. Then freeze transforms on both source and target objects. This is important since we're gonna use _World_ sample space.
 
