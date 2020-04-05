@@ -87,4 +87,4 @@ _These are the settings in the second case._
 
 In this case I'm gonna demonstrate a cool trick to retopologize the clothes created in Marvelous Designer for further use in the pipeline.
 
-We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export a flat version of the clothes model from MD. Now, retopologize the flat version in your preferred 3D application to create the second geometry. You could use ZRemesher in ZBrush for example. And for the final geo, export the clothes model from MD.
+We're gonna need 3 geometries and 2 usages of Transfer Attributes. First, export a flat version of the clothes model from MD with unified UVs. Now, retopologize the flat version in your preferred 3D application to create the second geometry. You could use ZRemesher in ZBrush for example. And for the final geometry, export the clothes model from MD.
