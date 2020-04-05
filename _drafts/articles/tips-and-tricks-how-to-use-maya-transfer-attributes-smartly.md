@@ -100,3 +100,7 @@ So, now what we need to do, is to transfer UVs from the triangulated flat model 
 For the first "Transfer Operation," since our models are exactly on top on each other, we need to use World Sample Space to transfer the UVs.
 
 For the second "Transfer Operation," since our models share the same UV sets, we could use UV Sample Space to transfer the Vertex Position.
+
+And now you have the quad version of your clothes model with perfect UVs to use in your project.
+
+That's all. Thanks for reading.
