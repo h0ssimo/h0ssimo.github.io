@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tips and Tricks: How To Use Maya Transfer Attributes Smartly'
-excerpt: I this article, I'm gonna explain how to get the most out of Maya's Transfer
+excerpt: In this article, I'm gonna explain how to get the most out of Maya's Transfer
   Attributes as a Character Artist, and I'll also show you guys some hopefully useful
   examples to demonstrate a variety of usages of TA.
 date: 2020-04-05 00:00:00 +0430
@@ -29,7 +29,6 @@ Much like other _Maya_ functions, _Transfer Attributes_ needs a target, and a so
 You can find _Transfer Attributes_ in _Modeling_ section under _Mesh_>_Transfer Attributes_. After you made your geometry selection click on the the _Transfer Attributes_ options to see the window below:
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/01_transfer_attributes_options.jpg" alt="01_transfer_attributes_options" class="responsive">
-
 _the default settings_
 
 Think of the first part of the options as "WHAT" you want to transfer between geometries, and the second part as "HOW" you want the attributes to be transferred.
@@ -55,7 +54,6 @@ Here I have two meshes with the same topology, one with the right _UVs_ and mout
 **_Sample Space: Component_** - This is usually the make-or-break part of this whole transferring. In this case, since I have the same topology and _Component IDs_, I chose component. If the _Vertex IDs_ on models did not match each other, I'd use Topology option instead.
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/03_transfer_attributes_case_1_options.jpg" alt="03_transfer_attributes_case_1_options" class="responsive">
-
 _So these are the settings in this case._
 
 ##### Case #2: Transferring Vertex Normals
@@ -71,7 +69,6 @@ First of all, merge all your hair cards into one geometry (_target_ object), if 
 You should have something similar to the image below.
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/05_transfer_attributes_case_2_target_source_geos.jpg" alt="05_transfer_attributes_case_2_target_source_geos" class="responsive">
-
 _The hair geometry (target) is sitting right into the dome geometry (source)._
 
 Now, for Transfer Attributes Options:
@@ -83,7 +80,6 @@ Now, for Transfer Attributes Options:
 **_Search Method: Closest To Point_** - This is the default option. Just make sure you don't have the other option (_Closest Along Normal_) is not activated. Because it could cause some artifacts.
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/07_transfer_attributes_case_3.jpg" alt="07_transfer_attributes_case_3" class="responsive">
-
 _These are the settings in the second case._
 
 ##### Case #3: Using Transfer Attributes In Marvelous Designer Workflow
@@ -95,7 +91,6 @@ In this case I'm gonna demonstrate a cool trick to retopologize the clothes crea
 We're gonna need 3 geometries and 2 usages of _Transfer Attributes_.
 
 <img src="/images/Tutorials/Tips_And_Tricks/Tranfer_Attributes/08_transfer_attributes_case_3_models.jpg" alt="08_transfer_attributes_case_3_models" class="responsive">
-
 _These are the models we need._
 
 So, now what we need to do, is to transfer UVs from the triangulated flat model (1) to the quads version (2). Then, we should be able to transfer vertex positions from the triangulated model (3) to the quad flat model (2). And that's it.
