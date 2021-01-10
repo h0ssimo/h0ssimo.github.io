@@ -30,4 +30,5 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 5. Keep Everything Organized
 6. Substance Painter Is A Preview
 7. Check On Every Channel Separately
-8. 
+8. Have Consistent Light Scenario Setups
+9. 
