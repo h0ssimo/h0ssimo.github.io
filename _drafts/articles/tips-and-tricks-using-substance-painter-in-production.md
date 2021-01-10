@@ -28,4 +28,6 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 3. Create Your Own Output Template
 4. Don't underestimate Anchorpoints
 5. Keep Everything Organized
-6. 
+6. Substance Painter Is A Preview
+7. Check On Every Channel Separately
+8. 
