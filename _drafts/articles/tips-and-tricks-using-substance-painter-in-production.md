@@ -27,9 +27,13 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Down the production pipeline, you will probably need the unique look you are spending your time on right now. Also sometimes there might be a gap between working on two similar assets. So try to create a library for yourself. Like you could save a smart material everytime you finish a new asset to develop a good habit.
  3. Create Your Own Output Template
 
-    Depending on your SP shader and target rendering engine, you need to change accordingly.
+    Depending on your SP shader and target rendering engine, you may need to add or remove exported maps. It's better to save multiple templates for different situations. It keeps the consistency in the project.
  4. Don't underestimate Anchorpoints
+
+    You can use anchor point to create complicated setups. Or simply use it to add extra cavity on the go.
  5. Keep Everything Organized
+
+    Always prepare the files as if another artist would continue from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
  6. Substance Painter Is A Preview
  7. Check On Every Channel Separately
  8. Test Under Light Scenarios
