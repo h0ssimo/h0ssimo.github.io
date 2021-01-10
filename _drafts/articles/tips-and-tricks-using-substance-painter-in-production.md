@@ -26,6 +26,8 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 
     Down the production pipeline, you will probably need the unique look you are spending your time on right now. Also sometimes there might be a gap between working on two similar assets. So try to create a library for yourself. Like you could save a smart material everytime you finish a new asset to develop a good habit.
  3. Create Your Own Output Template
+
+    Depending on your SP shader and target rendering engine, you need to change accordingly.
  4. Don't underestimate Anchorpoints
  5. Keep Everything Organized
  6. Substance Painter Is A Preview
