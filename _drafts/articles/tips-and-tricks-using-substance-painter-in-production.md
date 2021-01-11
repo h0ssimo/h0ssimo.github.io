@@ -17,18 +17,18 @@ featured: true
 showtags: true
 
 ---
-_Substance Painter_ is firmly integrated into pipelines of many animation/VFX studios around the world. As a texturing/look development artist in those studios, you have to tackle _SP_ on a daily basis. I've been doing it, and decided to share 10 tips and tricks I picked up along the way. 
+_Substance Painter_ is firmly integrated into pipelines of many animation/VFX studios around the world. As a texturing/look development artist in those studios, you have to tackle _SP_ on a daily basis. I've been doing it, and decided to share 10 tips and tricks I picked up along the way.
 
  1. Work Non-Destructively
 
-    The first one is really important, actually. You have to be flexible in terms of art-dircetion, maybe trying different looks rather quickly. To achieve that, you need to have control over every visual element you put on the screen. The best way to do it in my opinion, is to let _masking_ be in charge wherever you can. For example, instead of painting on a height channel, try painting a mask for a fill layer with height slider to control the depth whenever you want. You get the idea.
+    The first one is really important, actually. You have to be flexible in terms of art-direction, like trying different looks rather quickly for the directors. To achieve that goal, you need to have control over every visual element you put on the screen. One of the best ways to get that control, is to let _masking_ be in charge wherever you can. A simple example would be instead of painting on a height channel, try painting a mask for a fill layer with height slider to control the depth whenever you want. You get the idea. Actually masking in Substance Painter could get really complex considering its powerful procedural system (even better when using Substance Designer along with SP) and the likes of Anchor Points. 
  2. Create Your Own Library
 
     Down the production pipeline, you will probably need the unique look you are spending your time on right now. Also sometimes there might be a gap between working on two similar assets. So try to create a library for yourself. Like you could save a smart material everytime you finish a new asset to develop a good habit.
  3. Create Your Own Output Template
 
     Depending on your SP shader and target rendering engine, you may need to add or remove exported maps. It's better to save multiple templates for different situations. It keeps the consistency in the project.
- 4. Don't underestimate Anchorpoints
+ 4. Don't underestimate Anchor Points
 
     You can use anchor point to create complicated setups. Or simply use it to add extra cavity on the go.
  5. Keep Everything Organized
