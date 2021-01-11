@@ -47,3 +47,5 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 
     Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding different variations to colors and values, for Arnold or generally speaking, rendering engines. Most of changes of these natures follows along while shading the asset.
 10. Stay Consistent
+
+    This is really important in production; mainly because it gets much more readable to other people in the pipeline, and it makes toubleshooting or editing/directing much more predictable at anytime.
