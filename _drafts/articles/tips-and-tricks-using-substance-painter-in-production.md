@@ -40,6 +40,8 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
  7. Check On Every Channel Separately
 
     Speaking of the right colors and values, checking each map separately will help you decide better on each one of them. It also helps to prevent further issues or debugging.
- 8. Test Under Same Light Scenarios
+ 8. Test Under Same Light Scenarios In Maya
+
+    It seems obvious but can go a long way in terms of keeping the consistency and reliability of the overall look development. In bigger studios 
  9. Color Correct And Tweak In Arnold
 10. Stay Consistent
