@@ -39,7 +39,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Even with the same environment light, what you see may be different from what you render in Arnold. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other engines, differ. Technically, Substance Painter is all about getting the texture maps with the right colors, values and formats into the target platform.
  7. Check On Every Channel Separately
 
-    Speaking of the right colors and values, 
- 8. Test Under Light Scenarios
+    Speaking of the right colors and values, checking each map separately will help you decide better on each one of them. It also helps to prevent further issues or debugging.
+ 8. Test Under Same Light Scenarios
  9. Color Correct And Tweak In Arnold
 10. Stay Consistent
