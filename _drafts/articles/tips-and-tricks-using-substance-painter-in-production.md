@@ -43,5 +43,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
  8. Test Under Same Light Scenarios In Maya
 
     It seems obvious but can go a long way in terms of keeping the consistency and reliability of the overall look development and lighting of the project. In bigger studios, look development/lighting teams, would have specific lighting setups and testing environments provided by the supervisors.
- 9. Color Correct And Tweak In Arnold
+ 9. Add Final Touches In Maya
+
+    You can keep some of exaggerations, fine-tunings and adding different variations for Arnold or generally speaking, rendering engines.
 10. Stay Consistent
