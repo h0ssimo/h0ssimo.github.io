@@ -36,8 +36,10 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Always prepare the files as if another artist would continue from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
  6. Substance Painter Is A Preview
 
-    Even with the same environment light, what you see may be different from what you render in Arnold. So don't worry if what you see in other engines, differs. Substance Painter is about getting the texture maps with the right colors and values into the target platform.
+    Even with the same environment light, what you see may be different from what you render in Arnold. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other engines, differ. Technically, Substance Painter is all about getting the texture maps with the right colors, values and formats into the target platform.
  7. Check On Every Channel Separately
+
+    Speaking of the right colors and values, 
  8. Test Under Light Scenarios
  9. Color Correct And Tweak In Arnold
 10. Stay Consistent
