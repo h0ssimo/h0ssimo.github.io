@@ -36,16 +36,16 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Always prepare the files as if another artist would continue from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
  6. **Substance Painter Is A Preview**
 
-    Even with the same _environment_ light, what you see may be different from what you render in _Arnold_. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other engines, is different from _SP_. Technically, _Substance Painter_ is all about getting the texture maps with the right colors, values and formats into the target platform.
+    Even with the same _environment_ light, what you see may be different from what you render in _Arnold_. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other engines, is different from _SP_. Technically, _Substance Painter_ is all about getting the _texture maps_ with the right colors, values and formats into the target platform.
  7. **Check On Every Channel Separately**
 
-    Speaking of the right colors and values, checking each _map_ separately will help you decide better on each one of them. For example see if there's appropriate variation in actual roughness values. Checking each _map_ also helps to prevent further issues or to debug.
+    Speaking of the right colors and values, checking each _map_ separately will help you decide better on each one of them. For example see if there's appropriate variation in actual _roughness_ values. Checking each _map_ also helps to prevent further issues or to debug.
  8. **Test Under Same Light Scenarios In Maya**
 
-    It seems obvious but can go a long way in terms of keeping the consistency and reliability of the overall _look development and lighting_ of the project. In bigger studios, look development/lighting teams, would have specific lighting setups and testing environments provided by the supervisors.
+    It seems obvious but can go a long way in terms of keeping the consistency and reliability of the overall _look development and lighting_ of the project. In larger studios, look development/lighting teams, would have specific lighting setups and testing environments provided by the supervisors.
  9. **Add Final Touches In Maya**
 
-    Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding different variations to colors and values, for _Arnold_ or generally speaking, rendering engines. Most of changes of these natures follows along while shading the asset.
+    Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding variations to colors and values, for _Arnold_ or generally speaking, rendering engines. Most changes of these natures, follows along while shading the asset.
 10. **Stay Consistent**
 
     This is really important in production; mainly because it gets much more readable to other people in the pipeline, and it makes toubleshooting or editing/directing much more predictable at anytime.
