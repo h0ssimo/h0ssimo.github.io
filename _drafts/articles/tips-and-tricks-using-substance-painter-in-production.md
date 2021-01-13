@@ -11,8 +11,8 @@ tags:
 - Arnold
 categories:
 - articles
-image: "/images/tips_and_tricks_on_substance_painter-1.jpg"
-image-sm: "/images/tips_and_tricks_on_substance_painter-1.jpg"
+image: "/images/tips_and_tricks_on_substance_painter.jpg"
+image-sm: "/images/tips_and_tricks_on_substance_painter.jpg"
 featured: true
 showtags: true
 
@@ -35,7 +35,9 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     You can use _Anchor Point_ to create complicated setups to have even more control over your look development project. The idea here is to connect different _channels_ of a layer to another layer's, which opens to lots of possibilities.
  5. **Keep Everything Organized**
 
-    Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.![](/images/look_development_02.jpg)
+    Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
+
+    ![](/images/look_development_02.jpg)
  6. **Substance Painter Is A Preview**
 
     Even with the same _environment_ light, what you see may be different from what you render in _Arnold_. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other render engines, is different from _SP_. Technically, _Substance Painter_ is all about getting the _texture maps_ with the right colors, values and formats into the target platform.
