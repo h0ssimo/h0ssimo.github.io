@@ -19,6 +19,8 @@ showtags: true
 ---
 _Substance Painter_ is firmly integrated into pipelines of many animation/VFX studios around the world. As a texturing/look development artist in those studios, you have to tackle _SP_ on a daily basis. I've been doing it, and decided to share 10 tips and tricks I picked up along the way.
 
+![](/images/look_development_01.jpg)
+
  1. **Work Non-Destructively**
 
     The first one is really important, actually. You have to be flexible in terms of art-direction, like trying different looks and explore ideas rather quickly for the directors. To achieve that goal, you need to have control over every visual element you put on the screen. One of the best ways to get that control, is to let _masking_ be in charge wherever you can. A simple example would be instead of painting directly on _height_ channel, try painting a _mask_ for a _fill layer_ with _height_ slider to control the depth whenever you want. Actually masking in _Substance Painter_ could get really complex considering its powerful procedural system (even better when using _Substance Designer_ along with _SP_) and the toolsets like of _Generators_ or _Anchor Points_.
@@ -33,7 +35,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     You can use _Anchor Point_ to create complicated setups to have even more control over your look development project. The idea here is to connect different _channels_ of a layer to another layer's, which opens to lots of possibilities.
  5. **Keep Everything Organized**
 
-    Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
+    Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.![](/images/look_development_02.jpg)
  6. **Substance Painter Is A Preview**
 
     Even with the same _environment_ light, what you see may be different from what you render in _Arnold_. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other render engines, is different from _SP_. Technically, _Substance Painter_ is all about getting the _texture maps_ with the right colors, values and formats into the target platform.
