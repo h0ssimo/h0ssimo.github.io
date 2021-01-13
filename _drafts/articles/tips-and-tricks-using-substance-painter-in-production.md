@@ -19,7 +19,7 @@ showtags: true
 ---
 _Substance Painter_ is firmly integrated into pipelines of many animation/VFX studios around the world. As a texturing/look development artist in those studios, you have to tackle _SP_ on a daily basis. I've been doing it, and decided to share 10 tips and tricks I picked up along the way.
 
-![](/images/look_development_01.jpg)
+<img src="//images/look_development_01.jpg" alt="look_developement_hossimo.com" class="narrowResponsive">
 
  1. **Work Non-Destructively**
 
@@ -37,7 +37,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 
     Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
 
-    ![](/images/look_development_02.jpg)
+    <img src="//images/look_development_01.jpg" alt="look_developement_hossimo.com" class="narrowResponsive">
  6. **Substance Painter Is A Preview**
 
     Even with the same _environment_ light, what you see may be different from what you render in _Arnold_. It's great for quick testing, but it shouldn't be relied on. So don't worry if what you see in other render engines, is different from _SP_. Technically, _Substance Painter_ is all about getting the _texture maps_ with the right colors, values and formats into the target platform.
