@@ -11,8 +11,8 @@ tags:
 - Arnold
 categories:
 - articles
-image: ''
-image-sm: ''
+image: "/images/tips_and_tricks_on_substance_painter.jpg"
+image-sm: "/images/tips_and_tricks_on_substance_painter.jpg"
 featured: true
 showtags: true
 
