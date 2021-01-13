@@ -21,13 +21,13 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
 
  1. **Work Non-Destructively**
 
-    The first one is really important, actually. You have to be flexible in terms of art-direction, like trying different looks and explore ideas rather quickly for the directors. To achieve that goal, you need to have control over every visual element you put on the screen. One of the best ways to get that control, is to let _masking_ be in charge wherever you can. A simple example would be instead of painting directly on _height_ channel, try painting a _mask_ for a _fill layer_ with _height_ slider to control the depth whenever you want. Actually masking in _Substance Painter_ could get really complex considering its powerful procedural system (even better when using _Substance Designer_ along with _SP_) and the likes of _Generators_ or _Anchor Points_. 
+    The first one is really important, actually. You have to be flexible in terms of art-direction, like trying different looks and explore ideas rather quickly for the directors. To achieve that goal, you need to have control over every visual element you put on the screen. One of the best ways to get that control, is to let _masking_ be in charge wherever you can. A simple example would be instead of painting directly on _height_ channel, try painting a _mask_ for a _fill layer_ with _height_ slider to control the depth whenever you want. Actually masking in _Substance Painter_ could get really complex considering its powerful procedural system (even better when using _Substance Designer_ along with _SP_) and the toolsets like of _Generators_ or _Anchor Points_.
  2. **Create Your Own Library**
 
-    Down the production pipeline, you will probably need the unique look you are spending your time on right now. Also sometimes there might be a gap between working on two similar assets. So try to create a library for yourself. Like you could save a _smart material_ everytime you finish a new asset to develop a good habit.
+    Down the production pipeline, you will probably need the unique look you are currently spending your time on, again. Also sometimes there might be a gap between working on two similar assets. There could be lots of situations and possibilities in which you need your works from the past, so to keep ot short, try to create a library for yourself. Like you could save a _smart material_ everytime you finish a new asset to develop a good habit.
  3. **Create Your Own Output Template**
 
-    Depending on your _SP_ shader and target rendering engine, you may need to add or remove exported maps. It's better to save multiple _templates_ for different situations. It keeps the consistency in the project.
+    Depending on your _SP_ shader and target rendering engine, you may need to add or remove channels and the exported maps. It's better to save multiple _templates_ for different situations. It helps with consistency in the project.
  4. **Don't underestimate Anchor Points**
 
     You can use _Anchor Point_ to create complicated setups to have even more control over your look development project. The idea here is to connect different _channels_ of a layer to another layer's, which opens to lots of possibilities.
