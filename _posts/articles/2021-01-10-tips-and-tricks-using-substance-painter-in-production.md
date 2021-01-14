@@ -3,7 +3,7 @@ layout: post
 title: 'Tips and Tricks: Using Substance Painter In Production'
 excerpt: In this article, I'm gonna go over 10 tips and tricks for getting the most
   out of SP along with Arnold for Maya in production environment.
-date: 2021-01-01 02:04:00 +0330
+date: 2021-01-14 02:04:00 +0330
 tags:
 - article
 - TipsAndTricks
