@@ -46,7 +46,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Speaking of the right colors and values, checking each _map_ separately will help you decide better on each one of them. For example see if there's appropriate variation in actual _roughness_ values. Checking each _map_ also helps to prevent further issues or to debug.
  8. **Test All Assets Under Same Light Scenarios In Maya**
 
-    The eight tip could go a long way in terms of keeping the consistency and reliability of the overall _look development and lighting_ of the project. In larger studios, look development/lighting teams, would have defined lighting setups and testing environments provided by the supervisors.
+    The eighth tip could go a long way in terms of keeping the consistency and reliability of the overall _look development and lighting_ of the project. In larger studios, look development/lighting teams, would have defined lighting setups and testing environments provided by the supervisors.
  9. **Add Final Touches In Maya**
 
     Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding variations to colors and values, for _Arnold_ or generally speaking, rendering engines. Most changes of these natures, follows along while shading the assets.
