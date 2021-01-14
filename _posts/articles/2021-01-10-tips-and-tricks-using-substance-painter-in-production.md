@@ -32,7 +32,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     Depending on your _SP_ shader and target rendering engine, you may need to add or remove channels and the exported maps. It's better to save multiple _templates_ for different situations. It helps with consistency in the project.
  4. **Don't underestimate Anchor Points**
 
-    You can use _Anchor Point_ to create complicated setups to have even more control over your look development project. The idea here is to connect different _channels_ of a layer to another layer's, which opens to lots of possibilities.
+    You can use _Anchor Point_ to create more complex setups to have even more control over your look development project. The idea here is to reference different _channels_ of a layer to another layer's, which opens to lots of possibilities.
  5. **Keep Everything Organized**
 
     Always prepare the files as if another artist would continue on your work from tomorrow on, even if you know that's not the case. By doing so, your files will be readable, editable and reusable by anyone in a robust manner. By not keeping organized, you would lose track of the project sooner or later. No need to mention how confused other artists who will work on the project would be.
