@@ -3,7 +3,7 @@ layout: post
 title: 'Tips and Tricks: Using Substance Painter In Production'
 excerpt: In this article, I'm gonna go over 10 tips and tricks for getting the most
   out of SP along with Arnold for Maya in production environment.
-date: 2021-01-14 02:04:00 +0330
+date: 2021-01-14T02:04:00.000+03:30
 tags:
 - article
 - TipsAndTricks
@@ -26,7 +26,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     The first one is really important, actually. You have to be flexible in terms of art-direction, like trying different looks and explore ideas rather quickly for the directors. To achieve that goal, you need to have control over every visual element you put on the screen. One of the best ways to get that control, is to let _masking_ be in charge wherever you can. A simple example would be instead of painting directly on _height_ channel, try painting a _mask_ for a _fill layer_ with _height_ slider to control the depth whenever you want. Actually masking in _Substance Painter_ could get really complex considering its powerful procedural system (even better when using _Substance Designer_ along with _SP_) and the toolsets like of _Generators_ or _Anchor Points_.
  2. **Create Your Own Library**
 
-    Down the production pipeline, you will probably need the unique look you are currently spending your time on, again. Also sometimes there might be a gap between working on two similar assets. There could be lots of situations and possibilities in which you need your works from the past, so to keep it short, try to create a library for yourself. Like you could save a _smart material_ everytime you finish a new asset to develope a good habit.
+    Down the production pipeline, you will probably need the unique look you are currently spending your time on, again. Also sometimes there might be a gap between working on two similar assets. There could be lots of situations and possibilities in which you need your works from the past, so to keep it short, try to create a library for yourself. Like you could save a _smart material_ everytime you finish a new asset to develop a good habit.
  3. **Create Your Own Output Template**
 
     Depending on your _SP_ shader and target rendering engine, you may need to add or remove channels and the exported maps. It's better to save multiple _templates_ for different situations. It helps with consistency in the project.
