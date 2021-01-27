@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact - Hossein Moayed
-description: Digital Sculptor and Game Character Artist.
+description: Look Development and Lighting Artist, Digital Sculptor.
 permalink: "/contact/"
 sitemap:
     priority: 0.7
@@ -12,9 +12,16 @@ sitemap:
 ## Get to Know Me
 
 
-I'm a 3D Character Artist experienced in character pipelines for both animations and games. I have a solid human anatomy knowledge, deep understanding of how Maya, Zbrush and Photoshop work. Besides I know how to get the most out of programs such as Substance Painter, Mari, Marmoset Toolbag and Marvelous Designer as a character artist.
+Currently working in big-studio production environment as Look Development (Texturing, Shading) and Lighting artist. I'm very well aware of texturing and shading pipelines, for both VFX and Animation, and could adapt to any pipeline, fast. I'm also heavily reliable when it comes to working technically neat to fulfill production standards.
 
-I also have general capabalities and worked as a generalist for some time, able to work out skills like rigging, animation, rendering and composition.
+I also enjoy working on characters as well as look development, and have production experience in both animation and game pipelines as Character Artist.
+
+I love to write on my personal blog whenever possible.
+
+#### Toolsets
+
+Maya, ZBrush, Substance Painter, Substance Designer, Arnold, Xgen, Mari, Photoshop, Marmoset Toolbag 
+
 
 {% include linkedin.html %} <br />
 ### Got an offer?
