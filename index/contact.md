@@ -18,6 +18,7 @@ I also enjoy working on characters as well as look development, and have product
 
 I love to write on my personal blog whenever possible.
 
+
 #### Toolsets
 
 Maya, ZBrush, Substance Painter, Substance Designer, Arnold, Xgen, Mari, Photoshop, Marmoset Toolbag 
