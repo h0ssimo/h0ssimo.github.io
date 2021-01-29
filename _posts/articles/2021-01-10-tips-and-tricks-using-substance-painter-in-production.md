@@ -49,7 +49,7 @@ _Substance Painter_ is firmly integrated into pipelines of many animation/VFX st
     The eighth tip could go a long way in terms of keeping the consistency and reliability of the overall _look development and lighting_ of the project. In larger studios, look development/lighting teams, would have defined lighting setups and testing environments provided by the supervisors.
  9. **Add Final Touches In Maya**
 
-    Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding variations to colors and values, for _Arnold_ or generally speaking, rendering engines. Most changes of these natures, follows along while shading the assets.
+    Depending on the pipeline, you can leave some of exaggerations, fine-tunings and adding variations to colors and values, for _Arnold_ or generally speaking, rendering engines. Most changes of these natures, follow along while shading the assets.
 10. **Stay Consistent**
 
     This is really important in production; mainly because it gets much more readable to other people in the pipeline, and it makes toubleshooting or editing/directing much more predictable at anytime.
