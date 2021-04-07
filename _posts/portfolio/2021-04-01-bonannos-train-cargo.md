@@ -13,7 +13,7 @@ image: "/images/LookDev/bonannos_cargo_train/bonanno_train_cargo_by_hossimo_head
 image-sm: "/images/LookDev/bonannos_cargo_train/bonanno_train_cargo_by_hossimo_header.jpg"
 featured: true
 showtags: true
-artstation: ''
+artstation: https://www.artstation.com/artwork/d8qr4J
 mview: ''
 
 ---
