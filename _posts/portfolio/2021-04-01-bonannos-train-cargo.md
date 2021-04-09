@@ -14,7 +14,6 @@ image-sm: "/images/LookDev/bonannos_cargo_train/bonanno_train_cargo_by_hossimo_h
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/d8qr4J
-mview: ''
 
 ---
 This is my latest personal project that I've been developing for a while.
