@@ -13,7 +13,6 @@ image-sm: "/images/Characters/Detective_Focks/detective_focks_by_hossimo_square.
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/J9dnwz
-mview: ''
 
 ---
 This is my latest personal character that I've been developing for my story.
