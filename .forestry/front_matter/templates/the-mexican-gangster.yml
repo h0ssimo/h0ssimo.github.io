@@ -63,7 +63,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/detective-focks.md
+- _posts/2021-06-13-detective-focks.md
 - _posts/portfolio/2019-03-09-nikolai.md
 - _posts/portfolio/2019-03-21-portrait-of-sir-anthony-hopkins.md
 - _posts/portfolio/2019-10-14-young-and-wild.md

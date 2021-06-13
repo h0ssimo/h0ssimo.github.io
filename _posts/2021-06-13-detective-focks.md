@@ -2,7 +2,7 @@
 layout: post
 title: Detective Focks
 excerpt: This is my latest personal character design for my storyline.
-date: 2021-06-13 21:01:00 +0430
+date: 2021-06-13T21:01:00.000+04:30
 tags:
 - lookdevelopment
 - characters
@@ -12,7 +12,7 @@ image: "/images/Characters/Detective_Focks/detective_focks_by_hossimo_square.png
 image-sm: "/images/Characters/Detective_Focks/detective_focks_by_hossimo_square.png"
 featured: true
 showtags: true
-artstation: ''
+artstation: https://www.artstation.com/artwork/J9dnwz
 mview: ''
 
 ---
