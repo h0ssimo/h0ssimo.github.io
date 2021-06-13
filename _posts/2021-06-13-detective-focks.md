@@ -22,8 +22,10 @@ He is "Detective Focks," a talented and ambitious private detective hired by Bon
 
 I hope you enjoy it.
 
-<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_01.png" alt="detective_focks_by_hossimo_02" class="responsive">
+<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_01.png" alt="detective_focks_by_hossimo_01" class="responsive">
 
-<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_01.png" alt="detective_focks_by_hossimo_03" class="responsive">
+<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_02.png" alt="detective_focks_by_hossimo_02" class="responsive">
 
-<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_01.png" alt="detective_focks_by_hossimo_04_details" class="responsive">
+<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_03.png" alt="detective_focks_by_hossimo_03" class="responsive">
+
+<img src="/images/Characters/Detective_Focks/detective_focks_by_hossimo_04_details.png" alt="detective_focks_by_hossimo_04_details" class="responsive">
