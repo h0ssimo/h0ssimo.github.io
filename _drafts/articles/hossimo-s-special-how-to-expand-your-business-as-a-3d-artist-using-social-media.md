@@ -20,10 +20,10 @@ If you're stuck professionally at some point in your career as an artist in gene
 
 **_\~dissclaimer:_** as I mentioned earlier, the ideas in this article are my mere _suggestions._ So it may not apply to your professional style. In either case, I keep my fingers crossed that somebody out there find this article helpful. :)
 
-**What is our goal?**
-
-Deservedly get your impact.
+**What's the Goal?**
 
 If we're talking about any kind of serious business on which you can rely for lifetime, in my opinion, there must be a nice balance between your art and monetizing on your art or skills. (perfect balance are extremely rare, if at all)
 
 You have to grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand. So that's clear.
+
+**What's the Plan?**
