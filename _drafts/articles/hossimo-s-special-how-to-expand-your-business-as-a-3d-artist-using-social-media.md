@@ -27,3 +27,5 @@ If we're talking about any kind of serious business on which you can rely for li
 You have to grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand. So that's clear.
 
 **What's the Plan?**
+
+With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle, you need a small but nice community to start on.
