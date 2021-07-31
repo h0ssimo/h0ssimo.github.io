@@ -28,4 +28,6 @@ You have to grow financially as individual, so considering you have your artwork
 
 **What's the Plan?**
 
-With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else. Once you have the community, it's the direction you take.
+With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else to back you up. Once you have the community, it's about leading them to the right direction.
+
+_Right direction,_ meaning getting them from point **A** to **B** -adding value to the community, that's **_the key_**- 
