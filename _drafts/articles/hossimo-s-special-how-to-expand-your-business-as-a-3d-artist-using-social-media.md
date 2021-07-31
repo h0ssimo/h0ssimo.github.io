@@ -28,4 +28,4 @@ You have to grow financially as individual, so considering you have your artwork
 
 **What's the Plan?**
 
-With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle, you need a small but nice community to start on.
+With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else. Once you have the community, it's the direction you take.
