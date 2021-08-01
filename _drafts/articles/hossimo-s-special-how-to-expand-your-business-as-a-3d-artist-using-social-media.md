@@ -54,11 +54,13 @@ If you're passionate about the field you are trying to develop as an artist and 
 #####   
 Articles and Blogs
 
-Written articles and posts, are perfect for contents that need to be referenced or bookmarked for later usages by your audience. Some walkthroughs are also easier to get back to, when written. So have that in mind, just take your time and transfer your knowledge carefully through written words.  
-Also, in a more relaxed Blog environment, you could always share stuff related to your lifestyle. I mean, what it takes to be you?  
-  
-Reviews and Critiques  
-Have you watched a recent PIXAR movie that you liked? Or some goofy VFX on the weekend? Maye a video game you just finished playing? Come tell people what you think about them and what makes a movie or a featured animated movie a better one, from your perspective as a professional.  
+_Written_ articles and posts, are perfect for contents that need to be _referenced_ or _bookmarked_ for later usages by your audience. Some _walkthroughs_ are also easier to get back to, when written. So have that in mind, just take your time and transfer your knowledge carefully through written words.  
+Also, in a more relaxed _Blog_ environment, you could always share stuff related to your _lifestyle._ I mean, what it takes to be you?
+
+#####   
+Reviews and Critiques
+
+Have you watched a recent _PIXAR_ movie that you liked? Or some goofy _VFX_ on the weekend? Maye a _video game_ you just finished playing? Come tell people what you think about them and what makes a movie or a featured animated movie or mostly a video game, a better one, from your perspective as a _professional._  
 If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways.   
   
 Tutorials and Free Goodies  
