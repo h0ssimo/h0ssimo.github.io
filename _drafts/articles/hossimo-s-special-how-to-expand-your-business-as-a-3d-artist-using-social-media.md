@@ -76,10 +76,14 @@ You can use videos for almost _any_ purpose. You could try going _live_ with oth
 #####   
 Artworks
 
-If you're going to fill your social media only with your artworks, it's totally fine. Just make sure you have the stability and constant online presence for that's another key in online marketing. So this usually means speed. You need to be fast enough to ensure you deliver some quality artworks in just 1 or 2 days. So I think most 3D artists and animators and traditional sculptors out of the game! Maybe some 2D artists or prototype concept artists would find this option suitable.  
-  
-Consider Taking Polls and Q&A  
-Sometimes a question answerd to an art student, could mean a lot to them, therefore, create value for them. So why not doing that time to time?  
-Also since we're interested in other people's opinions as social beings, taking polls and asking your audience for their opinion about various subjects would keep everyone happy and curiosities satisfied!  
-  
-Sharing Playlists, Watchlists, Must-Play Video Games
+If you're going to fill your social media _only_ with your artworks, it's totally fine. Just make sure you have the stability and _constant online presence_ for that's another **_key_** in _online marketing_ as _artists_. So this usually means **_high quality/time ratio_**. You need to be fast enough to ensure you deliver some quality artworks in just 1 or 2 days. So I think most _3D artists_ and _animators_ and _traditional sculptors_ are ruled out of the game! Maybe _2D artists_ or _prototype concept artists_ would find this option more suitable.
+
+#####   
+Consider Taking Polls and Q&A
+
+Sometimes a question answerd to an art student, could mean a lot to them, therefore, **_create value_** for them. So why not doing that time to time?  
+Also since we're interested in other people's opinions as social beings, _taking polls_ and asking your audience for their opinion about various subjects would keep everyone happy and curiosities satisfied!
+
+##### Sharing Playlists, Watchlists, Must-Play Video Games
+
+As it's always curious to know what other people's top favorite list is. Also 
