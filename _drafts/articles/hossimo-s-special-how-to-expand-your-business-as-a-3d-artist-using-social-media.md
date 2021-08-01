@@ -89,3 +89,13 @@ Also since we're interested in other people's opinions as social beings, _taking
 As it's always curious to know what other people's top favorite list is. It's also nice to share some _spotify_ playlists with the creative people around the globe! Like what you listen to when you work? If you listen to any of course.
 
 Or what are the most nostalgic games you've ever played? The list could go on and on. I'm just hoping to give you enough insights to stand on your own feet.
+
+### What's Next?
+
+So after some social interaction, contribution and networking like we discussed, now you have the required power to start your engines! But that's just the beginning; _can you really drive?_
+
+See, what's important is to decide correctly when you have to choose between paths in your career. You can also choose not to decide, but that has it's own price, too; so evaluate everything.
+
+There's another great factor when it comes to moving something forward, which is stability. You need to take care of your online presence on a daily schedule. Not all the time of course, but based on a _schedule_.
+
+These are the things that actually move your campaign forward. So first have a schedule, and then stabilize your daily routines. Build good habits. And of course have some tolerance percentage over your time management based on your personal lifestyle.
