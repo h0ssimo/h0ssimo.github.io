@@ -162,7 +162,11 @@ If possible, another option would be going live along with industry veterans and
 
 _\~Direct Business_
 
-LinkedIn has its own purposes and use cases. I would suggest going for what they actually created this platform for. In my opinion, there are a few focal points which you should consider. 
+LinkedIn has its own purposes and use cases. I would suggest going for what they actually created this platform for. In my opinion, there are a few focal points which you should consider.
+
+Showcase your professional life in a single page, much like a CV, but with the power of referencing links to your projects and portfolio. Engaging in community and trying to share related articles to try to help other people expand their knowledge could greatly help your image as a professional artist. It's a practical thing that people who pass knowledge easily and comprehensively, are more suitable candidates for leading positions in the industry.
+
+So companies may reach out for you. And when they do, negotiate professionally. Choose your words carefully, weigh every word before you say it. Specifically be realistic and clear about deadlines and payment terms, as these two would be the most important factors for either side; considering the quality is already reached upon an agreement.
 
 ##### Merchandise and Personal Branding
 
