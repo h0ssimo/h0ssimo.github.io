@@ -88,4 +88,4 @@ Also since we're interested in other people's opinions as social beings, _taking
 
 As it's always curious to know what other people's top favorite list is. It's also nice to share some _spotify_ playlists with the creative people around the globe! Like what you listen to when you work? If you listen to any of course.
 
-Or what are the 
+Or what are the most nostalgic games you've ever played? The list could go on and on. I'm just hoping to give you enough insights to stand on your own feet.
