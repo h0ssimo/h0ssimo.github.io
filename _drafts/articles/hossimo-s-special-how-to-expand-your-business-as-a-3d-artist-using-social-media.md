@@ -94,7 +94,7 @@ Or what are the most nostalgic games you've ever played? The list could go on an
 
 So after some social interaction, contribution and networking like we discussed, now you have the required power to start your engines! But that's just the beginning; _can you really drive?_
 
-See, what's important is to decide correctly when you have to choose between paths in your career. You can also choose not to decide, but that has it's own price, too; so evaluate everything.
+See, what's important is to _decide_ \[correctly, or as you desire\] when you have to choose between paths in your career. You can also choose not to decide, but that has it's own price, too; so evaluate everything.
 
 There's another great factor when it comes to moving something forward, which is stability. You need to take care of your online presence on a daily schedule. Not all the time of course, but based on a _schedule_.
 
