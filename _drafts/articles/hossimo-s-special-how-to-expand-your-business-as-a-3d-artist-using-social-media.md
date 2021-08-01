@@ -124,7 +124,9 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 
 _\~Getting Sponsorship_
 
-So in this one you need to add value to your community who follow your profession as a career, through videos. There are a lot of ideas to go for this one. You need to nail the sense of using time efficiently to your audience after the close your video. That's what brings them back for more.
+So in this one you need to add value to your community who follow your profession as a career, through videos. There are a lot of ideas to go for this one. You need to nail the sense of time efficiency to your audience after the close your video. They should be saving their time by watching your videos. That's what brings them back for more. At some point when you got enough views, could go for ad-based revenues provided by YouTube.
+
+Have a distinct layout and color palette for your channel and video presentations, along with your favorite topic in CGI Industry, be patient and reap your rewards as a confirmation of doing your part right.
 
 ##### Instagram
 
