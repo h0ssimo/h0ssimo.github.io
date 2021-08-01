@@ -51,7 +51,7 @@ Here are some activities you can do to try to **_make a difference_** and **_sta
 
 ##### Podcasts
 
-If you're passionate about the field you are trying to develop as an artist and individual human being, you may have a lot of to talk about. So why not sharing your thoughts with the people who are already interested in what you do? Make it easier for them to literally hear from you!
+If you're passionate about the field you are trying to develop in, as an artist and individual human being, you may have a lot of to talk about. So why not sharing your thoughts with the people who are already interested in what you do? Make it easier for them to literally hear from you!
 
 #####   
 Articles and Blogs
