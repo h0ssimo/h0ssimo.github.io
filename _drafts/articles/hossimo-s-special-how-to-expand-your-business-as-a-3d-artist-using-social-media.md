@@ -106,12 +106,12 @@ Finally, the part we've all been waiting for! Now, this topic is very vast, but 
 
 ##### First, Why We Do This? There Are Already A Lot Out There!
 
-Let's talk about this a little bit. No it's not; from a producer's point of view, there's not as much content as you'd expect out there in terms of quality on the market. Also there are surprisingly few artists in the business who developed both artistic and technical skills in the same balance and strength. So there's always room for us if we're really good. That's that.
+Let's talk about this a little bit. No it's not; from a producer's point of view, there's not as much content available as you'd expect out there in terms of _quality_ on the _market_. Also there are _surprisingly few_ artists in the business who developed both **_artistic_** and **_technical_** skills in the same balance and strength. So there's always room for us if we're really good. That's that.
 
-Now, asking money for a service, whether arts-related or not, is only natural, and it simply means business. So, be confident, focus on your own skills and knowledge, lead interested people in your community, and help them get one step closer to bringing their dreams to life, and they will understand and find it totally fine to pay a fair amount for what they get from _you_ and your _premium services_. They also know that you have families to feed.
+Now, asking money for a service, whether arts-related or not, is only natural, and it simply means _business_. So, be confident, focus on your own **_skills_** and **_knowledge_,** _lead_ interested people in your _community_, and help them get one step closer to bringing their dreams to life, and they will understand and find it totally fine to pay a _fair_ amount for what they get from _you_ and your _premium services_. They also know that you have families to feed.
 
-So, be aware of the facts and reality, and take your steps carefully throughout your career and personal branding.
+So, be aware of the facts and reality, and take your steps carefully throughout your career and _personal branding_.
 
 ##### Then, Comes The First Decision
 
-You probably have an smartphone or already are reading this on a smartphone anyways, so you're familiar with mobile apps and games. If you have noticed, there are three types of games or apps: **_paid,_** **_free_ (with in-app purchases)** and **_free_** ones. We will leave free ones behind since we covered it in Free Goodies sections
+You probably have an smartphone or already are reading this on a smartphone anyways, so you're familiar with mobile apps and games. If you have noticed, there are three types of games or apps: **_paid,_** **_free_ (with in-app purchases)** and **_free_** ones. We will leave free ones behind since we covered it in _Tutorials and Free Goodies_ sections
