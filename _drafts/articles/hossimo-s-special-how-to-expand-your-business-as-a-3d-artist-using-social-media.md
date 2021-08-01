@@ -117,3 +117,5 @@ So, be aware of the facts and reality, and take your steps carefully throughout 
 You probably have an _smartphone_ or already are reading this on a _smartphone_ anyways, so you're familiar with mobile apps and games. If you have noticed, there are three types of games or apps: **_paid,_** **_free_ (with in-app purchases)** and **_free_** ones. We will leave free ones aside since we covered it in _Tutorials and Free Goodies_ sections. So now there's two options: either go for **Direct Business**, or to keep everything available for free for all, try **_Getting Sponsorships_** to back your finances.
 
 You may come up with another plan, or a mix of both; but I just wanted to point out that this is the sort of mind-set most artists don't seem to have. Just consider that as a real thing, clarify your plans for yourself first.
+
+#### Different Options For Different Tastes
