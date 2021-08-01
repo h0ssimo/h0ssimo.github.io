@@ -42,7 +42,7 @@ People who visit your website, **_must_** get to know who you are, what you do, 
 People whose wavelength would match your content, will always want to know more about you and your business. So make sure you are prepared for that. Create a _platform_ for them to gather together and share thought and knowledge. Some people prefer Discord, some people prefer Reddit and even Telegram, YouTube, Instagram and other social media platforms. It depends on what you want to propose to them.
 
 ####   
-What Can You Really Propose?
+What Can You Really Propose To Keep The Community Rolling?
 
   
 I mean, there are a lot of opportunities, but what are we really talking about?  
