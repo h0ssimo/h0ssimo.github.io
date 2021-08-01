@@ -130,6 +130,10 @@ Have a distinct layout and color palette for your channel and video presentation
 
 ##### Instagram
 
+_\~Getting Sponsorship_
+
+On Instagram, it's a little bit
+
 ##### LinkedIn
 
 ##### Merchandise and Personal Branding
