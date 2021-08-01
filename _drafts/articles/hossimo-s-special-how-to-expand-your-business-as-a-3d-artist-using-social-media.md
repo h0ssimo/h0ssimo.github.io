@@ -128,9 +128,9 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 
 ##### 3D Printing and Toys Industry
 
-##### Tutorials
+##### Tutorial Courses
 
-##### Mentorship Programs
+##### Online Mentorship Programs
 
 ##### Online Workshops
 
