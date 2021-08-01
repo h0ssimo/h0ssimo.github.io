@@ -182,6 +182,10 @@ Try to balance everything carefully in this one, since you are directly working 
 
 _\~Direct Business_
 
+If you're a good digital sculptor specialized in characters, and have developed an interest in action figures and design, then Toys business could be specially your thing. There are some awesome collectibles and toy companies out there that would crave top-shelf artists who dedicate their whole careers to this business.
+
+Also, if that's not your thing and you'd rather the design-side of things, you should probably try having some custom 3D printed collectibles available at your online merch store!
+
 ##### Tutorial Courses
 
 _\~Direct Business_
