@@ -190,6 +190,12 @@ Also, if that's not your thing and you'd rather the design-side of things, you s
 
 _\~Direct Business_
 
+This could be a tricky topic, since it's easy to get caught in too early in your career. In my opinion, you should have at least 5 years of professional work as back bone to support your knowledge and workflow/pipeline experience. From where I stand, the learning curve for most art related careers, could stretch up to 5 years, meaning most of the information you have on any subject in those 5 years, could quickly age since you are _just_ breaking into the professional market and it takes a good while to get the hang of everything.
+
+Also try to encourage teamwork, and try sewing the seeds of clean industry-standard pipelines. So that we can always make sure that there are always a few production-level artists on the way.
+
+So wait your years if the time hasn't come yet. Then, come in strong. Introduce yourself to market in a production-level position for a tutorial in your subject.
+
 ##### Online Mentorship Programs
 
 _\~Direct Business_
