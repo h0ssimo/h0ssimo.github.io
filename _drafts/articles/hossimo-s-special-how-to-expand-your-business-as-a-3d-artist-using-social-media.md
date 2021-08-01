@@ -142,6 +142,10 @@ It's nice to mention that you could use services like linktr.ee or linkin.bio to
 
 _\~Getting Sponsorship_
 
+This one is really great for movie/game talks, tips and ticks on your career as artist, interviews with people in the industry, etc. If you feel like it, poetry and literature as season-based episodes to have a nice additional collection along with CGI art or whatever medium you are working in. Again, just to give you insights. After a while, you could start emailing related companies who may be interested in Sponsorship, and find your way in. Or like YouTube, go ad-base.
+
+Of the best platforms out there to reach out for, I could name Castbox, Spotify, Apple Music, YouTube Music and more.
+
 ##### Live Shows and Streaming
 
 _\~Getting Sponsorship_
