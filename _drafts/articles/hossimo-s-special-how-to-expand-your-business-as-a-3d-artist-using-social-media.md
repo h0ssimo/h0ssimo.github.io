@@ -4,7 +4,7 @@ title: 'Hossimo''s Special: How to Expand Your Business as a 3D Artist Using Soc
   Media'
 excerpt: In this article I'm gonna suggest some ideas that could help you create or
   expand your business model using social media. Also I'm gonna go as deep as possible
-  while keeping it all simple.
+  while keeping it all simple. Let's Dive In!
 date: 2021-07-31 20:32:00 +0430
 tags: []
 categories:
