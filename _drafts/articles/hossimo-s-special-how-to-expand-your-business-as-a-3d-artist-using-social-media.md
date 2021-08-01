@@ -61,15 +61,21 @@ Also, in a more relaxed _Blog_ environment, you could always share stuff related
 Reviews and Critiques
 
 Have you watched a recent _PIXAR_ movie that you liked? Or some goofy _VFX_ on the weekend? Maye a _video game_ you just finished playing? Come tell people what you think about them and what makes a movie or a featured animated movie or mostly a video game, a better one, from your perspective as a _professional._  
-If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways.   
-  
-Tutorials and Free Goodies  
-Remember how you had to search everywhere some years ago to find the free brush / alpha / texture or model you needed? Now it's all much easier to find. Though professional-grade quality digital assets are still extremely challenging to find. So let's try to make the world a better place by sharing the knowledge and tools for the community to expand and grow and prosper. Much as like as we all did in human evolution across history. Learn from others and pass it down for the yearning.  
-  
-Videos  
-You can use videos for almost any purpose. You could try going live with other professional artists or just quickly pointing out the tip or trick of the day. Lots of ground to cover here. The choice is yours. But whatever you do, do it in a style that you wished people had created when you were a student. Again, add values. Don't forget that.  
-  
-Artworks  
+If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways. 
+
+#####   
+Tutorials and Free Goodies
+
+Remember how you had to search everywhere some years ago to find the _free brush_ / _alpha_ / _texture_ or _3d model_ you needed? Now it's all much easier to find. Though professional-grade quality digital assets are still extremely challenging to find. So let's try to make the world a better place by sharing the knowledge and tools for the community to expand and grow and prosper. Much as like as we all did in human evolution across history. _Learn from others and pass it down for the yearning._
+
+#####   
+Videos
+
+You can use videos for almost _any_ purpose. You could try going _live_ with other professional artists or just quickly pointing out the _tip_ or _trick_ of the day. Lots of ground to cover here. The choice is yours. But whatever you do, do it in a **_style _**that you wished people had created when you were a student. Again, **_add values_**. Don't forget that.
+
+#####   
+Artworks
+
 If you're going to fill your social media only with your artworks, it's totally fine. Just make sure you have the stability and constant online presence for that's another key in online marketing. So this usually means speed. You need to be fast enough to ensure you deliver some quality artworks in just 1 or 2 days. So I think most 3D artists and animators and traditional sculptors out of the game! Maybe some 2D artists or prototype concept artists would find this option suitable.  
   
 Consider Taking Polls and Q&A  
