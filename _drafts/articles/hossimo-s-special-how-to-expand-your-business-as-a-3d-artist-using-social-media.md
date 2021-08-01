@@ -111,3 +111,5 @@ Let's talk about this a little bit. No it's not; from a producer's point of view
 Now, asking money for a service, whether arts-related or not, is only natural, and it simply means business. So, be confident, focus on your own skills and knowledge, lead interested people in your community, and help them get one step closer to bringing their dreams to life, and they will understand and find it totally fine to pay a fair amount for what they get from _you_ and your _premium services_. They also know that you have families to feed.
 
 So, be aware of the facts and reality, and take your steps carefully throughout your career and personal branding.
+
+##### Then, Comes The First Decision
