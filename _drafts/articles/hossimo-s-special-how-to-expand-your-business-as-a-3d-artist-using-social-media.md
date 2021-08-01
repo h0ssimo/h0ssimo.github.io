@@ -215,3 +215,5 @@ There are some nice marketplaces like Unreal Marketplace, Unity Asset Store, Art
 Alphas, brushes, procedural shaders and graphs, procedural modeling, camera animation tools, stl files, scripts, quick tutorials and many others, are only some of your options to choose from.
 
 ##### NFT Art
+
+_\~Direct Business_
