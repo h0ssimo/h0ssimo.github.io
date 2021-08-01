@@ -213,3 +213,5 @@ Although this field pretty intense and competitive, with some keyword research a
 There are some nice marketplaces like Unreal Marketplace, Unity Asset Store, Artstation Marketplace, TurboSquid, CGTrader and other places you can find online for people to browse your assets. You don't have to necessarily create models for sale. You could create anything helpful in the production pipeline and offer to other people.
 
 Alphas, brushes, procedural shaders and graphs, procedural modeling, camera animation tools, stl files, scripts, quick tutorials and many others, are only some of your options to choose from.
+
+##### NFT Art
