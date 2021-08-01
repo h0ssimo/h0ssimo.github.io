@@ -148,7 +148,7 @@ This one is really great for movie/game talks, tips and ticks on your career as 
 
 After a while, you could start emailing related companies who may be interested in Sponsorship, and find your way in. Or like YouTube, go ad-base.
 
-Of the best platforms out there to reach out for, I could name Castbox, Spotify, Apple Music, YouTube Music and more.
+Of the best platforms out there to reach out for, I could name Castbox, Spotify, SoundCloud, Apple Music, YouTube Music and more.
 
 ##### Live Shows and Streaming
 
