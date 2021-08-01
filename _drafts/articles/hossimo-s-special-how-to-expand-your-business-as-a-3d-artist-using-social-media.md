@@ -47,7 +47,7 @@ What Can You Really Propose?
   
 I mean, there are a lot of opportunities, but what are we really talking about?  
 The field of _CGI_ is so vast that it takes a huge effort just to scratch the surface.  
-Here are some activities you can do to try to **_make a difference._**
+Here are some activities you can do to try to **_make a difference_** and **_stand out_** in your commuinty.
 
 ##### Podcasts
 
