@@ -122,6 +122,10 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 
 ##### YouTube
 
+_\~Getting Sponsorship_
+
+So in this one you need to add value to your community who follow your profession as a career, through videos. There are a lot of ideas to go for this one. You need to nail the sense of using time efficiently to your audience after the close your video. That's what brings them back for more.
+
 ##### Instagram
 
 ##### LinkedIn
