@@ -102,4 +102,10 @@ These are **_-schedule and stability-_** the things that actually move your _cam
 
 ### The Monetizing Plans For CGI Artists
 
-Finally, the part we've all been waiting for! 
+Finally, the part we've all been waiting for! Now, this topic is very vast, but I'm gonna go cover as much as possible. So I'm gonna divide them between sections.
+
+##### First, Why We Do This? There Are Already A Lot Out There!
+
+Let's talk about this a little bit. No it's not; From a producers point of view, there's not as much content as you'd expect out there in terms of quality on the market. Also there are surprisingly few artists in the business who developed both artistic and technical skills in the same balance and strength. So there's always room for us if we're really good. That's that.
+
+Now, asking money for a service, whether arts-related or not, is only natural, and it simply means business. So, be confident, focus on your own skills and knowledge, lead interested people in your community, and help them get one step closer to bringing their dreams to life, and they will 
