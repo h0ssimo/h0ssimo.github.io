@@ -98,4 +98,6 @@ See, what's important is to _decide_ \[correctly, or as you desire\] when you ha
 
 There's another great factor when it comes to moving something forward, which is stability. You need to take care of your online presence on a daily schedule. Not all the time of course, but based on a _schedule_.
 
-These are **_-schedule and stability-_** the things that actually move your campaign forward. So first have a schedule, and then stabilize your daily routines. Build good habits. And of course have some tolerance percentage over your time management based on your personal lifestyle.
+These are **_-schedule and stability-_** the things that actually move your _campaign_ forward. So first have a _schedule_, and then _stabilize_ your daily routines. Build good habits. And of course have some tolerance percentage over your time management based on your personal lifestyle.
+
+### The Monetizing Plans For CGI Artists
