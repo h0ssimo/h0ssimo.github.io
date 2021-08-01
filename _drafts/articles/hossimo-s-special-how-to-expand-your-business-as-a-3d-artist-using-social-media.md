@@ -162,7 +162,7 @@ If possible, another option would be going live along with industry veterans and
 
 _\~Direct Business_
 
-LinkedIn has its own purposes and use cases. I would suggest going for what they actually created this platform for. In my opinion, there 
+LinkedIn has its own purposes and use cases. I would suggest going for what they actually created this platform for. In my opinion, there are a few focal points which you should consider. 
 
 ##### Merchandise and Personal Branding
 
