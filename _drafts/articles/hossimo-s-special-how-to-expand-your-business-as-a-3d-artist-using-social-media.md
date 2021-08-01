@@ -174,7 +174,7 @@ _\~Direct Business_
 
 This business model is usually for people with a distinct design, or bold personal brand. The variety on this one could be really interesting, some creative hoodie design based on your artworks, designs and brand could be really nice! On the other hand a mug designed to make people feel better while they enjoy their break, is also nice. It's about how well you could handle the marketing, managing production, and designing your works properly.
 
-Try to balance everything in this one, since you are directly working with people and fans, so one bad step and it could all go wrong. 
+Try to balance everything carefully in this one, since you are directly working with people and fans, so one bad step and it could all go wrong. But in successful cases, it's a whole career for some artists around the world.
 
 ##### 3D Printing and Toys Industry
 
