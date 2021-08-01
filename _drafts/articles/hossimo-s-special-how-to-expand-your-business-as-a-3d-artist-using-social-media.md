@@ -138,20 +138,38 @@ You could also choose between commission work offers if you are open to them. An
 
 It's nice to mention that you could use services like linktr.ee or linkin.bio to manage your link in bio a lot better.
 
+##### Podcasts
+
+_\~Getting Sponsorship_
+
+##### Live Shows and Streaming
+
+_\~Getting Sponsorship_
+
 ##### LinkedIn
+
+_\~Direct Business_
 
 ##### Merchandise and Personal Branding
 
+_\~Direct Business_
+
 ##### 3D Printing and Toys Industry
+
+_\~Direct Business_
 
 ##### Tutorial Courses
 
+_\~Direct Business_
+
 ##### Online Mentorship Programs
+
+_\~Direct Business_
 
 ##### Online Workshops
 
+_\~Direct Business_
+
 ##### Digital Assets on CGI-Related Marketplaces
 
-##### Podcasts
-
-##### Live Shows and Streaming
+_\~Direct Business_
