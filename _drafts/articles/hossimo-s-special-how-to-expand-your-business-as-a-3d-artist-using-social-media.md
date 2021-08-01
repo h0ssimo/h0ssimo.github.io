@@ -196,15 +196,13 @@ Also try to encourage teamwork, and try sewing the seeds of clean industry-stand
 
 So wait your years if the time hasn't come yet. Then, come in strong. Introduce yourself to market in a production-level position for a tutorial in your subject.
 
-##### Online Mentorship Programs
+##### Online Mentorship Programs And Workshops
 
 _\~Direct Business_
 
 There are also a lot of platforms for this one. It could be a simple Skype and Anydesk sessions, or pre-recorded videos with a Teamviewer commentary or as many other professional artists, Patreon is a nice place to put your effort to, if you want to offer premium mentorship programs at different levels of access and subscription plans.
 
-##### Online Workshops
-
-_\~Direct Business_
+Also you could design an 8-week workshops, focusing on for example, look development for animation, game or VFX pipelines and giving industry-level insights to people who are eager to know more.
 
 ##### Digital Assets on CGI-Related Marketplaces
 
