@@ -119,3 +119,19 @@ You probably have an _smartphone_ or already are reading this on a _smartphone_ 
 You may come up with another plan, or a mix of both; but I just wanted to point out that this is the sort of mind-set most artists don't seem to have. Just consider that as a real thing, clarify your plans for yourself first.
 
 #### Different Options For Different Tastes
+
+YouTube
+
+Instagram
+
+Merchandise and Personal Brandings
+
+3D Printing and Toys Industry
+
+Tutorials
+
+Mentorship Programs
+
+Online Workshops
+
+Digital Assets on CGI-Related Marketplaces
