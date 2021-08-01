@@ -207,3 +207,5 @@ Also you could design an 8-week workshops, focusing on for example, look develop
 ##### Digital Assets on CGI-Related Marketplaces
 
 _\~Direct Business_
+
+Although this field pretty intense and competitive, with some keyword research and enough study on the market trends/needs, you could find yourself some reliable extra paycheck at the end of the month; or even a career.
