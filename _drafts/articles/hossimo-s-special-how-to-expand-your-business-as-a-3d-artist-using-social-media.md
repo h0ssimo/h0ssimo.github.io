@@ -96,7 +96,7 @@ So after some social interaction, contribution and networking like we discussed,
 
 See, what's important is to _decide_ \[correctly, or as you desire\] when you have to choose between paths in your career. You can also choose not to decide, but that has it's own price, too; so evaluate everything.
 
-There's another great factor when it comes to moving something forward, which is stability. You need to take care of your online presence on a daily schedule. Not all the time of course, but based on a _schedule_.
+There's another great factor when it comes to moving something forward, which is _stability_. You need to take care of your _online presence_ on a daily and weekly schedule. Not all the time of course, but based on a _schedule_.
 
 These are **_-schedule and stability-_** the things that actually move your _campaign_ forward. So first have a _schedule_, and then _stabilize_ your daily routines. Build good habits. And of course have some tolerance percentage over your time management based on your personal lifestyle.
 
