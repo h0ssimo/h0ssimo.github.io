@@ -108,7 +108,7 @@ Finally, the part we've all been waiting for! Now, this topic is very vast, but 
 
 ##### First, Why We Do This? There Are Already A Lot Out There!
 
-Let's talk about this a little bit. No there are not; from a producer's point of view, there's not as much content available as you'd expect out there in terms of _quality_ on the _market_. Let alone even rarer _high quality/price_ _ratio_ professional artists availability when you need them. Also there are _surprisingly few_ artists in the business who developed both **_artistic_** and **_technical_** skills in the same balance and strength. So there's always room for us if we're really good. That's that.
+Let's talk about this a little bit. No there are not; from a producer's point of view, there's not as much content available as you'd expect out there in terms of _quality_ on the _market_. Let alone even rarer _high quality/price_ _ratio_ professional content. Also there are _surprisingly few_ artists in the business who developed both **_artistic_** and **_technical_** skills in the same balance and strength. So there's always room for us if we're really good. That's that.
 
 Now, asking money for a service, whether arts-related or not, is only natural, and it simply means _business_. So, be confident, focus on your own **_skills_** and **_knowledge_,** _lead_ interested people in your _community_, and help them get one step closer to bringing their dreams to life, and they will understand and find it totally fine to pay a _fair_ amount for what they get from _you_ and your _premium services_. They also know that you have families to feed.
 
