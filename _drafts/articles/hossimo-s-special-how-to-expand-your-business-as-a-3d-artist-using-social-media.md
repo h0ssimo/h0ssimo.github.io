@@ -30,4 +30,48 @@ You have to grow financially as individual, so considering you have your artwork
 
 With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else to back you up. Once you have the community, it's about leading them to the right direction.
 
-_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow in the right direction. 
+_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow in the right direction.
+
+### How to Build a Community?
+
+  
+While there are lots of _social media platforms_ out there that you are probably already a member of, it's all about getting people to come back more and more on a regular basis. Grabbing their attention. And that's only possible by **_adding value_** to your audience as an artist. Values may differ from a person to another; but the the thing is, they are all, well, _valuable_!  
+To start, I'd suggest starting out with a _personal website._ That gives you lots of opportunities. Other than introducing yourself and putting a nice _portfolio_ online, you should use it as the head quarters of your _own brand._ People who visit your website, **_must_** get to know who you are, what you do, and what you have to offer in a nice way.  
+People whose wavelength would match your content, will always want to know more about you and your business. So make sure you are prepared for that. Create a _platform_ for them to gather together and share thought and knowledge. Some people prefer Discord, some people prefer Reddit and even Telegram, YouTube, Instagram and other social media platforms. It depends on what you want to propose to them.
+
+####   
+What Can You Really Propose?
+
+  
+I mean, there are a lot of opportunities, but what are we really talking about?  
+The field of _CGI_ is so vast that it takes a huge effort just to scratch the surface.  
+Here are some activities you can do to try to **_make a difference._**
+
+##### Podcasts
+
+If you're passionate about the field you are trying to develop as an artist and individual human being, you may have a lot of to talk about. So why not sharing your thoughts with the people who are already interested in what you do? Make it easier for them to literally hear from you!
+
+#####   
+Articles and Blogs
+
+Written articles and posts, are perfect for contents that need to be referenced or bookmarked for later usages by your audience. Some walkthroughs are also easier to get back to, when written. So have that in mind, just take your time and transfer your knowledge carefully through written words.  
+Also, in a more relaxed Blog environment, you could always share stuff related to your lifestyle. I mean, what it takes to be you?  
+  
+Reviews and Critiques  
+Have you watched a recent PIXAR movie that you liked? Or some goofy VFX on the weekend? Maye a video game you just finished playing? Come tell people what you think about them and what makes a movie or a featured animated movie a better one, from your perspective as a professional.  
+If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways.   
+  
+Tutorials and Free Goodies  
+Remember how you had to search everywhere some years ago to find the free brush / alpha / texture or model you needed? Now it's all much easier to find. Though professional-grade quality digital assets are still extremely challenging to find. So let's try to make the world a better place by sharing the knowledge and tools for the community to expand and grow and prosper. Much as like as we all did in human evolution across history. Learn from others and pass it down for the yearning.  
+  
+Videos  
+You can use videos for almost any purpose. You could try going live with other professional artists or just quickly pointing out the tip or trick of the day. Lots of ground to cover here. The choice is yours. But whatever you do, do it in a style that you wished people had created when you were a student. Again, add values. Don't forget that.  
+  
+Artworks  
+If you're going to fill your social media only with your artworks, it's totally fine. Just make sure you have the stability and constant online presence for that's another key in online marketing. So this usually means speed. You need to be fast enough to ensure you deliver some quality artworks in just 1 or 2 days. So I think most 3D artists and animators and traditional sculptors out of the game! Maybe some 2D artists or prototype concept artists would find this option suitable.  
+  
+Consider Taking Polls and Q&A  
+Sometimes a question answerd to an art student, could mean a lot to them, therefore, create value for them. So why not doing that time to time?  
+Also since we're interested in other people's opinions as social beings, taking polls and asking your audience for their opinion about various subjects would keep everyone happy and curiosities satisfied!  
+  
+Sharing Playlists, Watchlists, Must-Play Video Games
