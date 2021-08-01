@@ -55,7 +55,7 @@ If you're passionate about the field you are trying to develop as an artist and 
 Articles and Blogs
 
 _Written_ articles and posts, are perfect for contents that need to be _referenced_ or _bookmarked_ for later usages by your audience. Some _walkthroughs_ are also easier to get back to, when written. So have that in mind, just take your time and transfer your knowledge carefully through written words.  
-Also, in a more relaxed _Blog_ environment, you could always share stuff related to your _lifestyle._ I mean, what it takes to be you?
+Also, in a more relaxed _Blog_ environment, you could always share stuff related to your _lifestyle._ I mean, what it takes to be _you_?
 
 #####   
 Reviews and Critiques
