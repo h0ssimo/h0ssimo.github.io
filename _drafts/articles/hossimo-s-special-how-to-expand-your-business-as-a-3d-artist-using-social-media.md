@@ -132,7 +132,11 @@ Have a distinct layout and color palette for your channel and video presentation
 
 _\~Getting Sponsorship_
 
-On Instagram, it's a little bit
+On Instagram, it's a little bit different. I would say you could share your WIPs, or throw some hints about the projects you are currently working on. Also you could try sharing the stuff that evokes life as an artist lifestyle the way you see fit. It could be really anything to keep your online presence with all the stories and IG TVs and everything.
+
+You could also choose between commission work offers if you are open to them. Another plan would be going for short _"What I Learned Today"_ series in your story highlights. Or IG TV tutorials.
+
+It's nice to mention that you could use services like linktr.ee or linkin.bio to manage your link in bio a lot better.
 
 ##### LinkedIn
 
