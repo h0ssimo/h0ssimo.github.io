@@ -101,3 +101,5 @@ There's another great factor when it comes to moving something forward, which is
 These are **_-schedule and stability-_** the things that actually move your _campaign_ forward. So first have a _schedule_, and then _stabilize_ your daily routines. Build good habits. And of course have some tolerance percentage over your time management based on your personal lifestyle.
 
 ### The Monetizing Plans For CGI Artists
+
+Finally, the part we've all been waiting for! 
