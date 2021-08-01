@@ -30,7 +30,7 @@ You have to grow financially as individual, so considering you have your artwork
 
 With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else to back you up. Once you have the community, it's about leading them to the right direction.
 
-_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow / traffic of your ever-growing community in the right direction, which benefits everyone involved.
+_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow / traffic of your ever-growing community in the right direction, which ultimately benefits everyone involved.
 
 ### How to Build a Community?
 
