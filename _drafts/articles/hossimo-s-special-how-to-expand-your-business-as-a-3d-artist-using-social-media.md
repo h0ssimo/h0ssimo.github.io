@@ -86,4 +86,6 @@ Also since we're interested in other people's opinions as social beings, _taking
 
 ##### Sharing Playlists, Watchlists, Must-Play Video Games
 
-As it's always curious to know what other people's top favorite list is. Also 
+As it's always curious to know what other people's top favorite list is. It's also nice to share some _spotify_ playlists with the creative people around the globe! Like what you listen to when you work? If you listen to any of course.
+
+Or what are the 
