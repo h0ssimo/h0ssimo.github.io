@@ -152,6 +152,8 @@ Of the best platforms out there to reach out for, I could name Castbox, Spotify,
 
 _\~Getting Sponsorship_
 
+You could choose between Twitch, YouTube, Instagram, even Clubhouse and similar platforms to go online and reach out for your audience for various purposes. 
+
 ##### LinkedIn
 
 _\~Direct Business_
