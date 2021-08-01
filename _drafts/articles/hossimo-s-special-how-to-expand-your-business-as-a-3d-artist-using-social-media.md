@@ -217,3 +217,5 @@ Alphas, brushes, procedural shaders and graphs, procedural modeling, camera anim
 ##### NFT Art
 
 _\~Direct Business_
+
+This recently popular medium have already shaped a new form of collectors. It will probably readjust its shape to get into balance a little bit more in near future, but the new form of collectors will remain in tact, though less in numbers, and yet more professional. So you may need to collaborate with art curators and collectors. Also much like traditional art gallery business, community is the key in this sort of business. So make sure you surround yourself with inspiring people.
