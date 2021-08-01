@@ -24,13 +24,13 @@ If you're stuck professionally at some point in your career as an artist in gene
 
 If we're talking about any kind of serious business on which you can rely for lifetime, in my opinion, there must be a nice balance between your art and monetizing on your art or skills. (perfect balance are extremely rare, if at all)
 
-You have to grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand. So that's clear.
+You have to grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand with some extra cash to grow the business in a constructive way. So that's clear.
 
 **What's the Plan?**
 
 With the appropriate portfolio in hand as an artist, you probably would be glad on your first job landing in a big-production VFX / Animation company. But from the wider angle of the big picture, you actually need a small but nice community more than anything else to back you up. Once you have the community, it's about leading them to the right direction.
 
-_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow in the right direction.
+_Right direction,_ meaning getting your community from point **A** to **B** -adding value to the community, that's **_the key_**- and keeping the flow / traffic of your ever-growing community in the right direction, which benefits everyone involved.
 
 ### How to Build a Community?
 
