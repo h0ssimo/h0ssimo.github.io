@@ -113,3 +113,5 @@ Now, asking money for a service, whether arts-related or not, is only natural, a
 So, be aware of the facts and reality, and take your steps carefully throughout your career and personal branding.
 
 ##### Then, Comes The First Decision
+
+You probably have an smartphone or already are reading this on a smartphone anyways, so you're familiar with mobile apps and games. If you have noticed, there are three types of games or apps: **_paid,_** **_free_ (with in-app purchases)** and **_free_** ones. We will leave free ones behind since we covered it in Free Goodies sections
