@@ -200,6 +200,8 @@ So wait your years if the time hasn't come yet. Then, come in strong. Introduce 
 
 _\~Direct Business_
 
+There are also a lot of platforms for this one. It could be a simple Skype and Anydesk sessions, or pre-recorded videos with a Teamviewer commentary or as many other professional artists, Patreon is a nice place to put your effort to, if you want to offer premium mentorship programs at different levels of access and subscription plans.
+
 ##### Online Workshops
 
 _\~Direct Business_
