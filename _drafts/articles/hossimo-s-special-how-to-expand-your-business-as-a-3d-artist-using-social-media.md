@@ -83,7 +83,7 @@ If you're going to fill your social media _only_ with your artworks, it's totall
 #####   
 Consider Taking Polls and Q&A
 
-Sometimes a question answerd to an art student, could mean a lot to them, therefore, **_create value_** for them. So why not doing that time to time?  
+Sometimes a question answered to an art student, could mean a lot to them, therefore, **_create value_** for them. So why not doing that time to time?  
 Also since we're interested in other people's opinions as social beings, _taking polls_ and asking your audience for their opinion about various subjects would keep everyone happy and curiosities satisfied!
 
 ##### Sharing Playlists, Watchlists, Must-Play Video Games
