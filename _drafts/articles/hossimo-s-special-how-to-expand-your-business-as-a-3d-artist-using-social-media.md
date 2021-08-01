@@ -152,7 +152,11 @@ Of the best platforms out there to reach out for, I could name Castbox, Spotify,
 
 _\~Getting Sponsorship_
 
-You could choose between Twitch, YouTube, Instagram, even Clubhouse and similar platforms to go online and reach out for your audience for various purposes. 
+You could choose between Twitch, YouTube, Instagram, even Clubhouse and similar platforms to go online and reach out for your audience for various purposes. For example, you could obviously go for some live sculpting techniques, or maybe go live for hyping a new product or service you are going to launch. Setting up a Clubhouse room for a Q&A about a new tutorial you are going to release is also very helpful.
+
+On Instagram you could share your lifestyle moments as well, like going live a few minutes before you do a bungee jump! Just mentioned this case to showcase the variation of use cases of a live stream.
+
+If possible, another option would be going live along with industry veterans and successful people who could be inspirational for your community. By doing so, you might also provide the ultimate answer to the question "What does a VFX magician really look like?" lol
 
 ##### LinkedIn
 
