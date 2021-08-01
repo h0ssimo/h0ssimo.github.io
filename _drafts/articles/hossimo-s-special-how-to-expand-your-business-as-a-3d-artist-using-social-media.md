@@ -120,18 +120,20 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 
 #### Different Options For Different Tastes
 
-YouTube
+##### YouTube
 
-Instagram
+##### Instagram
 
-Merchandise and Personal Brandings
+##### Merchandise and Personal Brandings
 
-3D Printing and Toys Industry
+##### 3D Printing and Toys Industry
 
-Tutorials
+##### Tutorials
 
-Mentorship Programs
+##### Mentorship Programs
 
-Online Workshops
+##### Online Workshops
 
-Digital Assets on CGI-Related Marketplaces
+##### Digital Assets on CGI-Related Marketplaces
+
+##### 
