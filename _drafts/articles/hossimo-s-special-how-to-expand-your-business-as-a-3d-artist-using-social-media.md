@@ -124,7 +124,7 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 
 ##### Instagram
 
-##### Merchandise and Personal Brandings
+##### Merchandise and Personal Branding
 
 ##### 3D Printing and Toys Industry
 
@@ -139,3 +139,5 @@ You may come up with another plan, or a mix of both; but I just wanted to point 
 ##### Podcasts
 
 ##### Live Shows and Streaming
+
+##### LinkedIn
