@@ -38,11 +38,9 @@ While there are lots of _social media platforms_ out there that you are probably
 To start, I'd suggest starting out with a _personal website._ That gives you lots of opportunities. Other than introducing yourself and putting a nice _portfolio_ online, you should use it as the head quarters of your _own brand._
 
 People who visit your website, **_must_** get to know who you are, what you do, and what you have to offer in a nice, stylish way.  
-People whose wavelength would match your content, will always want to know more about you and your business. So make sure you are prepared for that. Create a _platform_ for them to gather together and share thought and knowledge. Some people prefer Discord, some people prefer Reddit and even Telegram, YouTube, Instagram and other social media platforms. It depends on what you want to propose to them.
+People whose wavelength would match your content, will always want to know more about you and your business. So make sure you are prepared for that. Create a _platform_ for them to gather together and share thought and knowledge. Some people prefer Discord, some people prefer Reddit and even Telegram, YouTube, Instagram, Clubhouse and other social media platforms. It depends on what you want to propose to them.
 
-#### 
-
-What Can You Really Propose To Keep The Community Rolling?
+#### What Can You Really Propose To Keep The Community Rolling?
 
 I mean, there are a lot of opportunities, but what are we really talking about?  
 The field of _CGI_ is so vast that it takes a huge effort just to scratch the surface.  
