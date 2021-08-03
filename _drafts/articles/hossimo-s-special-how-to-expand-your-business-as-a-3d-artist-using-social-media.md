@@ -24,7 +24,7 @@ If you're stuck professionally at some point in your career as an artist in gene
 
 If we're talking about any kind of serious business on which you can rely for lifetime, in my opinion, there must be a nice balance between your art and monetizing on your art or skills. (perfect balance are extremely rare, if at all)
 
-You have to grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand with some extra cash to grow the business in a constructive way. So that's clear.
+You have to stabilize and grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand with some extra cash to grow the business in a constructive way. So that's clear.
 
 **What's the Plan?**
 
