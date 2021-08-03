@@ -219,6 +219,6 @@ You cannot pick too many, can you? I guessed not, and that's fine. Considering t
 
 But, what if you could take the best part of every category? Is that possible at all? Of course! It takes careful planning, discipline, and professionalism. Along with that, you need to focus on your path. Also, again as social beings, it helps a lot to benefit from the experience of other people who have been the same boat as you are today. To discuss and hear more about the topics in this article, please feel free to join me on **Discord** where we always welcome CGI artists, and also non-CGI people who are interested in or related to the _Entertainment Industry Business_.
 
-I will keep contributing to the community by sharing my knowledge, if you find this sort of guideline helpful, show your love by sharing this article on social media.
+I will keep contributing to the community by sharing my knowledge, if you find this sort of guideline helpful, show your love by sharing this article on social media. Come say Hi on Discord, I'll greet you, don't worry! :D
 
 Spread The Right Things, Spread The Knowledge
