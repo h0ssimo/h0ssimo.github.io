@@ -5,7 +5,7 @@ title: 'Hossimo''s Special: How to Expand Your Business as a 3D Artist Using Soc
 excerpt: In this article I'm gonna suggest some ideas that could help you create or
   expand your business model using social media. Also I'm gonna go as deep as possible
   while keeping it all simple. Let's Dive In!
-date: 2021-07-31 20:32:00 +0430
+date: 2021-07-31T20:32:00.000+04:30
 tags: []
 categories:
 - articles
@@ -34,17 +34,16 @@ _Right direction,_ meaning getting your community from point **A** to **B** -add
 
 ### How to Build a Community?
 
-  
 While there are lots of _social media platforms_ out there that you are probably already a member of, it's all about getting people to come back more and more on a regular basis. Grabbing their attention. And that's only possible by **_adding value_** to your audience as an artist. _Values_ may differ from a person to another; but the the thing is, they are all, well, _valuable_!  
 To start, I'd suggest starting out with a _personal website._ That gives you lots of opportunities. Other than introducing yourself and putting a nice _portfolio_ online, you should use it as the head quarters of your _own brand._
 
 People who visit your website, **_must_** get to know who you are, what you do, and what you have to offer in a nice stylish way.  
 People whose wavelength would match your content, will always want to know more about you and your business. So make sure you are prepared for that. Create a _platform_ for them to gather together and share thought and knowledge. Some people prefer Discord, some people prefer Reddit and even Telegram, YouTube, Instagram and other social media platforms. It depends on what you want to propose to them.
 
-####   
+#### 
+
 What Can You Really Propose To Keep The Community Rolling?
 
-  
 I mean, there are a lot of opportunities, but what are we really talking about?  
 The field of _CGI_ is so vast that it takes a huge effort just to scratch the surface.  
 Here are some activities you can do to try to **_make a difference_** and **_stand out_** in your community.
@@ -53,34 +52,40 @@ Here are some activities you can do to try to **_make a difference_** and **_sta
 
 If you're passionate about the field you are trying to develop in, as an artist and individual human being, you may have a lot of to talk about. So why not sharing your thoughts with the people who are already interested in what you do? Make it easier for them to literally hear from you!
 
-#####   
+##### 
+
 Articles and Blogs
 
 _Written_ articles and posts, are perfect for contents that need to be _referenced_ or _bookmarked_ for later usages by your audience. Some _walkthroughs_ are also easier to get back to, when written. So have that in mind, just take your time and transfer your knowledge carefully through written words.  
 Also, in a more relaxed _Blog_ environment, you could always share stuff related to your _lifestyle._ I mean, what it takes to be _you_?
 
-#####   
+##### 
+
 Reviews and Critiques
 
 Have you watched a recent _PIXAR_ movie that you liked? Or some goofy _VFX_ on the weekend? Maye a _video game_ you just finished playing? Come tell people what you think about them and what makes a movie or a featured animated movie or mostly a video game, a better one, from your perspective as a _professional._  
-If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways. 
+If you are a musician or painter, it doesn't matter, it still applies. It's a human thing that were interested in other people's opinions. We're social beings anyways.
 
-#####   
+##### 
+
 Tutorials and Free Goodies
 
 Remember how you had to search everywhere some years ago to find the _free brush_ / _alpha_ / _texture_ or _3d model_ you needed? Now it's all much easier to find. Though professional-grade quality digital assets are still extremely challenging to find. So let's try to make the world a better place by sharing the knowledge and tools for the community to expand and grow and prosper. Much as like as we all did in human evolution across history. _Learn from others and pass it down for the yearning._
 
-#####   
+##### 
+
 Videos
 
 You can use videos for almost _any_ purpose. You could try going _live_ with other professional artists or just quickly pointing out the _tip_ or _trick_ of the day. Lots of ground to cover here. The choice is yours. But whatever you do, do it in a **_style _**that you wished people had created when you were a student. Again, **_add values_**. Don't forget that.
 
-#####   
+##### 
+
 Artworks
 
 If you're going to fill your social media _only_ with your artworks, it's totally fine. Just make sure you have the stability and _constant online presence_ for that's another **_key_** in _online marketing_ as _artists_. So this usually means **_high quality/time ratio_**. You need to be fast enough to ensure you deliver some quality artworks in just 1 or 2 days. So I think most _3D artists_ and _animators_ and _traditional sculptors_ are ruled out of the game! Maybe _2D artists_ or _prototype concept artists_ would find this option more suitable.
 
-#####   
+##### 
+
 Consider Taking Polls and Q&A
 
 Sometimes a question answered to an art student, could mean a lot to them, therefore, **_create value_** for them. So why not doing that time to time?  
@@ -221,3 +226,7 @@ _\~Direct Business_
 This recently popular medium have already shaped a new form of collectors. It will probably readjust its shape to get into balance a little bit more in near future, but the newly formed collectors will remain in tact, though less in numbers, and yet more professional.
 
 So you may need to collaborate with art curators and collectors. Also much like traditional art gallery business, community is the key in this sort of business. So make sure you surround yourself with inspiring people.
+
+#### How Many Categories You Should Consider Investing?
+
+You cannot pick too many, can you? I guessed not, and that's fine. Considering the amount of time and effort it takes for each category to get to a point that you stand out from the crowd and actually rolls as a business, you cannot go too far numerically with picking the categories. Because each one of the take a 
