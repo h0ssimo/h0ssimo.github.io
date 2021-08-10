@@ -16,15 +16,15 @@ featured: false
 showtags: false
 
 ---
-If you're stuck professionally at some point in your career as an artist in general, it's not all your fault. You can be a good _3d modeler, painter_, _sculptor_ or _texturing artist_ and still not getting the deserved recognition. Of course having a strong portfolio is quite essential, so still try to get better on a daily basis; but it's only half the way, if not less! Business-wise, there's not much point at having some amazing artworks where no one can really see them, or nobody knows why they may actually need your skills in their projects. That's where _Marketing_ and _Business Plans_ come in.
+If you're stuck professionally at some point in your career as an artist, it's not all your fault. You can be a good _3d modeler, painter_, _sculptor_ or _texturing artist_ and still not getting the deserved recognition. Of course having a strong portfolio is quite essential, so still try to get better on a daily basis; but it's only half the way, if not less! Business-wise, there's not much point at having some amazing artworks where no one can really see them, or nobody knows why they may actually need your skills in their projects. That's where _Marketing_ and _Business Plans_ come in.
 
 **_\~dissclaimer:_** as I mentioned earlier, the ideas in this article are my mere _suggestions._ So it may not apply to your professional style. In either case, I keep my fingers crossed that somebody out there find this article helpful. :)
 
 **What's the Goal?**
 
-If we're talking about any kind of serious business on which you can rely for lifetime, in my opinion, there must be a nice balance between your art and monetizing on your art or skills. (perfect balance are extremely rare, if at all)
+If we're talking about any kind of serious business on which you can rely for lifetime, in my opinion, there must be a nice balance between your art and monetizing on your art or skills. (perfect balance are extremely rare, if at all, so go easy on yourself!)
 
-You have to stabilize and grow financially as individual, so considering you have your artworks ready, in this article we're gonna discuss on how you may monetize. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand with some extra cash to grow the business in a constructive way. So that's clear.
+You have to stabilize and grow financially as an individual, so considering you have your artworks ready, in this article we're gonna discuss how you may monetize on them. After all, a successful business plan is the one which puts you in a nice starting point and ready to expand; with some extra cash to grow the business in a constructive way. So that's clear.
 
 **What's the Plan?**
 
